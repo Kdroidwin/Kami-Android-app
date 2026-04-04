@@ -371,7 +371,7 @@
 
 ## その他ゲーム
 - [shogidroid](http://shogidroid.siganus.com/) `Proprietary`- 将棋アプリ。
-- [PGsharp](https://www.pgsharp.com/) - ポケモンGO チートアプリ。
+- [PGsharp](https://www.pgsharp.com/)`Proprietary`- ポケモンGO チートアプリ。
 
 ## 非推奨
 - Videoder `Proprietary`
