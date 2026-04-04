@@ -121,7 +121,7 @@
 
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️ - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
-- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
+- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️- Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
 - [Myinsta](https://t.me/instasmashrepo) `Proprietary`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
 - [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
@@ -139,7 +139,7 @@
 
 ## SMS
 - [QUIK SMS](https://github.com/octoshrimpy/quik) - SMSアプリ。QKSMS のフォーク。
-- [Messages](https://f-droid.org/packages/org.prauga.messages/) - 現代風デザインを持つSMS/MMS用メッセージングアプリ。自動でOTPを検出。上記のQuickベース。
+- [Messages](https://f-droid.org/packages/org.prauga.messages/) ⭐️- 現代風デザインを持つSMS/MMS用メッセージングアプリ。自動でOTPを検出。上記のQuickベース。
 - [Copy SMS Code - OTP Helper](https://f-droid.org/packages/io.github.jd1378.otphelper/) - 通知を読み取って、通知からOTPとコードを自動的にコピーできる。
 
 ## メール
@@ -155,7 +155,7 @@
   TachiyomiSY、aniyomi、Tachidesk(PC向け) などのフォークもある。
 - [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
 - [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) - tachiyomiJ2K のフォーク。一部機能が追加。
-- [Yōkai](https://github.com/null2264/yokai) - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
+- [Yōkai](https://github.com/null2264/yokai)⭐️ - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
 - [keiyoushi extensions](https://github.com/keiyoushi/extensions) - tachiyomi / Mihon の拡張機能レポジトリ。
 - [Pupil](https://github.com/tom5079/Pupil) - hitomi ビューアー。
 - [Boorusphere](https://github.com/nullxception/boorusphere) - Booruビューアー。
@@ -271,10 +271,10 @@
 ## カレンダー
 - [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) `Proprietary`- カレンダーアプリ。シンプルかつ高機能。バックアップ可能。
 - [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
-- [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
+- [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐️- カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
 
 ## 天気
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐️- OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
 
 ## 電卓
 - [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
