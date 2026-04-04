@@ -134,7 +134,7 @@
 - [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) - Telegram のダウンロード速度制限解除。
 - [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
 - [LIME](https://github.com/Chipppppppppp/LIME) - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
-- [LIMEs](https://github.com/areteruhiro/LIME-beta-hiro)⭐️ - LIME のベータ版フォーク。
+- [LIMEs](https://github.com/areteruhiro/LIMEs)⭐️ - LIME のフォーク。
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- メッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
 
