@@ -357,7 +357,7 @@
 
 
 ## PCゲーム / ノベルゲーム系
-- [Kirikiroid2　V2](https://androidvisualnovels2.wordpress.com/kirikiroid2/) `Proprietary`   - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
+- [Kirikiroid2　V2](https://avn2pointzero.wordpress.com/kirikiroid2/) `Proprietary`   - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
 - [Kirikiroid2-Debloated](https://github.com/enaix/Kirikiroid2-debloated)⭐️ - 元の Kirikiroid2 から不要なものを削除している。
 - [Artroid](https://myskrpatch.tistory.com/82)`Proprietary` - PC向けノベルゲーム（Artemis Engine）が遊べる。
 - [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2) - AliceSoft の System 3.x のゲームを遊ぶ。
