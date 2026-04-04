@@ -2,11 +2,302 @@
 おすすめ　アプリ集
 
 
-# 目次
+## 目次
+- [動画](#動画)
+- [ファイル関連](#ファイル関連)
+- [音楽](#音楽)
 - [ブラウザ](#ブラウザ)
+- [5ch](#5ch)
+- [SNS & メール](#sns--メール)
+- [本](#本)
+- [カメラ関連](#カメラ関連)
+- [画像関連](#画像関連)
+- [APK関連](#apk関連)
+- [自動化](#自動化)
+- [System](#system)
+- [AI](#ai)
+- [Life](#life)
+- [セキュリティ](#セキュリティ)
+- [通信](#通信)
+- [エミュレーター](#エミュレーター)
 
-### ブラウザ
 
-- [Cromite](https://github.com/uazo/cromite) - プライバシーに配慮したchromium系ブラウザ　chrome拡張機能が使える
+## 動画
 
-- [Firefox and Chromium | Madaidan's Insecurities](https://madaidans-insecurities.github.io/firefox-chromium.html)
+- [YouTube ReVanced extended anddea ver](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342) - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
+- [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
+- [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
+- [StanDroid](https://github.com/kusamaru/StanDroid) - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
+- [Stremio](https://www.stremio.com/downloads) - メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
+- [Animiru](https://github.com/Quickdesh/Animiru) - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
+- [Anilab](https://anilab.to) - あるが、Animiru より機能が劣るのであまりおすすめではない。
+- [Miru](https://github.com/miru-project/miru-app) - ビデオ、コミック、小説の拡張機能をサポートする多用途アプリ。
+- [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
+  - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
+  - [日本のみ](https://iptv-org.github.io/iptv/countries/jp.m3u)
+- [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。GooglePlay版は更新が遅いので非推奨。
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt) - mpv-android をベースにし、Jetpack Compose で構築された Android 用メディアプレーヤー。VLCよりカスタマイズ豊富。
+- [mpvExtended](https://github.com/marlboro-advance/mpvEx) - mpv-android をベースにした多機能メディアプレーヤー。ファイル管理もできる。
+- [Nextplayer](https://github.com/anilbeesetti/nextplayer) - シンプルなメディアプレーヤー。UIがかなり良い。
+- [Xtra](https://github.com/crackededed/Xtra) - Twitchクライアント。広告なし、オープンソース。動画をダウンロードできる。
+- [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - 旧TwitchMOD。公式TwitchのUIと同じ。
+
+## ファイル関連
+
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードできる。torrentや画像、字幕ファイルなども対応。  
+  有料版は広告非表示やテーマ変更が可能。
+- [DownloadNavi](https://f-droid.org/) - FLOSSがいいならこちら。
+- [WEB画像検索・ダウンローダ](https://play.google.com/store/apps/details?id=com.beta9dev.imagedownloader) - 改悪されているので微妙。1DMのファイル抽出のほうがおすすめ。
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
+- [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
+- [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
+- [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
+- [Videoder](https://example.com) - 非推奨。
+- [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa) - nyaa のアプリ。トラッカー機能あり。
+- [PikPak](https://mypikpak.com/en-US) - 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
+- [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
+- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/) - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
+- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/) - MiXplorer の beta版。
+- [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/) - MiXplorer でzipファイル等を開くアドオン。
+- [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) - 動画や音楽にタグ付けできるアドオン。
+- [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
+- [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
+
+## 音楽
+
+- [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) - YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
+- [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
+- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - シンプルで使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
+- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) - カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
+- [BlackplayerEX](https://example.com) - 上記以外の候補。
+- [Neutron](https://example.com) - 上記以外の候補。
+- [pulsar](https://example.com) - 上記以外の候補。
+- [MetroMusic](https://example.com) - 上記以外の候補。
+- [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
+- [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
+- [RootlessJamesDSP](https://f-droid.org/ja/packages/me.timschneeberger.rootlessjamesdsp/) - イコライザー。
+- [BoostX](https://github.com/AumGupta/BoostX) - Androidデバイスの音量をシステム制限以上にブースト。
+- [SongSync](https://github.com/Lambada10/SongSync) - 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
+
+## ブラウザ
+
+- [Cromite](https://github.com/uazo/cromite) - プライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
+- [IronFox](https://gitlab.com/ironfox-oss/IronFox) - Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
+- [Tor browser](https://www.torproject.org/ja/download/#android) - オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
+- [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED) - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
+- [Brave](https://example.com) - 積極的設定で使う候補。
+- [berry browser](https://example.com) - 候補。
+- [Ultimatum](https://example.com) - 候補。
+- [ElixirBrowser](https://example.com) - 候補。
+- [WebLibre](https://example.com) - 候補。
+- [Feeder](https://github.com/spacecowboy/Feeder) - RSSリーダー。全文表示が可能。ブロックリスト対応。
+- [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) - WebViewを利用したブラウザ。広告ブロック可能。
+- [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) - chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
+- [Select Text to Search](https://f-droid.org/ja/packages/me.zhanghai.android.textselectionwebsearch/) - Androidのテキスト選択メニューにウェブ検索を追加する。
+
+## 5ch
+
+- [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate) - おすすめの5ちゃんねるブラウザ。
+- [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) - dev版。
+- [ChMate 0.8.10.192 dev](https://2chmate.en.uptodown.com/android/download/1031578010) - インライン広告導入前の最後のバージョン。
+- [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja) - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
+- [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
+- [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) - 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
+- [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) - AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
+
+## SNS & メール
+
+- [Twitter Revanced piko](https://github.com/crimera/twitter-apk) - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
+- [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
+- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
+- [Myinsta](https://t.me/instasmashrepo) - Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
+- [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
+- [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
+- [Aliucord](https://github.com/Aliucord/Manager/tree/v1.1.1) - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
+- [Kettu](https://github.com/C0C0B01/Kettu) - Discord の非公式改造クライアント。Vendetta のフォークである Bunny のさらにフォーク。Aliucord と違い最新。kettuManager からインストール。
+- [Nagram](https://github.com/NextAlone/Nagram) - NekogramX のフォーク。Telegram の非公式クライアント。翻訳機能あり。
+- [Cherrygram](https://example.com) - Telegram公式フォークの候補。
+- [NekoX](https://example.com) - Telegram系候補。
+- [Nullgram](https://example.com) - NekoX と Nekogram の統合系候補。
+- [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) - Telegram のダウンロード速度制限解除。
+- [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
+- [LIME](https://github.com/Chipppppppppp/LIME) - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
+- [LIMEs](https://github.com/areteruhiro/LIME-beta-hiro) - LIME のベータ版フォーク。
+- [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/) - メッセージアプリ。
+- [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
+- [QUIK SMS](https://github.com/octoshrimpy/quik) - SMSアプリ。QKSMS のフォーク。
+- [Messages](https://f-droid.org/packages/org.prauga.messages/) - 現代風デザインを持つSMS/MMS用メッセージングアプリ。自動でOTPを検出。上記のQuickベース。
+- [Copy SMS Code - OTP Helper](https://f-droid.org/packages/io.github.jd1378.otphelper/) - 通知を読み取って、通知からOTPとコードを自動的にコピーできる。
+- [Tuta](https://f-droid.org/ja/packages/de.tutao.tutanota/) - 最も安全な電子メールサービスを自称する。
+- [Proton Mail](https://github.com/ProtonMail/android-mail) - プライバシー重視の暗号化メールサービス。
+- [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Google Play サービス(GMS)のプッシュ通知が使えない環境で Proton Mail の新着メールを通知したい人向け。
+- [ThunderBird](https://github.com/thunderbird/thunderbird-android/releases) - メールアプリ。
+- [OpenKeychain](https://www.openkeychain.org/) - メールのエンドツーエンド暗号化。
+
+## 本
+
+- [mihon](https://github.com/mihonapp/mihon) - tachiyomi の後継。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。  
+  TachiyomiSY、aniyomi、Tachidesk(PC向け) などのフォークもある。
+- [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
+- [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) - tachiyomiJ2K のフォーク。一部機能が追加。
+- [Yōkai](https://github.com/null2264/yokai) - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
+- [keiyoushi extensions](https://github.com/keiyoushi/extensions) - tachiyomi / Mihon の拡張機能レポジトリ。
+- [Pupil](https://github.com/tom5079/Pupil) - hitomi ビューアー。
+- [Boorusphere](https://github.com/nullxception/boorusphere) - Booruビューアー。
+- [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) - なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
+- [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) - Comitto の後継。自炊ビューワー。
+- [kotatsu](https://example.com) - 他にも候補あり。
+
+## カメラ関連
+
+- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) - Pixel以外にも使える。優秀な補正が可能。
+- [Google Camera 移植版の解説](https://smartasw.com/archives/5492) - 他のスマホに導入する方法の参考。
+- [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - 写真をスキャンしてデータ化する。
+- [vFlatScan](https://example.com) - 他の候補。
+
+## 画像関連
+
+- [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases/releases) - ギャラリーアプリ。アルバムをフォルダごとに分けられる。隠しフォルダ機能あり。  
+  32bit非対応のスマートフォンは 10.0α 以上を入れる。
+- [Gallary (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
+- [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) - シンプルと多機能を兼ね備えたギャラリーアプリ。
+- [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) - 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
+- [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
+- [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) - Adobe の編集アプリ。Revanced Manager でアンロック可能。
+- [Snapseed](https://example.com) - 簡易的な加工なら十分。
+- [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
+- [PaperKnife](https://github.com/potatameister/PaperKnife) - プライバシー重視のPDFユーティリティ。結合、分割、圧縮、編集を100%ローカルで実行。
+- [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) - UIがわかりやすく多機能な画像編集ソフト。
+- [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
+- [Waifu2x ncnn](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) - 使い方が難しいならこちら。広告あり。
+
+## APK関連
+
+- [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) - Playストア代替。匿名で使用可能。
+- [LuckyPatcher](https://www.luckypatchers.com/download/) - アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
+- [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、日本語対応していないアプリを対応させることも可能。
+- [Apktool M](https://t.me/apktool_m) - アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
+- [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
+- [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch) - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは twifucker / disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
+- [NPatch](https://github.com/7723mod/NPatch) - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
+- [Install with Options](https://github.com/zacharee/InstallWithOptions) - Android 14 のターゲット SDK 制限のバイパス、特定のパッケージのダウングレード。分割APKのインストールや複数のアプリの一括インストール。
+- [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - 最強クラスのAndroidインストーラー代替アプリ。APK / XAPK / APKS / APKM / ZIP内のAPK など対応。低いターゲットSDKのブロックをバイパス可能。無駄な警告をカットする。上級者向け。
+- [KingInstaller](https://github.com/fcaronte/KingInstaller) - GooglePla経由でインストールしたと見せかけるアプリインストーラー。ADBが使えるユーザーならpm installすれば良いだけでこのアプリは不要。
+- [App cloner](https://appcloner.app/) - アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
+- [AppManager](https://github.com/MuntashirAkon/AppManager) - アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
+- [Obtainium](https://github.com/ImranR98/Obtainium) - アプリをGithubやF-Droidなどから取得して更新。似たアプリにApkupdaterなどがある。
+- [ReVanced Manager](https://github.com/ReVanced/revanced-manager) - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
+
+## 自動化
+
+- [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
+- [Tasker](https://tasker.joaoapps.com) - 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
+- [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) - Taskerのヘルパーアプリ。
+- [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) - タッチ操作を記録・再生できるマクロツール。
+
+## System
+
+- [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/) - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
+- [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) - プライバシー、カスタマイズ性を重視したキーボードアプリ。
+- [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
+- [Lawnchair](https://lawnchair.app/) - Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
+- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) - アイコンパック。ダークでシンプル。
+- [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) - カスタムウィジェット作成アプリ。
+- [QuickCursor](https://github.com/micku7zu/QuickCursor) - 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
+- [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) - 扇形サブランチャー。
+- [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
+- [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
+- [DroidOS](https://github.com/Katsuyamaki/DroidOS) - スマホをPCのような操作に変える Samsung DeX の代替。既存のAndroid上に、独自のウィンドウ管理レイヤーを被せる。
+- [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) - ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。
+- [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - インターネット クイック設定パネルをAndroid11のようにして、Wifiパネルを復活させる。
+- [Essentials](https://github.com/sameerasw/essentials) - 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
+- [Canta](https://github.com/samolego/Canta) - システムアプリを簡単に削除。どれをアンインストールすべきかがわかる。
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools) - システムアプリの削除、アプリのダウングレード、アプリ毎に音量調整、ADBシェルなどの機能が使える凄いアプリである。
+- [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) - アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
+- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - 特定のアプリを通信させないようにする。
+- [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr?tab=readme-ov-file) - デバイスのMaterialyouの色変更。微調整。
+- [TapTap](https://github.com/KieronQuinn/TapTap) - 背面ダブルタップによるショートカットを追加。
+- [System UI Tuner (Tweaker)](https://github.com/zacharee/Tweaker) - ステータスバーの調整など。
+- [Amarok](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - アプリを隠すアプリ。
+- [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
+- [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
+- [Link sheet](https://github.com/1fexd/LinkSheet) - Android12以降　URLから開かれるアプリの優先順位などを定める。ClearURLs や Fastfoward の機能も使える。
+- [Copy](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy) - アプリ上の選択できないテキストをコピー。
+- [KDE connect](https://kdeconnect.kde.org/download.html) - 複数デバイス間でやり取り。説明すると長くなるので省略。使いこなせればかなり凄いアプリ。
+- [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
+- [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
+- [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) - クイック設定パネルをカスタマイズ。
+- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps) - 位置偽装。ポケモンGOとかではおそらく使えない。
+- [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) - Google Fit の歩数偽造アプリ。
+- [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US) - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
+- [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
+- [Gadgetbridge](https://gadgetbridge.org/) - ベンダーアプリ(Sony Sound Connectなど)を必要とせずに、スマートウォッチ、ヘッドフォン、イヤホンなどのさまざまなガジェットをペアリングして管理できる、無料のオープンソースアプリ。
+
+## AI
+
+- [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - インターネット接続を必要とせずにさまざまなAIと対話できます。DeepSeek R1 も可能。
+- [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) - chatGPTをアシスタントアプリにするプラグイン。
+
+## Life
+
+- [tasks](https://github.com/tasks/tasks) - ToDOリスト。
+- [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
+- [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) - 好きなものを何でも記録。メモ。
+- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) - カレンダーアプリ。シンプルかつ高機能。バックアップ可能。
+- [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
+- [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
+- [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
+- [new-clock](https://github.com/qw123wh/new-clock) - AOSPベースの時計アプリ。
+- [Photo math](https://play.google.com/store/apps/details?id=com.microblink.photomath) - 電卓。途中式も教えてくれる。revanced managerからアンロック可能。
+- [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) - 高機能なPDFビューアー。PDFダークモード対応。他にも secure pdf 等も。
+- [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) - メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
+- [Obsidian](https://obsidian.md/download) - 個人の知識管理やノート作成のためのアプリ。Markdown形式対応。
+- [Collabora Office](https://www.collaboraonline.com/collabora-office/) - Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
+- [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
+- [Notification notes](https://f-droid.org/ja/packages/com.khuttun.notificationnotes/) - メモを通知に表示する。
+- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - バッテリーの劣化具合を確認できる。
+- [Cube ACR](https://cubeacr.app/) - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
+- [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
+- [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) - プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
+- [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
+- [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader) - suicaやicoca等の残高確認。広告ありでも良いならこちらが代替。
+- [Extinguish](https://github.com/Moderpach/Extinguish) - 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android) - 暗記アプリ。ネット上から単語をダウンロードして覚えられる。英語学習などに使える。
+- [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
+- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - プライバシーに配慮したマップアプリ。航空写真対応。
+- [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
+- [Traccar Client](https://github.com/traccar/traccar-client) - GPS 位置情報をリアルタイムで追跡・管理。
+- [LineageOS関係のアプリ](https://www.apkmirror.com/apk/lineageos/) - 他にもおすすめ。
+
+## セキュリティ
+
+- [KeePassDX](https://www.keepassdx.com/) - オープンソースのオフラインパスワードマネージャー。
+- [Bitwarden](https://github.com/bitwarden/android) - オープンソースのクラウドパスワードマネージャー。ローカル保存型のKeePassDXを正しく運用すればややセキュリティは上回る可能性があるが、使いやすさはこちらのほうが上。
+- [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) - Bitwarden の Android クライアント。アプリの UX とパフォーマンスに重点を置きつつ、公式 Bitwarden Android アプリが持つすべての機能をサポートする。ただし公式実装との差異があるため、セキュリティは劣る可能性がある。
+- [Aegis](https://github.com/beemdevelopment/Aegis) - 2FA（二要素認証）アプリ。セキュリティと使いやすさ、良いUIを兼ねそろえている。他のデバイスと同期したい方は Proton Authenticator を勧める。
+- [URLCheck](https://github.com/TrianguloY/URLCheck) - URL を開く前に分析（または共有）できるようにする。フィッシング手法からの保護に役立つ。
+- [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTagを発見し、他人からのトラッカーから身を守る。
+- [Cryptomator](https://cryptomator.org/downloads/) - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
+
+## 通信
+
+- [AdGuard](https://adguard.com/ja/adguard-android/overview.html) - かなりの広告をブロック出来る。LINEの広告も設定によってはブロック可能。NextDNS を使うことでこのアプリと同じくらいのことはできるが、アプリを使ったほうがアプリごとのホワイトリスト・ブラックリスト作成やファイアウォールが可能。
+- [WiFi Analyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - WiFi関連のツール。
+- [Naiveproxy For Android](https://github.com/Dobiec/NaiveproxyForAndroid) - Shizukuを使用して naiveproxy を実行する。
+- [Mullvad vpn](https://mullvad.net/ja) - 有料VPN。ポート転送はないので注意。
+- [Air VPN](https://airvpn.org/) - 有料VPN。ポート転送あり。
+- [Orbot](https://orbot.app/en/) - Torネットワークのクライアントとして動作し、匿名性の高いTorネットワーク上でのWebブラウジングや電子メール送受信、地図ソフトの使用などを実現する。簡単に言うと、ほとんどのAndroidアプリの通信をTor経由にする。上級者向け。
+- [TorServices](https://f-droid.org/ja/packages/org.torproject.torservices/) - Orbotを拡張。
+
+## エミュレーター
+
+- [UserLAnd](https://f-droid.org/ja/packages/tech.ula/) - Android上でUbuntu、Debian、Kaliなどの各種Linuxを動かせるアプリ。
+- [Blackbox64](https://github.com/FBlackBox/BlackBox/releases) - Android仮想環境。rootなしでxposed使用可能。
+- [VPhoneOS](https://vphoneos.com/mobile/index/) - Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
+- [Termux（F-Droid ver）](https://f-droid.org/packages/com.termux/) - Linuxを動かせる。SSH接続が可能。Wine（Linux向けWindowsエミュレーター）も使える。revancifyやyt-dlpなども使える。
+- [winlator](https://example.com) - ExaGearをリバースエンジニアリングして64bit対応させたものと思われる。AndroidでWindowsソフトを動かす最も簡単な方法（Wine使用）。
