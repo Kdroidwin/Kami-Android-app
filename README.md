@@ -10,7 +10,7 @@
 ソースコードは公開されず、利用・改変・再配布に制限がある
 
 - `Proprietary(Patch)`
-パッチはOSSであることが多いが、パッチ対象のアプリはProprietary（プロプライエタリ）
+パッチはOSSであることが多いが、パッチ対象のアプリはProprietary（プロプライエタリ）例: YouTube Revanced
 
 ## 目次
 - [動画](#動画)
