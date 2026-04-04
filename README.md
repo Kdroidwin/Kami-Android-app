@@ -99,10 +99,9 @@
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
 - [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️ - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
-- [berry browser](https://example.com) `Proprietary`- 候補。
-- [Ultimatum](https://example.com) - 候補。
-- [ElixirBrowser](https://example.com) ⭐️`Proprietary`- 候補。
-- [WebLibre](https://example.com) ⭐️- 候補。
+- [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary`- 候補。
+- [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) ⭐️`Proprietary`- 候補。
+- [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
 - [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) - WebViewを利用したブラウザ。広告ブロック可能。
 - [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) `Proprietary`- chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
@@ -129,7 +128,6 @@
 - [Kettu](https://github.com/C0C0B01/Kettu) - Discord の非公式改造クライアント。Vendetta のフォークである Bunny のさらにフォーク。Aliucord と違い最新。kettuManager からインストール。
 - [Nagram](https://github.com/NextAlone/Nagram) - NekogramX のフォーク。Telegram の非公式クライアント。翻訳機能あり。
 - [Forkgram](https://f-droid.org/ja/packages/org.forkgram.messenger/) - Telegram公式フォークの候補。
-- [Nullgram](https://example.com) - NekoX と Nekogram の統合系候補。
 - [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) - Telegram のダウンロード速度制限解除。
 - [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
 - [LIME](https://github.com/Chipppppppppp/LIME) - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
@@ -162,17 +160,17 @@
 - [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) `Proprietary`- なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) `Proprietary`- 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
 - [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) - Comitto の後継。自炊ビューワー。
-- [kotatsu](https://example.com) - 他にも候補あり。
+- [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - 漫画アプリ
 
 ## カメラ関連
 
-- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) - Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
+- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
 - [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - 写真をスキャンしてデータ化する。
-- [vFlatScan](https://example.com) - 他の候補。
+- [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) `Proprietary`- 他の候補。
 
 ## 画像関連
 
-- [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases/releases) - ギャラリーアプリ。アルバムをフォルダごとに分けられる。隠しフォルダ機能あり。  
+- [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases/releases) `Proprietary`- ギャラリーアプリ。アルバムをフォルダごとに分けられる。隠しフォルダ機能あり。  
   32bit非対応のスマートフォンは 10.0α 以上を入れる。
 - [Gallary (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
@@ -229,7 +227,7 @@
 - [Lawnchair](https://lawnchair.app/) ⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
 - [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary`- アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary`- カスタムウィジェット作成アプリ。
-- [QuickCursor](https://github.com/micku7zu/QuickCursor) - 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
+- [QuickCursor](https://github.com/micku7zu/QuickCursor) `Proprietary`- 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) `Proprietary`- 扇形サブランチャー。
 - [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) `Proprietary`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
