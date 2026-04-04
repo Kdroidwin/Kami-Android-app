@@ -49,10 +49,9 @@
 
 ## ファイル関連
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードできる。torrentや画像、字幕ファイルなども対応。  
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
   有料版は広告非表示やテーマ変更が可能。
 - [DownloadNavi](https://f-droid.org/) - FLOSSがいいならこちら。
-- [WEB画像検索・ダウンローダ](https://play.google.com/store/apps/details?id=com.beta9dev.imagedownloader) - 改悪されているので微妙。1DMのファイル抽出のほうがおすすめ。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
 - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
