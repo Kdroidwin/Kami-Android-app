@@ -296,6 +296,7 @@
 - [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) `Proprietary`- 好きなものを何でも記録。メモ。
 - [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) ⭐️- メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
 - [Obsidian](https://obsidian.md/download) - 個人の知識管理やノート作成のためのアプリ。Markdown形式対応。
+- [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) - モバイル向けのアウトライナー（ノート管理＋ToDoアプリ）
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) - Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
 - [Notification notes](https://f-droid.org/ja/packages/com.khuttun.notificationnotes/) - メモを通知に表示する。
@@ -321,6 +322,7 @@
 
 ## マップ関連
 - [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
+- [CoMaps](https://www.comaps.app/download/) - プライバシー重視のマップアプリ　OpenStreetMapベース
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
 - [Traccar Client](https://github.com/traccar/traccar-client) - GPS 位置情報をリアルタイムで追跡・管理。
