@@ -294,7 +294,7 @@
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
 - [Notification notes](https://f-droid.org/ja/packages/com.khuttun.notificationnotes/) - メモを通知に表示する。
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) `Proprietary`- バッテリーの劣化具合を確認できる。
-- [Cube ACR](https://cubeacr.app/) - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
+- [Cube ACR](https://cubeacr.app/) `Proprietary` - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) `Proprietary`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
@@ -357,9 +357,9 @@
 
 
 ## PCゲーム / ノベルゲーム系
-- [Kirikiroid2　V2](https://androidvisualnovels2.wordpress.com/kirikiroid2/) - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
+- [Kirikiroid2　V2](https://androidvisualnovels2.wordpress.com/kirikiroid2/) `Proprietary`   - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
 - [Kirikiroid2-Debloated](https://github.com/enaix/Kirikiroid2-debloated)⭐️ - 元の Kirikiroid2 から不要なものを削除している。
-- [Artroid](https://myskrpatch.tistory.com/82) - PC向けノベルゲーム（Artemis Engine）が遊べる。
+- [Artroid](https://myskrpatch.tistory.com/82)`Proprietary` - PC向けノベルゲーム（Artemis Engine）が遊べる。
 - [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2) - AliceSoft の System 3.x のゲームを遊ぶ。
 - [xsystem4-android](https://github.com/kichikuou/xsystem4-android) - AliceSoft の System 4 のゲームを遊ぶ。
 - [winlator](https://github.com/brunodev85/winlator) - ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
