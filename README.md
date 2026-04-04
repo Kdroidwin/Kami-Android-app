@@ -9,8 +9,7 @@
 企業や開発元が独占的に所有・管理しているソフトウェアや技術
 ソースコードは公開されず、利用・改変・再配布に制限がある
 
-- `Proprietary(Patch)`
-パッチはOSSであることが多いが、パッチ対象のアプリはProprietary（プロプライエタリ）例: YouTube Revanced
+
 
 ## 目次
 - [動画](#動画)
@@ -41,11 +40,11 @@
 
 ## 動画
 
-- [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`Proprietary(Patch)` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
+- [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️ - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)⭐️ - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
 - [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
 - [StanDroid](https://github.com/kusamaru/StanDroid) - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
-- [Stremio](https://www.stremio.com/downloads) - メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
+- [Stremio](https://www.stremio.com/downloads) `Proprietary`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️ - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
 - [Miru](https://github.com/miru-project/miru-app) - ビデオ、コミック、小説の拡張機能をサポートする多用途アプリ。
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
@@ -56,11 +55,11 @@
 - [mpvExtended](https://github.com/marlboro-advance/mpvEx) ⭐️- mpv-android をベースにした多機能メディアプレーヤー。ファイル管理もできる。
 - [Nextplayer](https://github.com/anilbeesetti/nextplayer) - シンプルなメディアプレーヤー。UIがかなり良い。
 - [Xtra](https://github.com/crackededed/Xtra) - Twitchクライアント。広告なし、オープンソース。動画をダウンロードできる。
-- [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - 旧TwitchMOD。公式TwitchのUIと同じ。
+- [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) `Proprietary` - 旧TwitchMOD。公式TwitchのUIと同じ。
 
 ## ファイル関連
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⭐️- ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⭐️`Proprietary`- ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
   有料版は広告非表示やテーマ変更が可能。
 - [DownloadNavi](https://f-droid.org/) - FLOSSがいいならこちら。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
@@ -68,13 +67,13 @@
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa) - nyaa のアプリ。トラッカー機能あり。
-- [PikPak](https://mypikpak.com/en-US) - 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
+- [PikPak](https://mypikpak.com/en-US) `Proprietary`- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
-- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️⭐️ - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
-- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/) - MiXplorer の beta版。
-- [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/) - MiXplorer でzipファイル等を開くアドオン。
-- [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) - 動画や音楽にタグ付けできるアドオン。
-- [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
+- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️⭐️`Proprietary` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
+- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️⭐️`Proprietary` - MiXplorer の beta版。
+- [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/)`Proprietary` - MiXplorer でzipファイル等を開くアドオン。
+- [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) `Proprietary`- 動画や音楽にタグ付けできるアドオン。
+- [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
 - [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
 
@@ -83,11 +82,11 @@
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
-- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️- シンプルで使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
-- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) - カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
+- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary`- シンプルで使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
+- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
 - [BlackplayerEX](https://example.com) - 上記以外の候補。
 - [Neutron](https://example.com) - 上記以外の候補。
-- [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) - 上記以外の候補。
+- [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) `Proprietary`- 上記以外の候補。
 - [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
 - [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
 - [RootlessJamesDSP](https://f-droid.org/ja/packages/me.timschneeberger.rootlessjamesdsp/) - イコライザー。
@@ -101,31 +100,30 @@
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
 - [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️ - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
-- [berry browser](https://example.com) - 候補。
+- [berry browser](https://example.com) `Proprietary`- 候補。
 - [Ultimatum](https://example.com) - 候補。
-- [ElixirBrowser](https://example.com) ⭐️- 候補。
+- [ElixirBrowser](https://example.com) ⭐️`Proprietary`- 候補。
 - [WebLibre](https://example.com) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
 - [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) - WebViewを利用したブラウザ。広告ブロック可能。
-- [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) - chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
+- [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) `Proprietary`- chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
 - [Select Text to Search](https://f-droid.org/ja/packages/me.zhanghai.android.textselectionwebsearch/) - Androidのテキスト選択メニューにウェブ検索を追加する。
 
 ## 5ch
 
-- [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate) - おすすめの5ちゃんねるブラウザ。
-- [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) - dev版。
-- [ChMate 0.8.10.192 dev](https://2chmate.en.uptodown.com/android/download/1031578010) - インライン広告導入前の最後のバージョン。
-- [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja) - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
+- [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate) `Proprietary`- おすすめの5ちゃんねるブラウザ。
+- [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) `Proprietary`- dev版。
+- [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
-- [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) - 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
-- [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) - AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
+- [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) `Proprietary`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
+- [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) `Proprietary`- AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
 
 ## SNS
 
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️ - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
 - [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
-- [Myinsta](https://t.me/instasmashrepo) - Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
+- [Myinsta](https://t.me/instasmashrepo) `Proprietary`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
 - [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
 - [Aliucord](https://github.com/Aliucord/Manager/tree/v1.1.1) - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
@@ -185,19 +183,19 @@
 簡易的な加工ならSnapseedで十分
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
 - [PaperKnife](https://github.com/potatameister/PaperKnife) - プライバシー重視のPDFユーティリティ。結合、分割、圧縮、編集を100%ローカルで実行。
-- [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) - UIがわかりやすく多機能な画像編集ソフト。
+- [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) `Proprietary`- UIがわかりやすく多機能な画像編集ソフト。
 - [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
 
 ## APK関連
 
-- [LuckyPatcher](https://www.luckypatchers.com/download/) - アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
+- [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary`- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、日本語対応していないアプリを対応させることも可能。
-- [Apktool M](https://t.me/apktool_m) - アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
+- [Apktool M](https://t.me/apktool_m) `Proprietary`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
 - [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
 - [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️ - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
 - [NPatch](https://github.com/7723mod/NPatch) - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
-- [App cloner](https://appcloner.app/) - アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
+- [App cloner](https://appcloner.app/) `Proprietary`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
 
 
@@ -229,7 +227,7 @@
 - [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
 
 ## ランチャー関連
-- [Lawnchair](https://lawnchair.app/) - Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
+- [Lawnchair](https://lawnchair.app/) ⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
 - [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) - アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) - カスタムウィジェット作成アプリ。
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) - 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
@@ -271,16 +269,27 @@
 ## Life
 
 - [tasks](https://github.com/tasks/tasks) ⭐️- ToDOリスト。
-- [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
-- [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) - 好きなものを何でも記録。メモ。
-- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) - カレンダーアプリ。シンプルかつ高機能。バックアップ可能。
+
+
+## カレンダー
+- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) `Proprietary`- カレンダーアプリ。シンプルかつ高機能。バックアップ可能。
 - [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
+
+
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
+
+## 電卓
 - [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
-- [new-clock](https://github.com/qw123wh/new-clock) - AOSPベースの時計アプリ。
 - [Photo math](https://play.google.com/store/apps/details?id=com.microblink.photomath) - 電卓。途中式も教えてくれる。revanced managerからアンロック可能。
+
+- [new-clock](https://github.com/qw123wh/new-clock) - AOSPベースの時計アプリ。
+
 - [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) - 高機能なPDFビューアー。PDFダークモード対応。他にも secure pdf 等も。
+
+## メモ
+- [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
+- [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) - 好きなものを何でも記録。メモ。
 - [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) ⭐️- メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
 - [Obsidian](https://obsidian.md/download) - 個人の知識管理やノート作成のためのアプリ。Markdown形式対応。
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) - Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
@@ -328,7 +337,7 @@
 
 - [UserLAnd](https://f-droid.org/ja/packages/tech.ula/) - Android上でUbuntu、Debian、Kaliなどの各種Linuxを動かせるアプリ。
 - [Blackbox64](https://github.com/FBlackBox/BlackBox/releases) - Android仮想環境。rootなしでxposed使用可能。
-- [VPhoneOS](https://vphoneos.com/mobile/index/) - Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
+- [VPhoneOS](https://vphoneos.com/mobile/index/) `Proprietary`- Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
 - [Termux（F-Droid ver）](https://f-droid.org/packages/com.termux/) - Linuxを動かせる。SSH接続が可能。Wine（Linux向けWindowsエミュレーター）も使える。revancifyやyt-dlpなども使える。
 - [Winlator](https://github.com/brunodev85/Winlator) ⭐️- ExaGearをリバースエンジニアリングして64bit対応させたものと思われる。AndroidでWindowsソフトウェアを動かす最も簡単な方法（Wine使用）。
 
@@ -365,11 +374,11 @@
 - [PGsharp](https://www.pgsharp.com/) - ポケモンGO チートアプリ。
 
 ## 非推奨
-- Videoder
-- YMusic
-- [Anilab](https://anilab.to) - あるが、Animiru より機能が劣るのであまりおすすめではない。
-- [Waifu2x ncnn](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) - 使い方が難しいならありだがクローズドソースで広告＆トラッカーあり。
-- [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) - DSエミュレーター。すでに終了
+- Videoder `Proprietary`
+- YMusic `Proprietary`
+- [Anilab](https://anilab.to) `Proprietary`- あるが、Animiru より機能が劣るのであまりおすすめではない。
+- [Waifu2x ncnn](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) `Proprietary` - 使い方が難しいならありだがクローズドソースで広告＆トラッカーあり。
+- [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) `Proprietary`- DSエミュレーター。すでに終了
 
 
 
