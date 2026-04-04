@@ -232,6 +232,7 @@
 - [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) `Proprietary`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
 - [DroidOS](https://github.com/Katsuyamaki/DroidOS) - スマホをPCのような操作に変える Samsung DeX の代替。既存のAndroid上に、独自のウィンドウ管理レイヤーを被せる。
+- [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) - スマホをPCのような操作に変える Samsung DeX の代替
 
 
 - [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) ⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。
