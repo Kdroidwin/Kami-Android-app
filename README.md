@@ -9,7 +9,9 @@
 - [音楽](#音楽)
 - [ブラウザ](#ブラウザ)
 - [5ch](#5ch)
-- [SNS & メール](#sns--メール)
+- [SNS](#sns)
+- [SMS](#sms)
+- [メール](#メール)
 - [本](#本)
 - [カメラ関連](#カメラ関連)
 - [画像関連](#画像関連)
@@ -112,7 +114,7 @@
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) - 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
 - [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) - AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
 
-## SNS & メール
+## SNS
 
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk) - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
@@ -132,9 +134,13 @@
 - [LIMEs](https://github.com/areteruhiro/LIME-beta-hiro) - LIME のベータ版フォーク。
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/) - メッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
+
+## SMS
 - [QUIK SMS](https://github.com/octoshrimpy/quik) - SMSアプリ。QKSMS のフォーク。
 - [Messages](https://f-droid.org/packages/org.prauga.messages/) - 現代風デザインを持つSMS/MMS用メッセージングアプリ。自動でOTPを検出。上記のQuickベース。
 - [Copy SMS Code - OTP Helper](https://f-droid.org/packages/io.github.jd1378.otphelper/) - 通知を読み取って、通知からOTPとコードを自動的にコピーできる。
+
+## メール
 - [Tuta](https://f-droid.org/ja/packages/de.tutao.tutanota/) - 最も安全な電子メールサービスを自称する。
 - [Proton Mail](https://github.com/ProtonMail/android-mail) - プライバシー重視の暗号化メールサービス。
 - [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Google Play サービス(GMS)のプッシュ通知が使えない環境で Proton Mail の新着メールを通知したい人向け。
