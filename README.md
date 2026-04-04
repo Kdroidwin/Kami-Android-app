@@ -346,7 +346,7 @@
 - [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch) ⭐️- ファミコン、GB、GBC、GBA、DS、3DS、N64、Wii、GC、PSP、PS2などに対応したゲームが遊べる。オープンソース。ちなみに mGBA プラグインはおすすめ。
 - [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US) - NES、SNES、GB、GBA、DS、3DS、N64、PSX、PSPなどに対応したエミュレーター。オープンソース。
 - [melonDS](https://play.google.com/store/apps/details?id=me.magnum.melonds&hl=en_US&pcampaignid=APPU_1_x_soZu2mIqC4vr0P0pC3kAk) ⭐️- DSエミュレーター。オープンソース。
-- [Borked3DS](https://github.com/Borked3DS/Borked3DS) - citra-mmj のフォークである Lime3DS のフォーク。ニンテンドー3DSのゲームが遊べる。アップスケーリングあり。
+- [Azahar](https://github.com/azahar-emu/azahar) - Citraのフォーク。ニンテンドー3DSのゲームが遊べる。アップスケーリングあり。
 - [Eden emulater](https://github.com/eden-emulator/Releases) ⭐️- Switchエミュレーター。keys と firmware が必要。
 - [Dolphin emulator](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu) - GC / Wii エミュレーター。
 - [Cemu Android](https://github.com/SSimco/Cemu) ⭐️- Wii U エミュレーター。
