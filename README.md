@@ -29,7 +29,7 @@
 
 ## 動画
 
-- [YouTube ReVanced extended anddea ver](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`Proprietary` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
+- [YouTube ReVanced extended anddea ver](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`Proprietary(Patch)` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
 - [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
 - [StanDroid](https://github.com/kusamaru/StanDroid) - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
