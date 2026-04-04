@@ -24,7 +24,7 @@
 - [ゲームエミュレーター](#ゲームエミュレーター)
 - [PCゲーム / ノベルゲーム系](#pcゲーム--ノベルゲーム系)
 - [ゲーム関連ツール](#ゲーム関連ツール)
-- [その他ゲーム(参考)](#その他ゲーム(参考))
+- [その他ゲーム](#その他ゲーム)
 
 
 ## 動画
@@ -337,6 +337,6 @@
 - [Console Launcher](https://github.com/likeich/console-launcher) - ゲームランチャー。
 - [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker) - 画面回転制御。強制的に横画面にできる。
 
-## その他ゲーム(参考)
+## その他ゲーム
 - [shogidroid](http://shogidroid.siganus.com/) - 将棋アプリ。
 - [PGsharp](https://www.pgsharp.com/) - ポケモンGO チートアプリ。
