@@ -21,6 +21,10 @@
 - [セキュリティ](#セキュリティ)
 - [通信](#通信)
 - [エミュレーター](#エミュレーター)
+- [ゲームエミュレーター](#ゲームエミュレーター)
+- [PCゲーム / ノベルゲーム系](#pcゲーム--ノベルゲーム系)
+- [ゲーム関連ツール](#ゲーム関連ツール)
+- [その他ゲーム(参考)](#その他ゲーム(参考))
 
 
 ## 動画
@@ -302,3 +306,37 @@
 - [VPhoneOS](https://vphoneos.com/mobile/index/) - Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
 - [Termux（F-Droid ver）](https://f-droid.org/packages/com.termux/) - Linuxを動かせる。SSH接続が可能。Wine（Linux向けWindowsエミュレーター）も使える。revancifyやyt-dlpなども使える。
 - [winlator](https://example.com) - ExaGearをリバースエンジニアリングして64bit対応させたものと思われる。AndroidでWindowsソフトを動かす最も簡単な方法（Wine使用）。
+
+
+## ゲームエミュレーター
+- [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch) - ファミコン、GB、GBC、GBA、DS、3DS、N64、Wii、GC、PSP、PS2などに対応したゲームが遊べる。オープンソース。ちなみに mGBA プラグインはおすすめ。
+- [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid&hl=en_US) - NES、SNES、GB、GBA、DS、3DS、N64、PSX、PSPなどに対応したエミュレーター。オープンソース。
+- [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) - DSエミュレーター。
+- [melonDS](https://play.google.com/store/apps/details?id=me.magnum.melonds&hl=en_US&pcampaignid=APPU_1_x_soZu2mIqC4vr0P0pC3kAk) - DSエミュレーター。オープンソース。
+- [Borked3DS](https://github.com/Borked3DS/Borked3DS) - citra-mmj のフォークである Lime3DS のフォーク。ニンテンドー3DSのゲームが遊べる。アップスケーリングあり。
+- [Eden emulater](https://github.com/eden-emulator/Releases) - Switchエミュレーター。keys と firmware が必要。
+- [Dolphin emulator](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu) - GC / Wii エミュレーター。
+- [Cemu Android](https://github.com/SSimco/Cemu) - Wii U エミュレーター。
+- [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) - PSPエミュレーター。アップスケーリングあり。タッチコントローラー設定変更可能。コントローラー対応。
+- [Vita3K android](https://github.com/Vita3K/Vita3K-Android) - PS Vita エミュレーター。
+- [DuckStation](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation&hl=en_AU&gl=US) - PS1エミュレーター。
+- [NetherSX2](https://github.com/Trixarian/NetherSX2-patch) - PS2エミュレーター。AetherSX2の改造版。パッチを当てる必要がある。AetherSX2 は公式ページのアーカイブからダウンロードすると良い。
+
+
+## PCゲーム / ノベルゲーム系
+- [Kirikiroid2　V2](https://androidvisualnovels2.wordpress.com/kirikiroid2/) - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
+- [Kirikiroid2-Debloated](https://github.com/enaix/Kirikiroid2-debloated) - 元の Kirikiroid2 から不要なものを削除している。
+- [Artroid](https://myskrpatch.tistory.com/82) - PC向けノベルゲーム（Artemis Engine）が遊べる。
+- [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2) - AliceSoft の System 3.x のゲームを遊ぶ。
+- [xsystem4-android](https://github.com/kichikuou/xsystem4-android) - AliceSoft の System 4 のゲームを遊ぶ。
+- [exagear](https://example.com) - Windows x86エミュレーター。Windows1.0からWindows10まで対応（winecfgをプログラムから実行でバージョンを変えられる）。Android上で exe ファイルを実行でき、Windows向けゲームやフリーソフトが使える。7zipや車輪の国向日葵の少女や rewrite などは動いた。
+- [winlator](https://github.com/brunodev85/winlator) - ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
+
+## ゲーム関連ツール
+- [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) - コントローラー用のスクリーンマッピングアプリ。
+- [Console Launcher](https://github.com/likeich/console-launcher) - ゲームランチャー。
+- [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker) - 画面回転制御。強制的に横画面にできる。
+
+## その他ゲーム(参考)
+- [shogidroid](http://shogidroid.siganus.com/) - 将棋アプリ。
+- [PGsharp](https://www.pgsharp.com/) - ポケモンGO チートアプリ。
