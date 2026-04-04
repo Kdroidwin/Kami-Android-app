@@ -1,5 +1,6 @@
 # Kami-Android-app
 おすすめ　アプリ集
+- [予備のCodebergリポジトリ](https://codeberg.org/Kdroidwin/Kami-Android-app) - バックアップ
 
 
 ## 目次
