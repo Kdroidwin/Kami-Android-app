@@ -84,6 +84,7 @@
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist) ⭐️- YouTube Musicの非公式クライアント　
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
@@ -169,7 +170,7 @@
 
 - [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
 - [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - 写真をスキャンしてデータ化する。
-- [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) `Proprietary`- 他の候補。
+- [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) `Proprietary`-スキャナーアプリ 。
 
 ## 画像関連
 
@@ -238,6 +239,7 @@
 - [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) - スマホをPCのような操作に変える Samsung DeX の代替
 
 
+## システム
 - [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) ⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。
 - [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - インターネット クイック設定パネルをAndroid11のようにして、Wifiパネルを復活させる。
 - [Essentials](https://github.com/sameerasw/essentials) - 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
@@ -297,11 +299,21 @@
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) - Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
 - [Notification notes](https://f-droid.org/ja/packages/com.khuttun.notificationnotes/) - メモを通知に表示する。
+
+## バッテリー
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) `Proprietary`- バッテリーの劣化具合を確認できる。
+
+## 録音
 - [Cube ACR](https://cubeacr.app/) `Proprietary` - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
+
+## ポイント
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) `Proprietary`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
+
+## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
+
+## 交通
 - [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader) - suicaやicoca等の残高確認。
 
 ## 学習
