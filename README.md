@@ -381,6 +381,6 @@
 - [Waifu2x ncnn](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) `Proprietary` - 使い方が難しいならありだがクローズドソースで広告＆トラッカーあり。
 - [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) `Proprietary`- DSエミュレーター。すでに終了
 
-
+- [WEB画像検索・ダウンローダ](https://play.google.com/store/apps/details?id=com.beta9dev.imagedownloader) - 改悪されているので微妙。1DMのファイル抽出のほうがおすすめ。
 
 
