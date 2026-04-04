@@ -82,10 +82,9 @@
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
-- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary`- シンプルで使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
+- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
-- [BlackplayerEX](https://example.com) - 上記以外の候補。
-- [Neutron](https://example.com) - 上記以外の候補。
+- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US)`Proprietary` - シンプルで使いやすい音楽再生プレイヤー
 - [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) `Proprietary`- 上記以外の候補。
 - [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
 - [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
@@ -160,8 +159,8 @@
 - [keiyoushi extensions](https://github.com/keiyoushi/extensions) - tachiyomi / Mihon の拡張機能レポジトリ。
 - [Pupil](https://github.com/tom5079/Pupil) - hitomi ビューアー。
 - [Boorusphere](https://github.com/nullxception/boorusphere) - Booruビューアー。
-- [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) - なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) - 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
+- [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) `Proprietary`- なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) `Proprietary`- 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
 - [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) - Comitto の後継。自炊ビューワー。
 - [kotatsu](https://example.com) - 他にも候補あり。
 
@@ -179,7 +178,7 @@
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
 - [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) - 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
-- [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) - Adobe の編集アプリ。Revanced Manager でアンロック可能。
+- [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) `Proprietary`- Adobe の編集アプリ。Revanced Manager でアンロック可能。
 簡易的な加工ならSnapseedで十分
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
 - [PaperKnife](https://github.com/potatameister/PaperKnife) - プライバシー重視のPDFユーティリティ。結合、分割、圧縮、編集を100%ローカルで実行。
@@ -217,7 +216,7 @@
 - [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
 - [Tasker](https://tasker.joaoapps.com) - 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
 - [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) - Taskerのヘルパーアプリ。
-- [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) - タッチ操作を記録・再生できるマクロツール。
+- [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) `Proprietary`- タッチ操作を記録・再生できるマクロツール。
 
 ## キーボード/ ボタンマッパー
 
@@ -228,11 +227,11 @@
 
 ## ランチャー関連
 - [Lawnchair](https://lawnchair.app/) ⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
-- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) - アイコンパック。ダークでシンプル。
-- [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) - カスタムウィジェット作成アプリ。
+- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary`- アイコンパック。ダークでシンプル。
+- [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary`- カスタムウィジェット作成アプリ。
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) - 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
-- [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) - 扇形サブランチャー。
-- [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
+- [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) `Proprietary`- 扇形サブランチャー。
+- [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) `Proprietary`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
 - [DroidOS](https://github.com/Katsuyamaki/DroidOS) - スマホをPCのような操作に変える Samsung DeX の代替。既存のAndroid上に、独自のウィンドウ管理レイヤーを被せる。
 
@@ -242,7 +241,7 @@
 - [Essentials](https://github.com/sameerasw/essentials) - 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
 - [Canta](https://github.com/samolego/Canta) ⭐️- システムアプリを簡単に削除。どれをアンインストールすべきかがわかる。
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)⭐️ - システムアプリの削除、アプリのダウングレード、アプリ毎に音量調整、ADBシェルなどの機能が使える凄いアプリである。
-- [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) - アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
+- [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) `Proprietary`- アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
 - [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr?tab=readme-ov-file) - デバイスのMaterialyouの色変更。微調整。
 - [TapTap](https://github.com/KieronQuinn/TapTap) - 背面ダブルタップによるショートカットを追加。
 - [System UI Tuner (Tweaker)](https://github.com/zacharee/Tweaker) - ステータスバーの調整など。
@@ -250,25 +249,23 @@
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Link sheet](https://github.com/1fexd/LinkSheet) - Android12以降　URLから開かれるアプリの優先順位などを定める。ClearURLs や Fastfoward の機能も使える。
-- [Copy](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy) - アプリ上の選択できないテキストをコピー。
+- [Copy](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy) `Proprietary`- アプリ上の選択できないテキストをコピー。
 - [KDE connect](https://kdeconnect.kde.org/download.html) - 複数デバイス間でやり取り。説明すると長くなるので省略。使いこなせればかなり凄いアプリ。
 - [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
 - [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
-- [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) - クイック設定パネルをカスタマイズ。
-- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps) - 位置偽装。ポケモンGOとかではおそらく使えない。
-- [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) - Google Fit の歩数偽造アプリ。
-- [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US) - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
+- [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) `Proprietary`- クイック設定パネルをカスタマイズ。
+- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps)`Proprietary` - 位置偽装。ポケモンGOとかではおそらく使えない。
+- [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) `Proprietary`- Google Fit の歩数偽造アプリ。
+- [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US)`Proprietary` - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
 - [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
 - [Gadgetbridge](https://gadgetbridge.org/) - ベンダーアプリ(Sony Sound Connectなど)を必要とせずに、スマートウォッチ、ヘッドフォン、イヤホンなどのさまざまなガジェットをペアリングして管理できる、無料のオープンソースアプリ。
+- [Extinguish](https://github.com/Moderpach/Extinguish) - 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
+
 
 ## AI
 
 - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - インターネット接続を必要とせずにさまざまなAIと対話できます。DeepSeek R1 も可能。
 - [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) - chatGPTをアシスタントアプリにするプラグイン。
-
-## Life
-
-- [tasks](https://github.com/tasks/tasks) ⭐️- ToDOリスト。
 
 
 ## カレンダー
@@ -276,32 +273,36 @@
 - [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) - カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
 
-
+## 天気
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
 
 ## 電卓
 - [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
-- [Photo math](https://play.google.com/store/apps/details?id=com.microblink.photomath) - 電卓。途中式も教えてくれる。revanced managerからアンロック可能。
+- [Photo math](https://play.google.com/store/apps/details?id=com.microblink.photomath) `Proprietary`- 電卓。途中式も教えてくれる。revanced managerからアンロック可能。
 
+## 時計
 - [new-clock](https://github.com/qw123wh/new-clock) - AOSPベースの時計アプリ。
 
+## PDF
 - [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) - 高機能なPDFビューアー。PDFダークモード対応。他にも secure pdf 等も。
 
-## メモ
+## メモ、記録
+- [tasks](https://github.com/tasks/tasks) ⭐️- ToDOリスト。
 - [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
-- [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) - 好きなものを何でも記録。メモ。
+- [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) `Proprietary`- 好きなものを何でも記録。メモ。
 - [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) ⭐️- メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
 - [Obsidian](https://obsidian.md/download) - 個人の知識管理やノート作成のためのアプリ。Markdown形式対応。
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) - Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
 - [Notification notes](https://f-droid.org/ja/packages/com.khuttun.notificationnotes/) - メモを通知に表示する。
-- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - バッテリーの劣化具合を確認できる。
+- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) `Proprietary`- バッテリーの劣化具合を確認できる。
 - [Cube ACR](https://cubeacr.app/) - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
-- [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) - プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
+- [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) `Proprietary`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
-- [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader) - suicaやicoca等の残高確認。広告ありでも良いならこちらが代替。
-- [Extinguish](https://github.com/Moderpach/Extinguish) - 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
+- [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader) - suicaやicoca等の残高確認。
+
+## 学習
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - 暗記アプリ。ネット上から単語をダウンロードして覚えられる。英語学習などに使える。
 
 ## マップ関連
@@ -309,6 +310,7 @@
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
 - [Traccar Client](https://github.com/traccar/traccar-client) - GPS 位置情報をリアルタイムで追跡・管理。
+
 - [LineageOS関係のアプリ](https://www.apkmirror.com/apk/lineageos/) - 他にもおすすめ。
 
 ## セキュリティ
@@ -365,12 +367,12 @@
 - [winlator](https://github.com/brunodev85/winlator) - ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
 
 ## ゲーム関連ツール
-- [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) - コントローラー用のスクリーンマッピングアプリ。
-- [Console Launcher](https://github.com/likeich/console-launcher) - ゲームランチャー。
-- [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker) - 画面回転制御。強制的に横画面にできる。
+- [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) `Proprietary`- コントローラー用のスクリーンマッピングアプリ。
+- [Console Launcher](https://github.com/likeich/console-launcher) `Proprietary`- ゲームランチャー。
+- [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker) `Proprietary`- 画面回転制御。強制的に横画面にできる。
 
 ## その他ゲーム
-- [shogidroid](http://shogidroid.siganus.com/) - 将棋アプリ。
+- [shogidroid](http://shogidroid.siganus.com/) `Proprietary`- 将棋アプリ。
 - [PGsharp](https://www.pgsharp.com/) - ポケモンGO チートアプリ。
 
 ## 非推奨
