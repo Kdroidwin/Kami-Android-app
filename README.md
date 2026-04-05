@@ -19,9 +19,12 @@
 # チュートリアル
 基本的にF-DroidやAccrescentからインストールしてください。
 Obtainiumを使う際もこのことを覚えておいてください。
+IzzyOnDroidはマルウェアあったケースもあるので注意してください。
+GithubやPlayストアはもちろんマルウェアが多いです。
 [参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
 
 GooglePlayストアではなくAuroraStoreを使ってトラッカーや権限などを確認してください。Shizukuを使えばインストールは簡単になります。
+
 
 
 ## 目次
