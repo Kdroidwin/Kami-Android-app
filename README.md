@@ -14,7 +14,7 @@
 - `TD`   
 トラスト前提（trust-based distribution）
 非再現可能ビルドや依存関係の問題があるアプリにこのマークが付けられる。GitHub Actionsが有効になっていないリポジトリはほぼ必ずこれに該当する。
-このマークがない場合F-Droidでインストールできることが多い。
+このマークがない場合F-Droidでインストールできることが多い。ただし、Proton系、Bitwardenは第三者監査があるので除外している。
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
@@ -248,8 +248,8 @@
 ## 自動化
 
 - [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
-- [Tasker](https://tasker.joaoapps.com) - 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
-- [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) - Taskerのヘルパーアプリ。
+- [Tasker](https://tasker.joaoapps.com) `Proprietary,TD`- 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
+- [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ。
 - [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) `Proprietary,TD`- タッチ操作を記録・再生できるマクロツール。
 
 ## キーボード/ ボタンマッパー
