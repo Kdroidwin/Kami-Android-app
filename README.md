@@ -16,7 +16,7 @@
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
-#チュートリアル
+# チュートリアル
 基本的にF-DroidやAccrescentからインストールしてください。
 Obtainiumを使う際もこのことを覚えておいてください。
 [参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
