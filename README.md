@@ -7,13 +7,21 @@
 - ⭐️　 おすすめ
 - `Proprietary`       
 開発元が独占的に所有・管理しているソフトウェアや技術
-ソースコードは公開されず、改変・再配布に制限がある
+ソースコードは公開されず、改変・再配布に制限がある。
+プロプライエタリだから危険、オープンソースだから安全というわけではないです。
 
 - `TD`   
 トラスト前提（trust-based distribution）
 非再現可能ビルドや依存関係の問題があるアプリにこのマークが付けられる。
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
+
+#チュートリアル
+基本的にF-DroidやAccrescentからインストールしてください。
+Obtainiumを使う際もこのことを覚えておいてください。
+[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
+
+GooglePlayストアではなくAuroraStoreを使ってトラッカーや権限などを確認してください。Shizukuを使えばインストールは簡単になります。
 
 
 ## 目次
@@ -74,8 +82,8 @@
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa) - nyaa のアプリ。トラッカー機能あり。
 - [PikPak](https://mypikpak.com/en-US) `Proprietary`- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
-- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️⭐️`Proprietary` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
-- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️⭐️`Proprietary` - MiXplorer の beta版。
+- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
+- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary` - MiXplorer の beta版。
 - [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/)`Proprietary` - MiXplorer でzipファイル等を開くアドオン。
 - [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) `Proprietary`- 動画や音楽にタグ付けできるアドオン。
 - [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
@@ -86,7 +94,7 @@
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
-- [Metrolist](https://github.com/MetrolistGroup/Metrolist) ⭐️- YouTube Musicの非公式クライアント　
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Musicの非公式クライアント　
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
@@ -106,7 +114,7 @@
 - [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️ - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
 - [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary`- 候補。
-- [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) ⭐️`Proprietary`- 候補。
+- [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) `Proprietary`- 候補。
 - [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
 - [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) - WebViewを利用したブラウザ。広告ブロック可能。
@@ -126,7 +134,7 @@
 
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️ - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
-- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️- Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
+- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
 - [Myinsta](https://t.me/instasmashrepo) `Proprietary`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
 - [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
