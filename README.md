@@ -21,7 +21,7 @@
 Proton系、Bitwarden、Mullvad VPN　など
 
 
--⚰️
+- ⚰️
 開発終了/2年以上更新していない
 
 - ⚠️
