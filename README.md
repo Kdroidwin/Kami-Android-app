@@ -152,7 +152,7 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 - [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate) `Proprietary,TD`- おすすめの5ちゃんねるブラウザ。
 - [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) `Proprietary,TD`- dev版。
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
-- [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
+- [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) `Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
 - [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) `Proprietary,TD`- AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
 
@@ -160,18 +160,18 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
-- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
+- [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️`TD` - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
 - [Myinsta](https://t.me/instasmashrepo) `Proprietary,TD`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
-- [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
-- [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
-- [Aliucord](https://github.com/Aliucord/Manager/tree/v1.1.1) - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
-- [Kettu](https://github.com/C0C0B01/Kettu) - Discord の非公式改造クライアント。Vendetta のフォークである Bunny のさらにフォーク。Aliucord と違い最新。kettuManager からインストール。
-- [Nagram](https://github.com/NextAlone/Nagram) - NekogramX のフォーク。Telegram の非公式クライアント。翻訳機能あり。
+- [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) `TD` - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
+- [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) `TD` - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
+- [Aliucord](https://github.com/Aliucord/Manager/tree/v1.1.1) `TD` - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
+- [Kettu](https://github.com/C0C0B01/Kettu) `TD` - Discord の非公式改造クライアント。Vendetta のフォークである Bunny のさらにフォーク。Aliucord と違い最新。kettuManager からインストール。
+- [Nagram](https://github.com/NextAlone/Nagram) `TD` - NekogramX のフォーク。Telegram の非公式クライアント。翻訳機能あり。
 - [Forkgram](https://f-droid.org/ja/packages/org.forkgram.messenger/) - Telegram公式フォークの候補。
-- [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) - Telegram のダウンロード速度制限解除。
-- [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
-- [LIME](https://github.com/Chipppppppppp/LIME) - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
-- [LIMEs](https://github.com/areteruhiro/LIMEs)⭐️ - LIME のフォーク。
+- [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) `TD` - Telegram のダウンロード速度制限解除。
+- [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) `TD` - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
+- [LIME](https://github.com/Chipppppppppp/LIME) `TD` - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
+- [LIMEs](https://github.com/areteruhiro/LIMEs)⭐️`TD`  - LIME のフォーク。
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- メッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
 
@@ -182,30 +182,29 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 
 ## メール
 - [Tuta](https://f-droid.org/ja/packages/de.tutao.tutanota/) ⭐️- 最も安全な電子メールサービスを自称する。
-- [Proton Mail](https://github.com/ProtonMail/android-mail) 🔍- プライバシー重視の暗号化メールサービス。
+- [Proton Mail](https://github.com/ProtonMail/android-mail) ⭐️`TD` 🔍- プライバシー重視の暗号化メールサービス。
 - [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Google Play サービス(GMS)のプッシュ通知が使えない環境で Proton Mail の新着メールを通知したい人向け。
-- [ThunderBird](https://github.com/thunderbird/thunderbird-android/releases) ⭐️- メールアプリ。
+- [ThunderBird](https://github.com/thunderbird/thunderbird-android/releases) ⭐️`TD` - メールアプリ。
 - [OpenKeychain](https://www.openkeychain.org/) - メールのエンドツーエンド暗号化。
 
 ## 本
 
-- [mihon](https://github.com/mihonapp/mihon) - tachiyomi の後継。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。  
+- [mihon](https://github.com/mihonapp/mihon) `TD` - tachiyomi の後継。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。  
   TachiyomiSY、aniyomi、Tachidesk(PC向け) などのフォークもある。
-- [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
-- [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) - tachiyomiJ2K のフォーク。一部機能が追加。
-- [Yōkai](https://github.com/null2264/yokai)⭐️ - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
-- [keiyoushi extensions](https://github.com/keiyoushi/extensions) - tachiyomi / Mihon の拡張機能レポジトリ。
-- [Pupil](https://github.com/tom5079/Pupil) - hitomi ビューアー。
-- [Boorusphere](https://github.com/nullxception/boorusphere) - Booruビューアー。
+- [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) `TD` - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
+- [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) `TD` - tachiyomiJ2K のフォーク。一部機能が追加。
+- [Yōkai](https://github.com/null2264/yokai)⭐️`TD`  - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
+- [keiyoushi extensions](https://github.com/keiyoushi/extensions) ⭐️`TD` - tachiyomi / Mihon の拡張機能レポジトリ。
+- [Pupil](https://github.com/tom5079/Pupil) `TD` - hitomi ビューアー。
 - [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) `Proprietary,TD`- なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) `Proprietary,TD`- 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
-- [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) - Comitto の後継。自炊ビューワー。
-- [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - 漫画アプリ
+- [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) `TD` - Comitto の後継。自炊ビューワー。
+- [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) `TD` - 漫画アプリ
 
 ## カメラ関連
 
 - [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary,TD`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
-- [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - 写真をスキャンしてデータ化する。
+- [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐️`TD` - 写真をスキャンしてデータ化する。
 - [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) `Proprietary,TD`-スキャナーアプリ 。
 
 ## 画像関連
@@ -218,20 +217,20 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
 - [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) `Proprietary,TD`- Adobe の編集アプリ。Revanced Manager でアンロック可能。
 簡易的な加工ならSnapseedで十分
-- [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
-- [PaperKnife](https://github.com/potatameister/PaperKnife) - プライバシー重視のPDFユーティリティ。結合、分割、圧縮、編集を100%ローカルで実行。
+- [ImageToolbox](https://github.com/T8RIN/ImageToolbox) ⭐️`TD` - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
+- [PaperKnife](https://github.com/potatameister/PaperKnife) `TD` - プライバシー重視のPDFユーティリティ。結合、分割、圧縮、編集を100%ローカルで実行。
 - [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) `Proprietary,TD`- UIがわかりやすく多機能な画像編集ソフト。
-- [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
+- [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) ⭐️`TD` - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
 
 ## APK関連
 
 - [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、日本語対応していないアプリを対応させることも可能。
 - [Apktool M](https://t.me/apktool_m) `Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
-- [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
-- [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️ - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
-- [NPatch](https://github.com/7723mod/NPatch) - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
-- [ReVanced Manager](https://github.com/ReVanced/revanced-manager) - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
+- [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) `TD` - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
+- [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
+- [NPatch](https://github.com/7723mod/NPatch) `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
+- [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
 - [App cloner](https://appcloner.app/) `Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
 
@@ -244,14 +243,14 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 
 ## インストーラー
 
-- [Install with Options](https://github.com/zacharee/InstallWithOptions) - Android 14 のターゲット SDK 制限のバイパス、特定のパッケージのダウングレード。分割APKのインストールや複数のアプリの一括インストール。
-- [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐️- 最強クラスのAndroidインストーラー代替アプリ。APK / XAPK / APKS / APKM / ZIP内のAPK など対応。低いターゲットSDKのブロックをバイパス可能。無駄な警告をカットする。上級者向け。
-- [KingInstaller](https://github.com/fcaronte/KingInstaller) - GooglePlay経由でインストールしたと見せかけるアプリインストーラー。ADBが使えるユーザーならpm installすれば良いだけでこのアプリは不要。
+- [Install with Options](https://github.com/zacharee/InstallWithOptions) `TD` - Android 14 のターゲット SDK 制限のバイパス、特定のパッケージのダウングレード。分割APKのインストールや複数のアプリの一括インストール。
+- [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐️`TD` - 最強クラスのAndroidインストーラー代替アプリ。APK / XAPK / APKS / APKM / ZIP内のAPK など対応。低いターゲットSDKのブロックをバイパス可能。無駄な警告をカットする。上級者向け。
+- [KingInstaller](https://github.com/fcaronte/KingInstaller) `TD` - GooglePlay経由でインストールしたと見せかけるアプリインストーラー。ADBが使えるユーザーならpm installすれば良いだけでこのアプリは不要。
 
 
 ## 自動化
 
-- [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
+- [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker)  - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
 - [Tasker](https://tasker.joaoapps.com) `Proprietary,TD`- 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
 - [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ。
 - [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) `Proprietary,TD`- タッチ操作を記録・再生できるマクロツール。
@@ -259,9 +258,9 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 ## キーボード/ ボタンマッパー
 
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
-- [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) ⭐️- プライバシー、カスタマイズ性を重視したキーボードアプリ。
+- [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) `TD` - プライバシー、カスタマイズ性を重視したキーボードアプリ。
 
-- [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
+
 
 ## ランチャー関連
 - [Lawnchair](https://lawnchair.app/) ⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
@@ -300,7 +299,7 @@ Proton系、Bitwardenは第三者監査があるので除外している。
 - [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
 - [Gadgetbridge](https://gadgetbridge.org/) - ベンダーアプリ(Sony Sound Connectなど)を必要とせずに、スマートウォッチ、ヘッドフォン、イヤホンなどのさまざまなガジェットをペアリングして管理できる、無料のオープンソースアプリ。
 - [Extinguish](https://github.com/Moderpach/Extinguish) - 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
-
+- [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
 
 ## AI
 
