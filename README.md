@@ -18,7 +18,7 @@
 
 - 🔍
 クライアント側の第三者監査あり
-Proton系、Bitwardenは第三者監査があるので除外している。
+Proton系、Bitwarden、Mullvad VPN　など
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
