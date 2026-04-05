@@ -13,8 +13,12 @@
 
 - `TD`   
 トラスト前提（trust-based distribution）
-非再現可能ビルドや依存関係の問題があるアプリにこのマークが付けられる。GitHub Actionsが有効になっていないリポジトリはほぼ必ずこれに該当する。
-このマークがない場合F-Droidでインストールできることが多い。ただし、Proton系、Bitwardenは第三者監査があるので除外している。
+主に第三者がビルド同一性を検証できない配布モデルにこのマークが付けられる。
+このマークがない場合F-Droidでインストールできることが多い。
+
+- 🔍
+クライアント側の第三者監査あり
+Proton系、Bitwardenは第三者監査があるので除外している。
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
@@ -178,7 +182,7 @@
 
 ## メール
 - [Tuta](https://f-droid.org/ja/packages/de.tutao.tutanota/) ⭐️- 最も安全な電子メールサービスを自称する。
-- [Proton Mail](https://github.com/ProtonMail/android-mail) - プライバシー重視の暗号化メールサービス。
+- [Proton Mail](https://github.com/ProtonMail/android-mail) 🔍- プライバシー重視の暗号化メールサービス。
 - [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Google Play サービス(GMS)のプッシュ通知が使えない環境で Proton Mail の新着メールを通知したい人向け。
 - [ThunderBird](https://github.com/thunderbird/thunderbird-android/releases) ⭐️- メールアプリ。
 - [OpenKeychain](https://www.openkeychain.org/) - メールのエンドツーエンド暗号化。
@@ -365,19 +369,19 @@
 ## セキュリティ
 
 - [KeePassDX](https://www.keepassdx.com/) - オープンソースのオフラインパスワードマネージャー。
-- [Bitwarden](https://github.com/bitwarden/android) ⭐️- オープンソースのクラウドパスワードマネージャー。ローカル保存型のKeePassDXを正しく運用すればややセキュリティは上回る可能性があるが、使いやすさはこちらのほうが上。
+- [Bitwarden](https://github.com/bitwarden/android) 🔍⭐️- オープンソースのクラウドパスワードマネージャー。ローカル保存型のKeePassDXを正しく運用すればややセキュリティは上回る可能性があるが、使いやすさはこちらのほうが上。
 - [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) - Bitwarden の Android クライアント。アプリの UX とパフォーマンスに重点を置きつつ、公式 Bitwarden Android アプリが持つすべての機能をサポートする。ただし公式実装との差異があるため、セキュリティは劣る可能性がある。
 - [Aegis](https://github.com/beemdevelopment/Aegis) ⭐️- 2FA（二要素認証）アプリ。セキュリティと使いやすさ、良いUIを兼ねそろえている。他のデバイスと同期したい方は Proton Authenticator を勧める。
 - [URLCheck](https://github.com/TrianguloY/URLCheck) - URL を開く前に分析（または共有）できるようにする。フィッシング手法からの保護に役立つ。
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTagを発見し、他人からのトラッカーから身を守る。
-- [Cryptomator](https://cryptomator.org/downloads/)⭐️ - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
+- [Cryptomator](https://cryptomator.org/downloads/)🔍⭐️ - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
 
 ## 通信
 
 - [AdGuard](https://adguard.com/ja/adguard-android/overview.html) `TD`- かなりの広告をブロック出来る。LINEの広告も設定によってはブロック可能。NextDNS を使うことでこのアプリと同じくらいのことはできるが、アプリを使ったほうがアプリごとのホワイトリスト・ブラックリスト作成やファイアウォールが可能。
 - [WiFi Analyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - WiFi関連のツール。
 - [Naiveproxy For Android](https://github.com/Dobiec/NaiveproxyForAndroid) - Shizukuを使用して naiveproxy を実行する。
-- [Mullvad vpn](https://mullvad.net/ja) ⭐️⭐️- 有料VPN。ポート転送はないので注意。
+- [Mullvad vpn](https://mullvad.net/ja) 🔍⭐️⭐️- 有料VPN。ポート転送はないので注意。
 - [Air VPN](https://airvpn.org/) - 有料VPN。ポート転送あり。
 - [Orbot](https://orbot.app/en/) - Torネットワークのクライアントとして動作し、匿名性の高いTorネットワーク上でのWebブラウジングや電子メール送受信、地図ソフトの使用などを実現する。簡単に言うと、ほとんどのAndroidアプリの通信をTor経由にする。上級者向け。
 - [TorServices](https://f-droid.org/ja/packages/org.torproject.torservices/) - Orbotを拡張。
