@@ -13,7 +13,8 @@
 
 - `TD`   
 トラスト前提（trust-based distribution）
-非再現可能ビルドや依存関係の問題があるアプリにこのマークが付けられる。
+非再現可能ビルドや依存関係の問題があるアプリにこのマークが付けられる。GitHub Actionsが有効になっていないリポジトリはほぼ必ずこれに該当する。
+このマークがない場合F-Droidでインストールできることが多い。
 
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
@@ -74,19 +75,19 @@
 
 ## 動画
 
-- [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️ - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
+- [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`TD` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)⭐️ - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
 - [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
-- [StanDroid](https://github.com/kusamaru/StanDroid) - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
+- [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
 - [Stremio](https://www.stremio.com/downloads) `Proprietary,TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
-- [Animiru](https://github.com/Quickdesh/Animiru)⭐️ - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
-- [Miru](https://github.com/miru-project/miru-app) - ビデオ、コミック、小説の拡張機能をサポートする多用途アプリ。
-- [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
+- [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
+- [Miru](https://github.com/miru-project/miru-app)`TD` - ビデオ、コミック、小説の拡張機能をサポートする多用途アプリ。
+- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
   - [日本のみ](https://iptv-org.github.io/iptv/countries/jp.m3u)
 - [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。GooglePlay版は更新が遅いので非推奨。
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt) - mpv-android をベースにし、Jetpack Compose で構築された Android 用メディアプレーヤー。VLCよりカスタマイズ豊富。
-- [mpvExtended](https://github.com/marlboro-advance/mpvEx) ⭐️- mpv-android をベースにした多機能メディアプレーヤー。ファイル管理もできる。
+- [mpvExtended](https://github.com/marlboro-advance/mpvEx) `TD`- mpv-android をベースにした多機能メディアプレーヤー。ファイル管理もできる。
 - [Nextplayer](https://github.com/anilbeesetti/nextplayer) - シンプルなメディアプレーヤー。UIがかなり良い。
 - [Xtra](https://github.com/crackededed/Xtra) - Twitchクライアント。広告なし、オープンソース。動画をダウンロードできる。
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) `Proprietary,TD` - 旧TwitchMOD。公式TwitchのUIと同じ。
@@ -95,12 +96,12 @@
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⭐️`Proprietary,TD`- ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
   有料版は広告非表示やテーマ変更が可能。
-- [DownloadNavi](https://f-droid.org/) - FLOSSがいいならこちら。
+- [DownloadNavi](https://github.com/TachibanaGeneralLaboratories/download-navi) - FLOSSがいいならこちら。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
 - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
-- [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa) - nyaa のアプリ。トラッカー機能あり。
+- [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa)`TD` - nyaa のアプリ。トラッカー機能あり。
 - [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
@@ -109,14 +110,14 @@
 - [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) `Proprietary,TD`- 動画や音楽にタグ付けできるアドオン。
 - [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary,TD`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
 - [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `TD`- 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
 
 ## 音楽
 
-- [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
+- [OuterTune](https://github.com/DD3Boh/OuterTune) `TD`- InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
-- [Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Musicの非公式クライアント　
-- [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) - YouTube Music などに対応した音楽プレイヤー。
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist) `TD`- YouTube Musicの非公式クライアント　
+- [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) `TD`- YouTube Music などに対応した音楽プレイヤー。
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary,TD`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US)`Proprietary,TD` - シンプルで使いやすい音楽再生プレイヤー
@@ -124,21 +125,21 @@
 - [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
 - [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
 - [RootlessJamesDSP](https://f-droid.org/ja/packages/me.timschneeberger.rootlessjamesdsp/) - イコライザー。
-- [BoostX](https://github.com/AumGupta/BoostX) - Androidデバイスの音量をシステム制限以上にブースト。
-- [SongSync](https://github.com/Lambada10/SongSync) - 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
+- [BoostX](https://github.com/AumGupta/BoostX) `TD`- Androidデバイスの音量をシステム制限以上にブースト。
+- [SongSync](https://github.com/Lambada10/SongSync) `TD`- 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
 
 ## ブラウザ
 
-- [Cromite](https://github.com/uazo/cromite) ⭐️⭐️- プライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
-- [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
-- [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
-- [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️ - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
+- [Cromite](https://github.com/uazo/cromite) ⭐️⭐️`TD`- プライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
+- [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️`TD`- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
+- [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️`TD`- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
+- [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️`TD` - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
 - [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary,TD`- 候補。
 - [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) `Proprietary,TD`- 候補。
 - [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
-- [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid) - WebViewを利用したブラウザ。広告ブロック可能。
+- [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid)`TD` - WebViewを利用したブラウザ。広告ブロック可能。
 - [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) `Proprietary,TD`- chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
 - [Select Text to Search](https://f-droid.org/ja/packages/me.zhanghai.android.textselectionwebsearch/) - Androidのテキスト選択メニューにウェブ検索を追加する。
 
@@ -153,7 +154,7 @@
 
 ## SNS
 
-- [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️ - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
+- [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
 - [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
 - [Myinsta](https://t.me/instasmashrepo) `Proprietary,TD`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
@@ -209,7 +210,7 @@
   32bit非対応のスマートフォンは 10.0α 以上を入れる。
 - [Gallary (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
-- [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) - 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
+- [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
 - [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) `Proprietary,TD`- Adobe の編集アプリ。Revanced Manager でアンロック可能。
 簡易的な加工ならSnapseedで十分
@@ -280,7 +281,7 @@
 - [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr?tab=readme-ov-file) - デバイスのMaterialyouの色変更。微調整。
 - [TapTap](https://github.com/KieronQuinn/TapTap) - 背面ダブルタップによるショートカットを追加。
 - [System UI Tuner (Tweaker)](https://github.com/zacharee/Tweaker) - ステータスバーの調整など。
-- [Amarok](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - アプリを隠すアプリ。
+- [Amarok](https://github.com/deltazefiro/Amarok-Hider) - アプリを隠すアプリ。
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Link sheet](https://github.com/1fexd/LinkSheet) - Android12以降　URLから開かれるアプリの優先順位などを定める。ClearURLs や Fastfoward の機能も使える。
@@ -373,7 +374,7 @@
 
 ## 通信
 
-- [AdGuard](https://adguard.com/ja/adguard-android/overview.html) - かなりの広告をブロック出来る。LINEの広告も設定によってはブロック可能。NextDNS を使うことでこのアプリと同じくらいのことはできるが、アプリを使ったほうがアプリごとのホワイトリスト・ブラックリスト作成やファイアウォールが可能。
+- [AdGuard](https://adguard.com/ja/adguard-android/overview.html) `TD`- かなりの広告をブロック出来る。LINEの広告も設定によってはブロック可能。NextDNS を使うことでこのアプリと同じくらいのことはできるが、アプリを使ったほうがアプリごとのホワイトリスト・ブラックリスト作成やファイアウォールが可能。
 - [WiFi Analyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - WiFi関連のツール。
 - [Naiveproxy For Android](https://github.com/Dobiec/NaiveproxyForAndroid) - Shizukuを使用して naiveproxy を実行する。
 - [Mullvad vpn](https://mullvad.net/ja) ⭐️⭐️- 有料VPN。ポート転送はないので注意。
