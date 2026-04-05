@@ -347,7 +347,7 @@
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
 
 ## 交通
-- [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader) - suicaやicoca等の残高確認。
+- [SuicaNFCReader](https://github.com/edenparadisus/SuicaNFCReader)  `Proprietary,TD`- suicaやicoca等の残高確認。
 
 ## 学習
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - 暗記アプリ。ネット上から単語をダウンロードして覚えられる。英語学習などに使える。
