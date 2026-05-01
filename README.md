@@ -1,7 +1,9 @@
 # Kami-Android-app
 おすすめ　アプリ集
 - [ブログのアプリ集](https://kdroidwin.hatenablog.com/entry/2023/09/05/105304) - 初心者向け記事
-- [予備のCodebergリポジトリ](https://codeberg.org/Kdroidwin/Kami-Android-app) - バックアップ
+- [Codebergリポジトリ](https://codeberg.org/Kdroidwin/Kami-Android-app) - バックアップ
+- [予備のGitFlicリポジトリ](https://gitflic.ru/project/kdroidwin/kami-android-app) - バックアップ
+- [予備のGithubリポジトリ,404エラー](https://github.com/Kdroidwin/Kami-Android-app) - バックアップ
 - これも追加すべきアプリがあったら教えてください。
 
 - ⭐️⭐️超おすすめ
@@ -14,7 +16,7 @@
 - `TD`   
 トラスト前提（trust-based distribution）
 主に第三者がビルド同一性を検証できない配布モデルにこのマークが付けられる。
-このマークがない場合F-Droidでインストールできることが多い。
+このマークがない場合F-Droidでインストールできることが多い。このマークがあれば100%危険というわけではないです。
 
 - 🔍
 クライアント側の第三者監査あり
@@ -30,12 +32,16 @@ Proton系、Bitwarden、Mullvad VPN　など
 これらのマークはつけ忘れの恐れがあるのでissueやPullRequestしていただけると幸いです。
 
 # ガイド
-- 基本的にF-DroidやAccrescentからインストールしてください。Obtainiumを使う際もこのことを覚えておいてください。
-- IzzyOnDroidはマルウェアあったケースもあるので注意してください。
-- 公式ストアやGitHubでも検証されていないアプリには注意
-- GooglePlayストアではなくAuroraStoreを使ってトラッカーや権限などを確認してください。
-- Shizukuを使えばインストールは簡単になります。
-[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
+- 基本的にF-DroidやAccrescentからインストールしてください。
+- AccrescentはF-Droidとは異なり、ストア側がビルドや署名をやり直しません。
+- Obtainiumを使う際もプライバシーやマルウェアリスクのことを考えるとF-Droidをソースにするべきことを覚えておいてください。[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
+- IzzyOnDroidではマルウェアアプリが一時的に配布されていたケースがあるので注意してください。
+- 公式ストアやGitHubでも検証されていないアプリには注意してください。
+- GooglePlayストアではなくAuroraStoreを使ってトラッカーや権限などを確認してください。Exodus Privacyを利用したトラッカーの確認ができます。
+- Shizukuを使えばADB/ワイヤレスデバッグでシステムAPIを使えるようにできObtainiumやAuroraStoreからのインストールは半自動になります。
+- [AppVerifier](https://github.com/soupslurpr/AppVerifier)を使えばAPKの署名（サイン）をチェックして、改ざんされてないか確認することができる。
+
+- 通信の解析・記録をしたいならPCAPdroidをおすすめします。
 
 
 # チュートリアル
@@ -96,12 +102,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
 - [Stremio](https://www.stremio.com/downloads) `Proprietary,TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
-- [Miru](https://github.com/miru-project/miru-app)`TD` - ビデオ、コミック、小説の拡張機能をサポートする多用途アプリ。
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
   - [日本のみ](https://iptv-org.github.io/iptv/countries/jp.m3u)
 - [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。GooglePlay版は更新が遅いので非推奨。
-- [mpvKt](https://github.com/abdallahmehiz/mpvKt) - mpv-android をベースにし、Jetpack Compose で構築された Android 用メディアプレーヤー。VLCよりカスタマイズ豊富。
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt) ⚰️ - mpv-android をベースにし、Jetpack Compose で構築された Android 用メディアプレーヤー。VLCよりカスタマイズ豊富。
 - [mpvExtended](https://github.com/marlboro-advance/mpvEx) `TD`- mpv-android をベースにした多機能メディアプレーヤー。ファイル管理もできる。
 - [Nextplayer](https://github.com/anilbeesetti/nextplayer) - シンプルなメディアプレーヤー。UIがかなり良い。
 - [Xtra](https://github.com/crackededed/Xtra) - Twitchクライアント。広告なし、オープンソース。動画をダウンロードできる。
@@ -109,15 +114,16 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## ファイル関連
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⚠️⭐️`Proprietary,TD`- ダウンロードアプリ。YouTubeや有料サブスクを除くほぼ全ての動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⚠️⭐️`Proprietary,TD`- ダウンロードアプリ。YouTubeや有料サブスクを除く多くの動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
   有料版は広告非表示やテーマ変更が可能。
-- [DownloadNavi](https://github.com/TachibanaGeneralLaboratories/download-navi) - FLOSSがいいならこちら。
+- [DownloadNavi](https://github.com/TachibanaGeneralLaboratories/download-navi) ⚰️- FLOSSがいいならこちら。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
 - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa)`Proprietary,TD` ⚰️- nyaa のアプリ。トラッカー機能あり　開発終了している。
+- [Torrent Search ](https://github.com/prajwalch/TorrentSearch) - 複数のトラッカーサイトからトレントを検索
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
-- [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。
+- [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`⚠️⚠️- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。TorBoxを試すこともおすすめする。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
 - [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary,TD` - MiXplorer の beta版。
@@ -172,17 +178,18 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
 - [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️`TD` - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
-- [Myinsta](https://t.me/instasmashrepo) `Proprietary,TD`- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
+- [Myinsta](https://t.me/instasmashrepo) `Proprietary,TD`⚠️- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
 - [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) `TD` - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
+- [Instagram piko](https://github.com/crimera/piko)  `TD` - Instagram の改造版アプリ。
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit?tab=readme-ov-file) `TD` - Reddit クライアント。もちろん英語。Revanced Manager等でアンロック可能。
-- [Aliucord](https://github.com/Aliucord/Manager/tree/v1.1.1) `TD` - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
+- [Aliucord](https://github.com/Aliucord/Manager/) `TD` - Discord の非公式改造クライアント。UIは公式と同じ。カスタムプラグイン、複製アカウント、AMOLEDブラックテーマ、メッセージお気に入り、翻訳機能など。
 - [Kettu](https://github.com/C0C0B01/Kettu) `TD` - Discord の非公式改造クライアント。Vendetta のフォークである Bunny のさらにフォーク。Aliucord と違い最新。kettuManager からインストール。
 - [Nagram](https://github.com/NextAlone/Nagram) `TD` - NekogramX のフォーク。Telegram の非公式クライアント。翻訳機能あり。
 - [Forkgram](https://f-droid.org/ja/packages/org.forkgram.messenger/) - Telegram公式フォークの候補。
 - [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) `TD` - Telegram のダウンロード速度制限解除。
 - [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) `TD` - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
-- [LIME](https://github.com/Chipppppppppp/LIME) `TD` - LINE の広告削除、VOOMタブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
-- [LIMEs](https://github.com/areteruhiro/LIMEs)⭐️`TD`  - LIME のフォーク。
+- [LIME](https://github.com/Chipppppppppp/LIME) `TD` - LINE の広告削除、タブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
+- [Knot](https://github.com/2b-zipper/Knot) `TD`-LINEの広告削除　タブ削除、アプリ内ブラウザ無効　スタンプ、着せ替え無料化など
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- メッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
 
@@ -200,7 +207,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 本
 
-- [mihon](https://github.com/mihonapp/mihon) `TD` - tachiyomi の後継。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。  
+- [Kahon](https://github.com/AmanoTeam/Kahon) - tachiyomi の後継であるmihonのフォーク。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。mihonとは異なりプライバシーを重視している。レート制限を無視できる。  
   TachiyomiSY、aniyomi、Tachidesk(PC向け) などのフォークもある。
 - [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) `TD` - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
 - [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) `TD` - tachiyomiJ2K のフォーク。一部機能が追加。
@@ -214,7 +221,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## カメラ関連
 
-- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) ⚠️`Proprietary,TD`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
+- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary,TD`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
 - [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐️`TD` - 写真をスキャンしてデータ化する。
 - [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) ⚠️`Proprietary,TD`-スキャナーアプリ 。
 
@@ -222,7 +229,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases/releases) `Proprietary,TD`- ギャラリーアプリ。アルバムをフォルダごとに分けられる。隠しフォルダ機能あり。  
   32bit非対応のスマートフォンは 10.0α 以上を入れる。
-- [Gallary (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
+- [Gallery (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
 - [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
@@ -234,7 +241,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## APK関連
 
-- [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`⚠️⚠️- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
+- [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`⚠️⚠️- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。(パッチを当てても動作しないアプリが多い。)マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、日本語対応していないアプリを対応させることも可能。
 - [Apktool M](https://t.me/apktool_m) ⚠️`Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
 - [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) `TD` - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
@@ -247,7 +254,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## アプリストア/ アプリ更新
-- [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。匿名で使用可能。
+- [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。Googleアカウントなしでも使える。
 - [Obtainium](https://github.com/ImranR98/Obtainium) ⭐️⭐️- アプリをGithubやF-Droidなどから取得して更新。似たアプリにApkupdaterなどがある。
 
 
@@ -274,7 +281,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## ランチャー関連
 - [Lawnchair](https://lawnchair.app/) `TD`⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
-- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) ⚠️`Proprietary,TD`- アイコンパック。ダークでシンプル。
+- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary,TD`- アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary,TD`- カスタムウィジェット作成アプリ。
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) `Proprietary,TD`- 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) ⚠️`Proprietary,TD`- 扇形サブランチャー。
@@ -285,14 +292,15 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## システム
-- [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) `TD`⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。F-Droidからダウンロードしたい方はフォーク元を使うとよい。
+- [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) `TD`⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。安全重視でF-Droidからダウンロードしたい方はフォーク元を使うとよい。
 - [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - インターネット クイック設定パネルをAndroid11のようにして、Wifiパネルを復活させる。
 - [Essentials](https://github.com/sameerasw/essentials) `TD`- 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
 - [Canta](https://github.com/samolego/Canta) ⭐️- システムアプリを簡単に削除。どれをアンインストールすべきかがわかる。
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)`TD`⭐️ - システムアプリの削除、アプリのダウングレード、アプリ毎に音量調整、ADBシェルなどの機能が使える凄いアプリである。
 - [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) ⚠️`Proprietary,TD`- アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
+- [Permission Manager X](https://f-droid.org/ja/packages/com.mirfatif.permissionmanagerx/) 権限と AppOps を1画面で見たい人向け。AppManager より「権限確認」に特化しています。
 - [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr?tab=readme-ov-file) - デバイスのMaterialyouの色変更。微調整。
-- [TapTap](https://github.com/KieronQuinn/TapTap)`TD` - 背面ダブルタップによるショートカットを追加。
+- [TapTap](https://github.com/KieronQuinn/TapTap)`TD` ⚰️- 背面ダブルタップによるショートカットを追加。
 - [System UI Tuner (Tweaker)](https://github.com/zacharee/Tweaker) `TD`- ステータスバーの調整など。
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider) - アプリを隠すアプリ。
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
@@ -303,13 +311,14 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
 - [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
 - [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) ⚠️`Proprietary,TD`- クイック設定パネルをカスタマイズ。
-- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps)⚠️⚠️`Proprietary,TD` - 位置偽装。ポケモンGOとかではおそらく使えない。
-- [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) ⚠️⚠️`Proprietary,TD`- Google Fit の歩数偽造アプリ。
+- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps)⚠️`Proprietary,TD` - 位置偽装。ポケモンGOとかではおそらく使えない。
+- [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) ⚠️⚰️`Proprietary,TD`- Google Fit の歩数偽造アプリ。
 - [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US)⚠️`Proprietary,TD` - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
 - [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
 - [Gadgetbridge](https://gadgetbridge.org/) - ベンダーアプリ(Sony Sound Connectなど)を必要とせずに、スマートウォッチ、ヘッドフォン、イヤホンなどのさまざまなガジェットをペアリングして管理できる、無料のオープンソースアプリ。
 - [Extinguish](https://github.com/Moderpach/Extinguish) `TD`- 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
 - [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
+- [DAVx5](https://www.davx5.com/) - カレンダーや連絡先、タスクを同期する
 
 ## AI
 
@@ -318,7 +327,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## カレンダー
-- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) `Proprietary,TD`- カレンダーアプリ。シンプルかつ高機能。バックアップ可能。
+- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) `Proprietary,TD`- カレンダーアプリ。シンプルかつ高機能。同期可能
 - [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐️- カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
 
@@ -358,8 +367,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Fossify Phone](https://github.com/FossifyOrg/Phone) - プライバシー重視でシンプルな電話アプリ
 
 
+
 ## ポイント
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) ⚠️⚠️`Proprietary,TD`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
+- [Catima](https://github.com/CatimaLoyalty/Android) - ポイントカード管理アプリ
+スーパー・薬局・カフェの会員カードをスマホにまとめることができる。
 
 ## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
@@ -369,6 +381,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 学習
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - 暗記アプリ。ネット上から単語をダウンロードして覚えられる。英語学習などに使える。
+- [QuickDic](https://f-droid.org/packages/de.reimardoeffinger.quickdic/) - オフライン翻訳辞書 
 
 ## マップ関連
 - [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
@@ -408,7 +421,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Blackbox64](https://github.com/FBlackBox/BlackBox/releases) ⚠️`TD`- Android仮想環境。rootなしでxposed使用可能。
 - [VPhoneOS](https://vphoneos.com/mobile/index/) ⚠️`Proprietary,TD`- Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
 - [Termux（F-Droid ver）](https://f-droid.org/packages/com.termux/) - Linuxを動かせる。SSH接続が可能。Wine（Linux向けWindowsエミュレーター）も使える。revancifyやyt-dlpなども使える。
-- [Winlator](https://github.com/brunodev85/Winlator) `TD`⭐️- ExaGearをリバースエンジニアリングして64bit対応させたものと思われる。AndroidでWindowsソフトウェアを動かす最も簡単な方法（Wine使用）。
+- [Winlator](https://github.com/brunodev85/Winlator) `TD`⭐️- AndroidでWindowsソフトウェアを動かす最も簡単な方法（Wine + Box64/Box86系技術の利用）。
 
 
 ## ゲームエミュレーター
@@ -431,16 +444,34 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Artroid](https://myskrpatch.tistory.com/82)⚠️`Proprietary,TD` - PC向けノベルゲーム（Artemis Engine）が遊べる。
 - [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2)`TD` - AliceSoft の System 3.x のゲームを遊ぶ。
 - [xsystem4-android](https://github.com/kichikuou/xsystem4-android) `TD`- AliceSoft の System 4 のゲームを遊ぶ。
-- [winlator](https://github.com/brunodev85/winlator) `TD`- ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
+- [Winlator Bionic](https://github.com/StevenMXZ/Winlator-Ludashi) `TD`- ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
 
 ## ゲーム関連ツール
 - [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) ⚠️`Proprietary,TD`- コントローラー用のスクリーンマッピングアプリ。
 - [Console Launcher](https://github.com/likeich/console-launcher) `Proprietary,TD`- ゲームランチャー。
 - [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker) `Proprietary,TD`- 画面回転制御。強制的に横画面にできる。
+- [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`
 
 ## その他ゲーム
-- [shogidroid](http://shogidroid.siganus.com/) `Proprietary,TD`- 将棋アプリ。
-- [PGsharp](https://www.pgsharp.com/)⚠️`Proprietary,TD`- ポケモンGO チートアプリ。
+- [ShogiDroid2](https://sdroid2.siganus.com/) `Proprietary,TD`- 将棋アプリ。
+- [PGsharp](https://www.pgsharp.com/)⚠️`Proprietary,TD`- ポケモンGO チートアプリ
+
+
+## AndroidTV/GoogleTV
+
+- [SmartTube F-Droid](https://f-droid.org/packages/app.smarttube.fdroid/) - YouTubeの非公式アプリ　様々な機能を持つ　UIカスタマイズが豊富
+- [TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) `TD`- YouTubeの非公式アプリ　UIが公式アプリとほぼ同じである。
+- [Stremio](https://www.stremio.com/downloads) ️`Proprietary,TD` - さまざまなソースから動画を視聴
+- [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。
+
+- [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。Googleアカウントなしでも使える。
+- [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
+- [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary,TD` - MiXplorer の beta版。
+- [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/)`Proprietary,TD` - MiXplorer でzipファイル等を開くアドオン。
+- [tvQuickActions](https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions.free)⭐️`Proprietary,TD` - TV向けのボタンカスタマイズ
+- [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader)⭐️`Proprietary,TD` - APKファイル等をダウンロードするために使うJavascriptをオフにすれば快適に　ADBを用いたインストールをする方は不要
+- [Arc Launcher](https://github.com/meddouribadis/arclauncher/)⭐️`TD`-ランチャー
+
 
 ## 非推奨
 - Videoder ⚠️`Proprietary,TD`
@@ -449,8 +480,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Waifu2x ncnn](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) ⚠️`Proprietary,TD` - 使い方が難しいならありだがクローズドソースで広告＆トラッカーあり。
 - [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) `Proprietary,TD`- DSエミュレーター。すでに終了
 
-- [WEB画像検索・ダウンローダ](https://play.google.com/store/apps/details?id=com.beta9dev.imagedownloader) ⚠️ `Proprietary,TD`- 改悪されているので微妙。1DMのファイル抽出のほうがおすすめ。
-- Nekogram ⚠️⚠️⚠️`TD`マルウェア
-- Cherrygram ⚠️⚠️⚠️`TD`マルウェア
-
-
+- [WEB画像検索・ダウンローダ](https://play.google.com/store/apps/details?id=com.beta9dev.imagedownloader) ⚠️⚠️ `Proprietary,TD`- 改悪されているので微妙。1DMのファイル抽出のほうがおすすめ。
+- Nekogram ⚠️⚠️⚠️⚠️`TD`マルウェア
+- Cherrygram ⚠️⚠️⚠️⚠️`TD`マルウェア
