@@ -353,6 +353,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Cube ACR](https://cubeacr.app/) ⚠️`Proprietary,TD` - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
 
+## 電話
+- [Spam Call Blocker](https://github.com/adamff-dev/spam-call-blocker-app) `TD` -国際電話や迷惑電話などをブロック　TruecallerAPI,Unknownphone API,Tellows APIを活用
+- [Fossify Phone](https://github.com/FossifyOrg/Phone) - プライバシー重視でシンプルな電話アプリ
+
+
 ## ポイント
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) ⚠️⚠️`Proprietary,TD`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
 
