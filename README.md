@@ -463,6 +463,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) `TD`- YouTubeの非公式アプリ　UIが公式アプリとほぼ同じである。
 - [Stremio](https://www.stremio.com/downloads) ️`Proprietary,TD` - さまざまなソースから動画を視聴
 - [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。
+- [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) `TD`- Twitch非公式クライアント
 
 - [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。Googleアカウントなしでも使える。
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
