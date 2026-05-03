@@ -276,7 +276,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
 - [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) `TD` - プライバシー、カスタマイズ性を重視したキーボードアプリ。
-
+- [Bluetooth Remote ](https://gitlab.com/Atharok/BtRemote) -　スマホをAndroidTV用のリモコンに
 
 
 ## ランチャー関連
