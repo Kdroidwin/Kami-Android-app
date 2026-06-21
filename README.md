@@ -42,6 +42,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [AppVerifier](https://github.com/soupslurpr/AppVerifier)を使えばAPKの署名（サイン）をチェックして、改ざんされてないか確認することができる。
 
 - 通信の解析・記録をしたいならPCAPdroidをおすすめします。
+- FLOSSアプリの割合を確認したいなら[Librefind](https://f-droid.org/packages/com.jksalcedo.librefind/)を使うと良い。
 
 
 # チュートリアル
@@ -168,6 +169,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate)⚠️ `Proprietary,TD`- おすすめの5ちゃんねるブラウザ。
 - [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) ⚠️`Proprietary,TD`- dev版。
+- [CuspiDroid](https://github.com/Chipppppppppp/CuspiDroid) `TD`- 5ch 互換の掲示板をブラウザライクな UI で閲覧 OSS 広告なし
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) ⚰️`Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
@@ -385,6 +387,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## マップ関連
 - [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
+- [Gmaps A](https://github.com/Kdroidwin/GmapsA) `TD`- Gmaps WV の補助アプリ ウィジェット機能を追加する
 - [CoMaps](https://www.comaps.app/download/) - プライバシー重視のマップアプリ　OpenStreetMapベース
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
@@ -398,7 +401,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [KeePassDX](https://www.keepassdx.com/) - オープンソースのオフラインパスワードマネージャー。
 - [Bitwarden](https://github.com/bitwarden/android) 🔍⭐️- オープンソースのクラウドパスワードマネージャー。ローカル保存型のKeePassDXを正しく運用すればややセキュリティは上回る可能性があるが、使いやすさはこちらのほうが上。
 - [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) - Bitwarden の Android クライアント。アプリの UX とパフォーマンスに重点を置きつつ、公式 Bitwarden Android アプリが持つすべての機能をサポートする。ただし公式実装との差異があるため、セキュリティは劣る可能性がある。
-- [Aegis](https://github.com/beemdevelopment/Aegis) ⭐️- 2FA（二要素認証）アプリ。セキュリティと使いやすさ、良いUIを兼ねそろえている。他のデバイスと同期したい方は Proton Authenticator を勧める。
+- [Aegis](https://github.com/beemdevelopment/Aegis) ⭐️- 2FA（二要素認証）アプリ。セキュリティと使いやすさ、良いUIを兼ねそろえている。他のデバイスと同期したい方は Proton Authenticator やEnte Authを勧める。
 - [URLCheck](https://github.com/TrianguloY/URLCheck) - URL を開く前に分析（または共有）できるようにする。フィッシング手法からの保護に役立つ。
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTagを発見し、他人からのトラッカーから身を守る。
 - [Cryptomator](https://cryptomator.org/downloads/)🔍⭐️ - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
