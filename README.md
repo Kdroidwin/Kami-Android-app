@@ -118,14 +118,14 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) ⚠️⭐️`Proprietary,TD`- ダウンロードアプリ。YouTubeや有料サブスクを除く多くの動画サイトから動画をダウンロードや画像等ファイル抽出できる。torrentや画像、字幕ファイルなども対応。  
   有料版は広告非表示やテーマ変更が可能。
-- [DownloadNavi](https://github.com/TachibanaGeneralLaboratories/download-navi) ⚰️- FLOSSがいいならこちら。
+- [SuperX Video Downloader](https://github.com/alexch33/super-video-downloader) - FLOSSがいいならこちら。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
 - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa)`Proprietary,TD` ⚰️- nyaa のアプリ。トラッカー機能あり　開発終了している。
 - [Torrent Search ](https://github.com/prajwalch/TorrentSearch) - 複数のトラッカーサイトからトレントを検索
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
-- [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`⚠️⚠️- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。使わなければほぼ不要。TorBoxを試すこともおすすめする。
+- [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`⚠️⚠️- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。フォルダごとのダウンロード使わなければウェブ版で代用可能。TorBoxを試すことも推奨する。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
 - [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary,TD` - MiXplorer の beta版。
