@@ -99,6 +99,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`TD` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)⭐️ - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
+- [MISSPipe](https://github.com/Kdroidwin/MISSPipe)⭐️ `TD`- MISSAVやPornhub、KiSSJAV ,85poなどを自由に閲覧できる
 - [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
 - [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
 - [Stremio](https://www.stremio.com/downloads) `Proprietary,TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
@@ -169,7 +170,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate)⚠️ `Proprietary,TD`- おすすめの5ちゃんねるブラウザ。
 - [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) ⚠️`Proprietary,TD`- dev版。
-- [CuspiDroid](https://github.com/Chipppppppppp/CuspiDroid) `TD`- 5ch 互換の掲示板をブラウザライクな UI で閲覧 OSS 広告なし
+- [CuspiDroid](https://github.com/Chipppppppppp/CuspiDroid) )⭐️ `TD`- 5ch 互換の掲示板をブラウザライクな UI で閲覧 OSS 広告なし
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) ⚰️`Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
