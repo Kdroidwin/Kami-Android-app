@@ -173,7 +173,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [CuspiDroid](https://github.com/Chipppppppppp/CuspiDroid) ⭐️ `TD`- 5ch 互換の掲示板をブラウザライクな UI で閲覧 OSS 広告なし
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
-- [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) ⚰️`Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
+- [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) `Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
 - [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) ⚠️⚰️`Proprietary,TD`- AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
 
 ## SNS
@@ -193,7 +193,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) `TD` - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
 - [LIME](https://github.com/Chipppppppppp/LIME) `TD` - LINE の広告削除、タブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
 - [Knot](https://github.com/2b-zipper/Knot) `TD`-LINEの広告削除　タブ削除、アプリ内ブラウザ無効　スタンプ、着せ替え無料化など
-- [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- メッセージアプリ。
+- [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- プライバシー重視のメッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
 
 ## SMS
@@ -245,11 +245,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## APK関連
 
 - [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`⚠️⚠️- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。(パッチを当てても動作しないアプリが多い。)マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
-- [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、日本語対応していないアプリを対応させることも可能。
+- [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、AndroidManifest.xmlを編集することも可能。
 - [Apktool M](https://t.me/apktool_m) ⚠️`Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
-- [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) `TD` - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合。
+- [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) `TD` - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合し保存。
 - [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
-- [NPatch](https://github.com/7723mod/NPatch) `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
+- [NPatch](https://github.com/7723mod/NPatch) ⭐️ `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
 - [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
@@ -278,7 +278,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## キーボード/ ボタンマッパー
 
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
-- [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) `TD` - プライバシー、カスタマイズ性を重視したキーボードアプリ。
+- [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) ⭐️ - プライバシー、カスタマイズ性を重視したキーボードアプリ。
 - [Bluetooth Remote ](https://gitlab.com/Atharok/BtRemote) -　スマホをAndroidTV用のリモコンに
 
 
