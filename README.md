@@ -363,6 +363,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 録音
 - [Cube ACR](https://cubeacr.app/) ⚠️`Proprietary,TD` - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) `TD` - Shizukuを利用して録音する
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
 
 ## 電話
