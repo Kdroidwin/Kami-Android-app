@@ -171,6 +171,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [ChMate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate)⚠️ `Proprietary,TD`- おすすめの5ちゃんねるブラウザ。
 - [ChMate dev版](https://deploygate.com/distributions/fc60f65f7ac36afc03e7570f42cf0108884641ca) ⚠️`Proprietary,TD`- dev版。
 - [CuspiDroid](https://github.com/Chipppppppppp/CuspiDroid) ⭐️ `TD`- 5ch 互換の掲示板をブラウザライクな UI で閲覧 OSS 広告なし
+- [IOMate](https://github.com/kitadai31/IOMate) ⭐️ `TD`-5ch.io対応前のChMateで5ch.ioに読み書きするためのローカルプロキシアプリ。今は使えなくなった改悪前のChmateを再び使えるようにする。
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) `Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
