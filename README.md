@@ -98,6 +98,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 動画
 
 - [YouTube ReVanced extended (anddea)](https://kdroidwin.hatenablog.com/entry/2024/05/01/142342)⭐️`TD` - Premiumとそれ以上の機能が使える。再生速度2倍以上、低評価表示(正確ではない)、SponsorBlock機能などがある。改造はクライアント側の機能なので、Premium限定動画は見れない。非rootユーザーは ReVanced/GmsCore のインストールが必須。
+- [YouTube Morphe](https://morphe.software/) ⭐️ `TD`- YouTube Revancedの元貢献者が作成した新たなYouTube非公式アプリ。安定している。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)⭐️ - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
 - [MISSPipe](https://github.com/Kdroidwin/MISSPipe)⭐️ `TD`- MISSAVやPornhub、KiSSJAV ,85poなどを自由に閲覧できる
 - [Tubular](https://github.com/polymorphicshade/Tubular) - NewPipe フォーク。SponsorBlock と RYD 対応。
@@ -252,7 +253,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
 - [NPatch](https://github.com/7723mod/NPatch) ⭐️ `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
-- [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularなどのほうが安全性は高い。
+- [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularやプライベートスペースなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
 
 
@@ -381,18 +382,21 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
 
-## 交通
-- [SuicaNFC KD](https://github.com/Kdroidwin/suicanfc-kd)  `TD`- suicaやicoca等の残高確認。
 
 ## 学習
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - 暗記アプリ。ネット上から単語をダウンロードして覚えられる。英語学習などに使える。
 - [QuickDic](https://f-droid.org/packages/de.reimardoeffinger.quickdic/) - オフライン翻訳辞書 
 
+
+## 交通
+- [SuicaNFC KD](https://github.com/Kdroidwin/suicanfc-kd)  `TD`- suicaやicoca等の残高や乗車降車履歴等の確認。
+
+
 ## マップ関連
-- [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
+- [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) ⭐️ - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
 - [Gmaps A](https://github.com/Kdroidwin/GmapsA) `TD`- Gmaps WV の補助アプリ ウィジェット機能を追加する
 - [CoMaps](https://www.comaps.app/download/) - プライバシー重視のマップアプリ　OpenStreetMapベース
-- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - プライバシーに配慮したマップアプリ。航空写真対応。
+- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) ⭐️ - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
 - [Traccar Client](https://github.com/traccar/traccar-client) `TD`- GPS 位置情報をリアルタイムで追跡・管理。
 - [Headunit Revived](https://github.com/andreknieriem/headunit-revived) `TD`- AndroidタブレットをAndroid Auto(車載ディスプレイ)として使う
