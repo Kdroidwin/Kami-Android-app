@@ -41,7 +41,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - Shizukuを使えばADB/ワイヤレスデバッグでシステムAPIを使えるようにできObtainiumやAuroraStoreからのインストールは半自動になります。
 - [AppVerifier](https://github.com/soupslurpr/AppVerifier)を使えばAPKの署名（サイン）をチェックして、改ざんされてないか確認することができる。
 
-- 通信の解析・記録をしたいならPCAPdroidをおすすめします。
+- 通信の解析・記録をしたいならPCAPdroidやTrackerControlをおすすめします。
 - FLOSSアプリの割合を確認したいなら[Librefind](https://f-droid.org/packages/com.jksalcedo.librefind/)を使うと良い。
 
 
