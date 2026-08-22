@@ -34,7 +34,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 # ガイド
 - 基本的にF-DroidやAccrescentからインストールしてください。
 - AccrescentはF-Droidとは異なり、ストア側がビルドや署名をやり直しません。
-- Obtainiumを使う際もプライバシーやマルウェアリスクのことを考えるとF-Droidをソースにするべきことを覚えておいてください。[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
+- Obtainiumやそのフォークを使う際もプライバシーやマルウェアリスク（セキュリティのことは考えない）のことを考えるとF-Droidをソースにするべきことを覚えておいてください。[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
 - IzzyOnDroidではマルウェアアプリが一時的に配布されていたケースがあるので注意してください。
 - 公式ストアやGitHubでも検証されていないアプリには注意してください。
 - GooglePlayストアではなくAuroraStoreを使ってトラッカーや権限などを確認してください。Exodus Privacyを利用したトラッカーの確認ができます。
@@ -262,6 +262,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## アプリストア/ アプリ更新
 - [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。Googleアカウントなしでも使える。
 - [Obtainium](https://github.com/ImranR98/Obtainium) ⭐️⭐️- アプリをGithubやF-Droidなどから取得して更新。似たアプリにApkupdaterなどがある。
+- [ObtainX](https://github.com/bikram-agarwal/ObtainX)⭐️⭐️- APKMirror更新対応やVirusTotal対応、UI刷新など対応したObtainiumのフォーク
+
 
 
 ## インストーラー
