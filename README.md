@@ -46,7 +46,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 # チュートリアル
-- ObtainiumとAurorastoreをインストール
+- ObtainiumやそのフォークとAurorastoreをインストール
 - Shizukuを導入
 
 
