@@ -246,6 +246,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## APK関連
 
+- [Morphe](https://morphe.software/) ️`TD`-アプリパッチャー 外部ソースを利用することで650以上の様々なアプリを改造できる[外部ソース](https://morphe-patches.software/)
 - [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`⚠️⚠️- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。(パッチを当てても動作しないアプリが多い。)マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、AndroidManifest.xmlを編集することも可能。
 - [Apktool M](https://t.me/apktool_m) ⚠️`Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
