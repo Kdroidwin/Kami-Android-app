@@ -155,7 +155,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## ブラウザ
 
-- [Cromite](https://github.com/uazo/cromite) ⭐️⭐️`TD`- プライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
+- [Titanium](https://github.com/jqssun/android-titanium-browser) ⭐️⭐️`TD`- Vanadiumをベースとしたプライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️`TD`- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
 - [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️`TD`- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️`TD` - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
