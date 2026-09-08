@@ -293,6 +293,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary,TD`- アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary,TD`- カスタムウィジェット作成アプリ。
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) `Proprietary,TD`- 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
+- [Ogesture](https://github.com/tanujnotes/ogesture)`Proprietary,TD` - ジェスチャーアプリ
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) ⚠️`Proprietary,TD`- 扇形サブランチャー。
 - [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) ⚠️⚠️`Proprietary,TD`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)`TD` - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
