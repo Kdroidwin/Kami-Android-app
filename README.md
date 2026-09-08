@@ -320,7 +320,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
 - [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
 - [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) ⚠️`Proprietary,TD`- クイック設定パネルをカスタマイズ。
-- [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps)⚠️`Proprietary,TD` - 位置偽装。ポケモンGOとかではおそらく使えない。
 - [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) ⚠️⚰️`Proprietary,TD`- Google Fit の歩数偽造アプリ。
 - [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US)⚠️`Proprietary,TD` - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
 - [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
@@ -406,6 +405,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
 - [Traccar Client](https://github.com/traccar/traccar-client) `TD`- GPS 位置情報をリアルタイムで追跡・管理。
 - [Headunit Revived](https://github.com/andreknieriem/headunit-revived) `TD`- AndroidタブレットをAndroid Auto(車載ディスプレイ)として使う
+- [FakeTraveler](https://f-droid.org/packages/cl.coders.faketraveler/) - 位置情報を偽装 
 
 - [LineageOS関係のアプリ](https://www.apkmirror.com/apk/lineageos/)`TD` - 他にもおすすめ。
 
