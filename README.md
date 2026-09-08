@@ -80,7 +80,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [メモ、記録](#メモ記録)
 - [バッテリー](#バッテリー)
 - [録音](#録音)
-- [ポイント](#ポイント)
+- [ポイント/ウォレット](#ポイント/ウォレット)
 - [翻訳](#翻訳)
 - [交通](#交通)
 - [学習](#学習)
@@ -377,7 +377,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 
-## ポイント＆ウォレット
+## ポイント/ウォレット
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) ⚠️⚠️`Proprietary,TD`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
 - [Catima](https://github.com/CatimaLoyalty/Android) - ポイントカード管理アプリ
 スーパー・薬局・カフェの会員カードをスマホにまとめることができる。
