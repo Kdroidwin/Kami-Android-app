@@ -183,6 +183,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
 - [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️`TD` - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
+- [boorusphere](https://github.com/Kropatz/boorusphere) `TD` - Booru系の画像サイトを見るための専用ビューアアプリ
 - [Myinsta](https://t.me/instasmashrepo) `Proprietary,TD`⚠️- Instagram の改造版アプリ。広告ブロックやゴーストモードなど。
 - [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) `TD` - Instagram の広告・アナリティクス削除、ゴーストモード。フィードの不要要素を取り除く Xposed / LSPosed モジュール。
 - [Instagram piko](https://github.com/crimera/piko)  `TD` - Instagram の改造版アプリ。
