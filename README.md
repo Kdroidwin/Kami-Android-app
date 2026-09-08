@@ -377,10 +377,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 
-## ポイント
+## ポイント＆ウォレット
 - [Googleアンケートモニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) ⚠️⚠️`Proprietary,TD`- プライバシーを半分売ってアンケートに答えてポイントゲットできる。他のアンケートサイトに比べると面倒くさくない。
 - [Catima](https://github.com/CatimaLoyalty/Android) - ポイントカード管理アプリ
 スーパー・薬局・カフェの会員カードをスマホにまとめることができる。
+- [FossWallet](https://github.com/SeineEloquenz/fosswallet) - FOSS .pkpass ウォレット
 
 ## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
@@ -393,6 +394,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 交通
 - [SuicaNFC KD](https://github.com/Kdroidwin/suicanfc-kd)  `TD`- suicaやicoca等の残高や乗車降車履歴等の確認。
+- [PKPassDownloader](https://github.com/Kdroidwin/PKPassDownloader) `TD`- JetStarの飛行機搭乗チケットを.pkpass形式で取得しFossWalletなどで取得できるようにする。
 
 
 ## マップ関連
@@ -472,8 +474,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## AndroidTV/GoogleTV
 
-- [SmartTube F-Droid](https://f-droid.org/packages/app.smarttube.fdroid/) - YouTubeの非公式アプリ　様々な機能を持つ　UIカスタマイズが豊富
-- [TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) `TD`- YouTubeの非公式アプリ　UIが公式アプリとほぼ同じである。
+- [SmartTube F-Droid](https://f-droid.org/packages/app.smarttube.fdroid/) ⭐️- YouTubeの非公式アプリ　様々な機能を持つ　UIカスタマイズが豊富
+- [TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) ⭐️`TD`- YouTubeの非公式アプリ　UIが公式アプリとほぼ同じである。
 - [Stremio](https://www.stremio.com/downloads) ️`Proprietary,TD` - さまざまなソースから動画を視聴
 - [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。
 - [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) `TD`- Twitch非公式クライアント
