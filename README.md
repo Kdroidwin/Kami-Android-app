@@ -465,6 +465,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## ゲーム関連ツール
 - [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) ⚠️`Proprietary,TD`- コントローラー用のスクリーンマッピングアプリ。
 - [Console Launcher](https://github.com/likeich/console-launcher) `Proprietary,TD`- ゲームランチャー。
+- [Titanius Launcher](https://github.com/dsolonenko/titanius-launcher) `TD`- ゲームランチャー。
 - [Rotation Control](https://github.com/Charles-3Ready/rotation-control) `TD`- 画面回転制御。強制的に横画面にできる。アプリごとに向きを指定
 - [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`
 
