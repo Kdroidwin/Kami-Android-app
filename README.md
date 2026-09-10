@@ -105,7 +105,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
 - [Stremio](https://www.stremio.com/downloads) `Proprietary,TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
-- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` - IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
+- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` ⭐️- IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
   - [日本のみ](https://iptv-org.github.io/iptv/countries/jp.m3u)
 - [VLC media player](https://nightlies.videolan.org/) - オープンソース。ほとんどの動画拡張子に対応している。画面に合わせてフィットできる。GooglePlay版は更新が遅いので非推奨。
@@ -151,15 +151,14 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [RootlessJamesDSP](https://f-droid.org/ja/packages/me.timschneeberger.rootlessjamesdsp/) - イコライザー。
 - [BoostX](https://github.com/AumGupta/BoostX) `TD`- Androidデバイスの音量をシステム制限以上にブースト。
 - [SongSync](https://github.com/Lambada10/SongSync) `TD`- 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
-- [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
 - [CTCLRCdroid](https://github.com/Kdroidwin/CTCLRCdroid/) `TD`- CTC Forced Alignmentを用いてLRC形式で同期付き歌詞ファイルを自動生成します。
-
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
 
 ## ブラウザ
 
 - [Titanium](https://github.com/jqssun/android-titanium-browser) ⭐️⭐️`TD`- Vanadiumをベースとしたプライバシーに配慮したChromium系ブラウザ。chrome拡張機能が使える。
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️`TD`- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
-- [Tor browser](https://www.torproject.org/ja/download/#android) ⭐️`TD`- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
+- [Tor browser](https://www.torproject.org/ja/download/#android) `TD`- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️`TD` - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
 - [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary,TD`- 候補。
 - [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) `Proprietary,TD`- 候補。
@@ -197,7 +196,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Telespeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) `TD` - Telegram のダウンロード速度制限解除。
 - [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) `TD` - Telegram のスポンサー付きメッセージを削除する Android Xposed モジュール。
 - [LIME](https://github.com/Chipppppppppp/LIME) `TD` - LINE の広告削除、タブ削除、アプリ内ブラウザ無効化、既読をつけない機能など。
-- [Knot](https://github.com/2b-zipper/Knot) `TD`-LINEの広告削除　タブ削除、アプリ内ブラウザ無効　スタンプ、着せ替え無料化など
+- [Knot](https://github.com/2b-zipper/Knot) `TD`⭐️-LINEの広告削除　タブ削除、アプリ内ブラウザ無効　など
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)- プライバシー重視のメッセージアプリ。
 - [OctoDroid](https://f-droid.org/ja/packages/com.gh4a/) - GitHub クライアント。
 
@@ -229,7 +228,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## カメラ関連
 
-- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary,TD`- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
+- [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary,TD`⭐️- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
 - [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐️`TD` - 写真をスキャンしてデータ化する。
 - [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) ⚠️`Proprietary,TD`-スキャナーアプリ 。
 
@@ -249,7 +248,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## APK関連
 
-- [Morphe](https://morphe.software/) ️`TD`-アプリパッチャー 外部ソースを利用することで650以上の様々なアプリを改造できる[外部ソース](https://morphe-patches.software/)
+- [Morphe](https://morphe.software/) ️`TD`⭐️⭐️-アプリパッチャー 外部ソースを利用することで650以上の様々なアプリを改造できる[外部ソース](https://morphe-patches.software/)
 - [LuckyPatcher](https://www.luckypatchers.com/download/) `Proprietary,TD`⚠️⚠️- アプリを改造できる。広告をなくしたり、いろいろなアプリの有料プランに無料で入ったり出来る。(パッチを当てても動作しないアプリが多い。)マルウェアの危険性があるため、インストール非推奨だが一応紹介。非rootで動作するが、Root限定機能もある。
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、AndroidManifest.xmlを編集することも可能。
 - [Apktool M](https://t.me/apktool_m) ⚠️`Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
@@ -257,7 +256,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
 - [NPatch](https://github.com/7723mod/NPatch) ⭐️ `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
-- [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularやプライベートスペースなどのほうが安全性は高い。
+- [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularやプライベートスペース、Morpheなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限を見たりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
 
 
@@ -287,6 +286,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
 - [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) ⭐️ - プライバシー、カスタマイズ性を重視したキーボードアプリ。
+- [Scrib](https://github.com/23rd/Scrib) `TD`⭐️-Whisper音声モデルを使用してオフラインで文字起こしを行う。ボイスキーボードとしてだけでなく、音声ファイルからも文字起こし可能
 - [Bluetooth Remote ](https://gitlab.com/Atharok/BtRemote) -　スマホをAndroidTV用のリモコンに
 
 
@@ -298,6 +298,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Ogesture](https://github.com/tanujnotes/ogesture)`TD` - ジェスチャーアプリ
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) ⚠️`Proprietary,TD`- 扇形サブランチャー。
 - [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) ⚠️⚠️`Proprietary,TD`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
+- [Cebian](https://github.com/qpst4/cebian) `TD`⭐️ - Samsungの「One Hand Operation+」＋Quick Cursor＋FooViewを、ローカル処理でまとめたようなアプリ
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)`TD` - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
 - [DroidOS](https://github.com/Katsuyamaki/DroidOS) `TD`- スマホをPCのような操作に変える Samsung DeX の代替。既存のAndroid上に、独自のウィンドウ管理レイヤーを被せる。
 - [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) `TD`- スマホをPCのような操作に変える Samsung DeX の代替
