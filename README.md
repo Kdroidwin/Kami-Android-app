@@ -152,6 +152,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [BoostX](https://github.com/AumGupta/BoostX) `TD`- Androidデバイスの音量をシステム制限以上にブースト。
 - [SongSync](https://github.com/Lambada10/SongSync) `TD`- 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
+- [CTCLRCdroid](https://github.com/Kdroidwin/CTCLRCdroid/tree/main) `TD`- CTC Forced Alignmentを用いてLRC形式で同期付き歌詞ファイルを自動生成します。
+
 
 ## ブラウザ
 
