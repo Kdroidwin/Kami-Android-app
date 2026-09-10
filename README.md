@@ -287,7 +287,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
 - [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) ⭐️ - プライバシー、カスタマイズ性を重視したキーボードアプリ。
-- [Scrib](https://github.com/23rd/Scrib) `TD`⭐️-Whisper音声モデルを使用してオフラインで文字起こしを行う。ボイスキーボードとしてだけでなく、音声ファイルからも文字起こし可能
 - [Bluetooth Remote ](https://gitlab.com/Atharok/BtRemote) -　スマホをAndroidTV用のリモコンに
 
 
@@ -295,6 +294,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Lawnchair](https://lawnchair.app/) `TD`⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
 - [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary,TD`- アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary,TD`- カスタムウィジェット作成アプリ。
+- [Sukko](https://github.com/sadellie/sukko) `TD`-カスタムウィジェット作成アプリ KWGTのOSS代替
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) `Proprietary,TD`- 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
 - [Ogesture](https://github.com/tanujnotes/ogesture)`TD` - ジェスチャーアプリ
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) ⚠️`Proprietary,TD`- 扇形サブランチャー。
@@ -361,7 +361,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## メモ、記録
 - [tasks](https://github.com/tasks/tasks) ⭐️- ToDOリスト。
 - [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
-- [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box)  `TD`- ゲーム・映画・アニメ・漫画・本などをまとめて管理する無料アプリ
+- [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box)  `TD`- ゲーム・映画・アニメ・漫画・本などをまとめて管理するアプリ
 - [記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) `Proprietary,TD`- 好きなものを何でも記録。メモ。
 - [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) ⭐️- メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
 - [Obsidian](https://obsidian.md/download)`Proprietary,TD` - 個人の知識管理やノート作成のためのアプリ。Markdown形式対応。
@@ -376,6 +376,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Cube ACR](https://cubeacr.app/) ⚠️`Proprietary,TD` - 電話録音アプリ。cube ACR helper のインストールが必須。そこまでプライバシーに配慮しているわけではないので注意。インターネット接続させないようにすると良い。このアプリが使えないなら ACR phone & APH を使うと良い。
 - [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) `TD` - Shizukuを利用して録音する
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - ボイスレコーダー。
+- [Scrib](https://github.com/23rd/Scrib) `TD`⭐️-Whisper音声モデルを使用してオフラインで文字起こしを行う。ボイスキーボードとしても利用可能
 
 ## 電話
 - [Spam Call Blocker](https://github.com/adamff-dev/spam-call-blocker-app) `TD` -国際電話や迷惑電話などをブロック　TruecallerAPI,Unknownphone API,Tellows APIを活用
