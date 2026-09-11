@@ -241,11 +241,15 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
 - [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
+
+## 画像/動画編集
+
 - [Lightroom](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) ⚠️`Proprietary,TD`- Adobe の編集アプリ。Revanced Manager でアンロック可能。
 簡易的な加工ならSnapseedで十分
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) ⭐️`TD` - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
 - [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) ⚠️`Proprietary,TD`- UIがわかりやすく多機能な画像編集ソフト。
 - [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) ⭐️`TD` - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
+- [LibreCuts](https://github.com/tharunbirla/LibreCuts) -動画編集アプリ
 
 ## APK関連
 
