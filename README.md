@@ -324,7 +324,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - 「仕事用プロファイル」機能を利用して、アプリをインストールまたは複製できる。隔離されたスペースを提供するオープンソース (FOSS) アプリ。
 - [Link sheet](https://github.com/1fexd/LinkSheet) `TD`- Android12以降　URLから開かれるアプリの優先順位などを定める。ClearURLs や Fastfoward の機能も使える。
-- [Copy](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy) ⚠️`Proprietary,TD`- アプリ上の選択できないテキストをコピー。
+- [Copy](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy) `Proprietary,TD`- アプリ上の選択できないテキストをコピー。
 - [KDE connect](https://kdeconnect.kde.org/download.html) - 複数デバイス間でやり取り。説明すると長くなるので省略。使いこなせればかなり凄いアプリ。
 - [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
 - [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
