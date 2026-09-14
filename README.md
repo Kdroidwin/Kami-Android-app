@@ -328,7 +328,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [KDE connect](https://kdeconnect.kde.org/download.html) - 複数デバイス間でやり取り。説明すると長くなるので省略。使いこなせればかなり凄いアプリ。
 - [RustDesk](https://github.com/rustdesk/rustdesk) - TeamViewer の代替。セルフホスティング用に設計されたオープンソースのリモートデスクトップアプリ。
 - [droidVNC-NG](https://f-droid.org/ja/packages/net.christianbeier.droidvnc_ng/) - Root権限が不要なVNCサーバー。
-- [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) ⚠️`Proprietary,TD`- クイック設定パネルをカスタマイズ。
+- [Quick Settings](https://play.google.com/store/apps/details?id=it.simonesestito.ntiles) ⚠️`Proprietary,TD`- クイック設定パネルをカスタマイズ
+- [Fake Step Writer](https://github.com/ayshishannidhya/fake-step-writer) `Proprietary,TD`- Health Connectに歩数データを書き込む権限を使って、偽の歩数レコードを作る。ソースコードは公開されている。
 - [Fake Sync](https://apkpure.com/jp/fake-sync-add-walking-data-to-fit/com.nauman.fakesync) ⚠️⚰️`Proprietary,TD`- Google Fit の歩数偽造アプリ。
 - [Volume Styles](https://play.google.com/store/apps/details?id=com.tombayley.volumepanel&hl=ja&gl=US)⚠️`Proprietary,TD` - 音量調節パネルのデザインを変更。iOS やMIUIなどの見た目も可能。大きさや色を変更したり自作テーマも可能。ただし一部機種はイヤホン接続時のポップアップのときは変更されない。
 - [NotiFilter](https://github.com/BURG3R5/NotiFilter) - 通知を自動でフィルタリングするツール。通知を自動タップや自動スワイプするツール。有料のBuzzKill の代替。低バッテリー・低メモリ消費。
