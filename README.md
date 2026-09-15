@@ -298,7 +298,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## ランチャー関連
 - [Lawnchair](https://lawnchair.app/) `TD`⭐️- Pixel Launcherに似たデザインで、カスタマイズ性をそこそこ重視したランチャー。オープンソース。更新頻度が高い。
-- [Minma icon pack](https://play.google.com/store/apps/details?id=com.minma.icon.free&hl=en_US) `Proprietary,TD`- アイコンパック。ダークでシンプル。
+- [Minma icon pack NEXT](https://github.com/Kdroidwin/Minma-Icon-Pack-NEXT) `TD`- アイコンパック。ダークでシンプル。
 - [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) `Proprietary,TD`- カスタムウィジェット作成アプリ。
 - [Sukko](https://github.com/sadellie/sukko) `TD`-カスタムウィジェット作成アプリ KWGTのOSS代替
 - [QuickCursor](https://github.com/micku7zu/QuickCursor) `Proprietary,TD`- 指で操作するトラックパッド＋カーソルアプリ。クローズドソース。
