@@ -409,6 +409,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 交通
 - [SuicaNFC KD](https://github.com/Kdroidwin/suicanfc-kd)  `TD`- suicaやicoca等の残高や乗車降車履歴等の確認。
 - [PKPassDownloader](https://github.com/Kdroidwin/PKPassDownloader) `TD`- JetStarの飛行機搭乗チケットを.pkpass形式で取得しFossWalletなどで取得できるようにする。
+- [Stepsy](https://github.com/nvllz/stepsy) - 歩数計
 
 
 ## マップ関連
