@@ -153,6 +153,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [SongSync](https://github.com/Lambada10/SongSync) `TD`- 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
 - [CTCLRCdroid](https://github.com/Kdroidwin/CTCLRCdroid/) `TD`- CTC Forced Alignmentを用いてLRC形式で同期付き歌詞ファイルを自動生成します。
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
+- [Radikall](https://github.com/baudmusic/radikall) `TD`-オープンソースのRadiko アプリ 47都道府県すべてのRadiko局対応
 
 ## ブラウザ
 
