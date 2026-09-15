@@ -179,7 +179,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [したらばStorm](https://play.google.com/store/apps/details?id=jp.everystorm.shitarabastorm&hl=ja)`Proprietary,TD` - 軽量でChMateライクなUIを持つ5ちゃんねるブラウザ。
 - [APIMateR_Shizuku](https://github.com/areteruhiro/apimater_Shizuku) `TD` - ChMateで5ちゃんねるの過去ログをブラウザではなくアプリ内で見れる。巨人小笠原の奴より優秀。
 - [必死チェッカーdroid mod](https://github.com/Kdroidwin/hissi) `Proprietary,TD`- 5ちゃんの必死チェッカービューワー。ブラウザを開かずに ChMate 内で見れるので便利。全画面表示やリンクコピーボタンなども追加。
-- [AAroid](https://apkpure.com/jp/aaroid-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E3%80%81%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%89/aaroid.nekoneko.adeam.clipmemo) ⚠️⚰️`Proprietary,TD`- AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。マッシュルームとしての起動も可能。
+- [Chnote](https://github.com/Kdroidwin/Chnote) `TD`- AA(アスキーアート)や長文コピペ・定型文の保存、貼り付けを便利にする。Chmateのマッシュルームとしての起動も可能。
 
 ## SNS
 
