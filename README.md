@@ -224,7 +224,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [keiyoushi extensions](https://github.com/keiyoushi/extensions) ⭐️`TD` - tachiyomi / Mihon の拡張機能レポジトリ。
 - [Pupil](https://github.com/tom5079/Pupil) `TD` - hitomi ビューアー。
 - [Novelty](https://github.com/L4Ph/Novelty) `TD`-小説家になろう・カクヨムに対応したビューアー デザインや機能も良い。
-- [Web小説リーダー](https://play.google.com/store/apps/details?id=com.sampleb3.novel) ⚠️`Proprietary,TD`- なろう、カクヨム、pixiv、個人サイトなどに対応したビューアー。
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) `Proprietary,TD`- 最もおすすめする自炊ビューアー。PDF、Zip、RAR対応。フィルターは Lanczos3 推奨。PDFプラグインやファイルソースプラグインも併用推奨。
 - [ComittoNxX](https://github.com/ComittoNxA/ComittoNxX) `TD` - Comitto の後継。自炊ビューワー。
 - [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) `TD` - 漫画アプリ
