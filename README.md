@@ -285,7 +285,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 自動化
 
 - [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker)  - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
-- [Tasker](https://tasker.joaoapps.com) `Proprietary,TD`- 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
+- [Tasker](https://tasker.joaoapps.com) ⚠️`Proprietary,TD`- 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
 - [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ。
 - [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) ⚠️`Proprietary,TD`- タッチ操作を記録・再生できるマクロツール。
 
@@ -472,7 +472,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## PCゲーム / ノベルゲーム系
 - [Kirikiroid2　V2](https://avn2pointzero.wordpress.com/kirikiroid2/) ⚰️⚠️ `Proprietary,TD`   - PC向けノベルゲーム（吉里吉里）が遊べる。xp3ファイルが表示されないバグを修正済み。認証回避済み。
 - [Kirikiroid2-Debloated](https://github.com/enaix/Kirikiroid2-debloated)⭐️`TD` - 元の Kirikiroid2 から不要なものを削除している。
-- [Artroid](https://myskrpatch.tistory.com/82)⚠️`Proprietary,TD` - PC向けノベルゲーム（Artemis Engine）が遊べる。
+- [Artroid](https://myskrpatch.tistory.com/82)⚠️⚠️`Proprietary,TD` - PC向けノベルゲーム（Artemis Engine）が遊べる。
 - [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2)`TD` - AliceSoft の System 3.x のゲームを遊ぶ。
 - [xsystem4-android](https://github.com/kichikuou/xsystem4-android) `TD`- AliceSoft の System 4 のゲームを遊ぶ。
 - [Winlator Bionic](https://github.com/StevenMXZ/Winlator-Ludashi) `TD`- ExaGear をおそらくリバースエンジニアリングしたもの。開発途上だが64ビットソフトウェアも対応している。
@@ -486,7 +486,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`
 
 ## その他ゲーム
-- [ShogiDroid2](https://sdroid2.siganus.com/) `Proprietary,TD`- 将棋アプリ。
+- [ShogiDroid2](https://sdroid2.siganus.com/) ⚠️`Proprietary,TD`- 将棋アプリ。
 - [PGsharp](https://www.pgsharp.com/)⚠️`Proprietary,TD`- ポケモンGO チートアプリ
 
 
@@ -502,8 +502,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)⭐️`Proprietary,TD` - 圧縮解凍、FTP、SMB、HTTPサーバー、nomedia作成、無限タブ、クラウドストレージ、USB OTG対応など、非常に高機能なファイラー。
 - [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary,TD` - MiXplorer の beta版。
 - [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/)`Proprietary,TD` - MiXplorer でzipファイル等を開くアドオン。
-- [tvQuickActions](https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions.free)⭐️`Proprietary,TD` - TV向けのボタンカスタマイズ
-- [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader)⭐️`Proprietary,TD` - APKファイル等をダウンロードするために使うJavascriptをオフにすれば快適に　ADBを用いたインストールをする方は不要
+- [tvQuickActions](https://play.google.com/store/apps/details?id=dev.vodik7.tvquickactions.free)⚠️⭐️`Proprietary,TD` - TV向けのボタンカスタマイズ
+- [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader)⚠️⭐️`Proprietary,TD` - APKファイル等をダウンロードするために使うJavascriptをオフにすれば快適に　ADBを用いたインストールをする方は不要
 - [Arc Launcher](https://github.com/meddouribadis/arclauncher/)⭐️`TD`-ランチャー
 
 
