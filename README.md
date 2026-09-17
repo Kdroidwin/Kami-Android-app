@@ -152,6 +152,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [BoostX](https://github.com/AumGupta/BoostX) `TD`- Androidデバイスの音量をシステム制限以上にブースト。
 - [SongSync](https://github.com/Lambada10/SongSync) `TD`- 同期可能な歌詞ファイルを検索してダウンロードできる。マイナーな曲は非対応。
 - [CTCLRCdroid](https://github.com/Kdroidwin/CTCLRCdroid/) `TD`- CTC Forced Alignmentを用いてLRC形式で同期付き歌詞ファイルを自動生成します。
+- [Audile](https://github.com/AudileTeam/Audile) - Shazamを利用し流れている音楽を特定
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod) - ポッドキャスト(インターネットラジオ)アプリ。
 - [Radikall](https://github.com/baudmusic/radikall) `TD`-オープンソースのRadiko アプリ 47都道府県すべてのRadiko局対応
 
