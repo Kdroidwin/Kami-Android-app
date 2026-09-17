@@ -285,7 +285,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [Klickr - Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker)  - 自動操作。自動的にクリックすることで繰り返しのタスクを楽に。
 - [Tasker](https://tasker.joaoapps.com) ⚠️`Proprietary,TD`- 色々なことを自動化出来る。特定の座標を指定するプラグインあり。
-- [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ。
+- [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ
+- [OpenTasker](https://github.com/SysAdminDoc/OpenTasker)  `TD`- TaskerのOSS代替 無料 安全性も高い
 - [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) ⚠️`Proprietary,TD`- タッチ操作を記録・再生できるマクロツール。
 
 ## キーボード/ ボタンマッパー
