@@ -288,6 +288,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [TaskErsettings](https://github.com/joaomgcd/TaskerSettings) `Proprietary,TD`- Taskerのヘルパーアプリ
 - [OpenTasker](https://github.com/SysAdminDoc/OpenTasker)  `TD`- TaskerのOSS代替 無料 安全性も高い
 - [FRep2](https://play.google.com/store/apps/details?id=com.x0.strai.secondfrep) ⚠️`Proprietary,TD`- タッチ操作を記録・再生できるマクロツール。
+- [GKD](https://github.com/gkd-kit/gkd) `TD`- 画面を見て、条件に合うボタンを自動で押す。たとえば 『スキップ』が出たら自動で押すことができる。
 
 ## キーボード/ ボタンマッパー
 
