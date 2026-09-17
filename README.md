@@ -132,7 +132,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [MiXplorer Beta](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-beta/)⭐️`Proprietary,TD` - MiXplorer の beta版。
 - [MixArchive](https://www.apkmirror.com/apk/hootan-parsa/mix-archive/)`Proprietary,TD` - MiXplorer でzipファイル等を開くアドオン。
 - [MixTagger](https://www.apkmirror.com/apk/hootan-parsa/mix-tagger/) `Proprietary,TD`- 動画や音楽にタグ付けできるアドオン。
-- [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary,TD`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。
+- [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary,TD`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。MiXplorerの自動タスクから似たようなことができるため、必須ではない。
 - [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `TD`- 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
 
