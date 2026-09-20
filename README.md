@@ -33,6 +33,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 # ガイド
 - 基本的にF-DroidやAccrescentからインストールしてください。
+- もちろんF-Droidにも問題はあり完璧ではありません。
 - AccrescentはF-Droidとは異なり、ストア側がビルドや署名をやり直しません。
 - Obtainiumやそのフォークを使う際もプライバシーやマルウェアリスク（セキュリティのことは考えない）のことを考えるとF-Droidをソースにするべきことを覚えておいてください。[参照](https://x.com/Kdroidwin1/status/2037463883263479944?s=20)
 - IzzyOnDroidではマルウェアアプリが一時的に配布されていたケースがあるので注意してください。
