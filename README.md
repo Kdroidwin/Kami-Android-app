@@ -44,6 +44,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - 通信の解析・記録をしたいならPCAPdroidやTrackerControlをおすすめします。
 - FLOSSアプリの割合を確認したいなら[Librefind](https://f-droid.org/packages/com.jksalcedo.librefind/)を使うと良い。
+- これらのアプリを入れる際は自己責任です。開発者が信頼できるかどうかは各自で評価してください。
 
 
 # チュートリアル
