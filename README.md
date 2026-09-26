@@ -3,7 +3,7 @@
 - [ブログのアプリ集](https://kdroidwin.hatenablog.com/entry/2023/09/05/105304) - 初心者向け記事
 - [Codebergリポジトリ](https://codeberg.org/Kdroidwin/Kami-Android-app) - バックアップ
 - [予備のGitFlicリポジトリ](https://gitflic.ru/project/kdroidwin/kami-android-app) - バックアップ
-- [予備のGithubリポジトリ,404エラー](https://github.com/Kdroidwin/Kami-Android-app) - バックアップ
+- [予備のGithubリポジトリ](https://github.com/Kdroidwin/Kami-Android-app) - バックアップ
 - これも追加すべきアプリがあったら教えてください。
 
 - ⭐️⭐️超おすすめ
