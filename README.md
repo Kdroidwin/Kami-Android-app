@@ -142,6 +142,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) `TD`- InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) ⭐️- YouTube Music の非公式クライアント。広告なし、バックグラウンド再生、ダウンロード可。SponsorBlock、ReturnYouTubeDislike などあり。
+- [BitChord](https://github.com/kushagrasinghx/BitChord)`TD`- YouTube Musicの非公式クライアント　AppleMusicのデザインにインスピレーションを得ている。
 - [Metrolist](https://github.com/MetrolistGroup/Metrolist) `TD`- YouTube Musicの非公式クライアント　
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) `TD`- YouTube Music などに対応した音楽プレイヤー。
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
