@@ -106,6 +106,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Tubular Revived](https://github.com/feuerswut/Tubular-Revived) - NewPipe フォーク。SponsorBlock と RYD 対応。
 - [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
 - [Stremio](https://github.com/stremio-native/stremio-android) `TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。Stremioのコア/Addonエコシステムを利用してUIと再生部分を作り直した非公式OSSクライアント
+- [NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) `TD`-映画・ドラマなどの動画をスマホやタブレットで見る。Stremioアドオン対応 NuvioMobile Enhancedというフォークもある。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` ⭐️- IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
