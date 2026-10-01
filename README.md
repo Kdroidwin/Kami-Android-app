@@ -168,6 +168,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox) ⭐️⭐️`TD`- Firefox のフォークでMullの後継。arkenfox-user.js を使用し、Torブラウザの一部機能が使える。TorやCromiteを除くとAndroid最高クラスのプライバシー重視ブラウザ。ほとんどのアドオンが入るが、uBOのみ推奨。
 - [Tor browser](https://www.torproject.org/ja/download/#android) `TD`- オニオンルーティングで通信を多段リレーし、匿名化できるブラウザ。ダークウェブにもアクセス可能。
 - [Iceraven-OLED](https://github.com/GoodyOG/Iceraven-OLED)⭐️`TD` - Firefox の機能強化版 Iceraven の OLED 版。ホーム画面ショートカットが優秀。
+- [Bare Browser](https://github.com/BareBrowser/bare-browser) `TD`- 拡張機能対応したプライバシー重視のブラウザ uBlock Originを標準搭載 バックグラウンド再生対応
 - [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary,TD`- 候補。
 - [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) `Proprietary,TD`- 候補。
 - [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
@@ -491,6 +492,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Mantis Gamepad Pro Beta](https://play.google.com/store/apps/details?id=app.mantispro.gamepad) ⚠️`Proprietary,TD`- コントローラー用のスクリーンマッピングアプリ。
 - [OpenMapper](https://github.com/kinou-p/android-open-mapper) ️`TD`- コントローラー用のスクリーンマッピングアプリ。 
 - [Console Launcher](https://github.com/likeich/console-launcher) `Proprietary,TD`- ゲームランチャー。
+- [Console Launcher Arca](https://github.com/Kdroidwin/console-launcher-arca) `Proprietary,TD`-  Console LauncherのDebloated版
 - [Titanius Launcher](https://github.com/dsolonenko/titanius-launcher) `TD`- ゲームランチャー。
 - [Rotation Control](https://github.com/Charles-3Ready/rotation-control) `TD`- 画面回転制御。強制的に横画面にできる。アプリごとに向きを指定
 - [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`フレーム補間
