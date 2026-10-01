@@ -329,6 +329,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)`TD`⭐️ - システムアプリの削除、アプリのダウングレード、アプリ毎に音量調整、ADBシェルなどの機能が使える凄いアプリである。
 - [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) ⚠️`Proprietary,TD`- アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
 - [Permission Manager X](https://f-droid.org/ja/packages/com.mirfatif.permissionmanagerx/) 権限と AppOps を1画面で見たい人向け。AppManager より「権限確認」に特化しています。
+- [NoMoreBackground](https://github.com/adil192/no_more_background) - Androidアプリがバックグラウンドで動くのを制限するためのツール
 - [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr?tab=readme-ov-file) - デバイスのMaterialyouの色変更。微調整。
 - [TapTap](https://github.com/KieronQuinn/TapTap)`TD` ⚰️- 背面ダブルタップによるショートカットを追加。
 - [System UI Tuner (Tweaker)](https://github.com/zacharee/Tweaker) `TD`- ステータスバーの調整など。
