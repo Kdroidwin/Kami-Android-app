@@ -430,6 +430,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) ⭐️ - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
 - [Traccar Client](https://github.com/traccar/traccar-client) `TD`- GPS 位置情報をリアルタイムで追跡・管理。
+- [FMD](https://gitlab.com/fmd-foss/fmd-android) - Googleサービスに依存しない、オープンソース版のAndroid端末紛失対策アプリ
 - [Headunit Revived](https://github.com/andreknieriem/headunit-revived) `TD`- AndroidタブレットをAndroid Auto(車載ディスプレイ)として使う
 - [FakeTraveler](https://f-droid.org/packages/cl.coders.faketraveler/) - 位置情報を偽装 
 
