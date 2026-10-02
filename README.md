@@ -388,6 +388,10 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) `TD`- Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
 
+## 健康
+
+- [OpenVitals](https://codeberg.org/OpenVitals/mobile-app) `TD` - Health Connectの健康データをまとめて管理できる。歩数、睡眠、心拍、HRV、血圧、血糖、体重、SpO₂、ワークアウト、栄養などに対応。
+
 ## バッテリー
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) `Proprietary,TD`- バッテリーの劣化具合を確認できる。
 
