@@ -433,6 +433,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## マップ関連
+- [Vela Maps](https://github.com/PimpinPumpkin/Vela) ⭐️`TD`- Google マップの見た目・便利さを残しつつGoogleマップを、GMS・Googleアカウントなしで使えるようにした、プライバシー重視のGoogleマップ代替アプリ
 - [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) ⭐️ - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
 - [Gmaps A](https://github.com/Kdroidwin/GmapsA) `TD`- Gmaps WV の補助アプリ ウィジェット機能を追加する
 - [CoMaps](https://www.comaps.app/download/) - プライバシー重視のマップアプリ　OpenStreetMapベース
