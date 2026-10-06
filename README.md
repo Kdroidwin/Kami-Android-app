@@ -101,7 +101,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## OS
 アプリではいが、単独で紹介するのも憚られたためここで紹介
 
-- [GrapheneOS](https://grapheneos.org/)⭐️ - セキュリティとプライバシーを重視したAndroidベースのOS。アプリごとのネットワーク・センサー・ストレージ・連絡先権限を細かく制御でき、Google Playも通常のアプリと同じサンドボックス内で利用可能。強化されたメモリ保護、自動再起動、Verified Bootやブートローダーの再ロックなどにも対応。
+- [GrapheneOS](https://grapheneos.org/)⭐️⭐️ - セキュリティとプライバシーを重視したAndroidベースのOS。アプリごとのネットワーク・センサー・ストレージ・連絡先権限を細かく制御でき、Google Playも通常のアプリと同じサンドボックス内で利用可能。強化されたメモリ保護、自動再起動、Verified Bootやブートローダーの再ロックなどにも対応。
 - [iodéOS](https://iode.tech/iodeos/)⭐️ - LineageOSをベースにした、広告・トラッカー対策重視のAndroid ROM。アプリごとの通信先を監視・遮断できるファイアウォールを搭載し、microGにも対応。Googleサービスへの依存を減らしながら、Pixel、Fairphone、Samsung、Xiaomiなど幅広い端末で利用できる。<citation src="18"></citation>
 - [LineageOS](https://lineageos.org/) - AndroidをベースにしたオープンソースのカスタムOS。メーカー製アプリなどを減らした軽量でクリーンなAndroidを使え、古い端末にも新しいAndroidやセキュリティアップデートを提供。
 - [CalyxOS](https://calyxos.org/) - プライバシーを重視したAndroidベースのオープンソースOS。オプションのmicroGを利用でき、Google Play依存を減らしつつ普段使いしやすい構成。Verified Bootやブートローダーの再ロックにも対応
