@@ -390,6 +390,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) - モバイル向けのアウトライナー（ノート管理＋ToDoアプリ）
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/) `TD`- Microsoft Office の代替。Microsoft Officeとの高い互換性と操作性を追求している。Android版もあり。LibreOfficeのフォーク。
 - [Notely Voice: AI Voice to Text](https://github.com/tosinonikute/NotelyVoice) - 音声録音して自動で文字に変換する（音声→テキスト）。
+- [PinIt](https://github.com/hawatri/PinIt) `TD`- メモ、チェックリスト、リンク、画像などを保存し、通知欄やホーム画面に常駐させられるAndroid向けメモアプリ。
 
 ## 健康
 
