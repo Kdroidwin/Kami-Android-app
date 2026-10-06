@@ -374,6 +374,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 時計
 - [Clock](https://github.com/BlackyHawky/Clock) - AOSPベースの時計アプリ。
+- [SilentAlarm](https://github.com/izumisagirii/silent-alarm) `TD`- イヤホン専用のプライベート目覚ましアプリ。有線・Bluetooth・USBイヤホンでアラームを鳴らし、イヤホン未接続時は振動のみやスピーカーへの切り替えにも対応。
 
 ## PDF
 - [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) `TD` - 高機能なPDFビューアー。PDFダークモード対応。他にも secure pdf 等も。
