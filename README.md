@@ -246,11 +246,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) ⚠️`Proprietary,TD`-スキャナーアプリ 。
 
 ## 画像関連
-
+- [ReFra](https://github.com/IacobIonut01/ReFra)⭐️ - 写真・動画ギャラリー。写真・動画の閲覧やアルバム管理ができる。写真編集、暗号化Vaultに対応。端末内AIによる画像分類・自然言語検索も使える。SMBやNextCloud、immich等にも対応。ネットワーク権限を持たないOffline版もある。
 - [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases/releases) `Proprietary,TD`- ギャラリーアプリ。アルバムをフォルダごとに分けられる。隠しフォルダ機能あり。  
   32bit非対応のスマートフォンは 10.0α 以上を入れる。
 - [Gallery (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
-- [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) ⭐️- シンプルと多機能を兼ね備えたギャラリーアプリ。
+- [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) - シンプルと多機能を兼ね備えたギャラリーアプリ。
 - [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
 
