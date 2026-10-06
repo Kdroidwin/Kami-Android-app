@@ -55,6 +55,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## 目次
+- [OS](#OS)
 - [動画](#動画)
 - [ファイル関連](#ファイル関連)
 - [音楽](#音楽)
@@ -95,6 +96,15 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [ゲーム関連ツール](#ゲーム関連ツール)
 - [その他ゲーム](#その他ゲーム)
 - [非推奨](#非推奨)
+
+
+## OS
+アプリではいが、単独で紹介するのも憚られたためここで紹介
+
+- [GrapheneOS](https://grapheneos.org/)⭐️ - セキュリティとプライバシーを重視したAndroidベースのOS。アプリごとのネットワーク・センサー・ストレージ・連絡先権限を細かく制御でき、Google Playも通常のアプリと同じサンドボックス内で利用可能。強化されたメモリ保護、自動再起動、Verified Bootやブートローダーの再ロックなどにも対応。
+- [iodéOS](https://iode.tech/iodeos/)⭐️ - LineageOSをベースにした、広告・トラッカー対策重視のAndroid ROM。アプリごとの通信先を監視・遮断できるファイアウォールを搭載し、microGにも対応。Googleサービスへの依存を減らしながら、Pixel、Fairphone、Samsung、Xiaomiなど幅広い端末で利用できる。<citation src="18"></citation>
+- [LineageOS](https://lineageos.org/) - AndroidをベースにしたオープンソースのカスタムOS。メーカー製アプリなどを減らした軽量でクリーンなAndroidを使え、古い端末にも新しいAndroidやセキュリティアップデートを提供。
+- [CalyxOS](https://calyxos.org/) - プライバシーを重視したAndroidベースのオープンソースOS。オプションのmicroGを利用でき、Google Play依存を減らしつつ普段使いしやすい構成。Verified Bootやブートローダーの再ロックにも対応
 
 
 ## 動画
@@ -224,6 +234,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Google Play サービス(GMS)のプッシュ通知が使えない環境で Proton Mail の新着メールを通知したい人向け。
 - [ThunderBird](https://github.com/thunderbird/thunderbird-android/releases) ⭐️`TD` - メールアプリ。
 - [OpenKeychain](https://www.openkeychain.org/) - メールのエンドツーエンド暗号化。
+
+- アプリでなくても良いので、SimpleLoginやAddy.ioなどのメールエイリアスも使うことをおすすめします。
 
 ## 本
 
