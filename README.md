@@ -151,6 +151,18 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `TD`- 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
 
+> [!NOTE]
+> **セキュリティ・プライバシー重視のクラウドストレージ**
+>
+> **Proton Drive** — プライバシーと使いやすさのバランス重視。無料プランでもエンドツーエンド暗号化に対応しています。
+>
+> **Tresorit** — 機密ファイルの利用向け。暗号化に加え、共有やチーム管理の機能も充実しています。
+>
+> **Sync.com** — 個人や小規模チーム向け。暗号化や共有リンクの保護機能を備えています。
+>
+> **MEGA** — 無料容量を重視する人向け。アカウント復旧キーは、安全に保管してください。
+>
+
 ## 音楽
 
 - [OuterTune](https://github.com/DD3Boh/OuterTune) `TD`- InnerTune の強化フォーク。高度なアカウント同期、ローカルメディア再生、複数キュー、新UI。
