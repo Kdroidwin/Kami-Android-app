@@ -148,11 +148,10 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [BitChord](https://github.com/kushagrasinghx/BitChord)`TD`- YouTube Musicの非公式クライアント　AppleMusicのデザインにインスピレーションを得ている。
 - [Metrolist](https://github.com/MetrolistGroup/Metrolist) `TD`- YouTube Musicの非公式クライアント　
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) `TD`- YouTube Music などに対応した音楽プレイヤー。
-- [MusicBeatSP](https://github.com/Kdroidwin/MusicBeatSP) ⭐️`TD`- AppleMusicやMusicoletにインスピレーションを得た音楽再生プレイヤー シンプルかつカスタマイズ性も高い。Powerampなどにも対応しているReplayGainに対応していて、Musicoletにある複数キューに対応した数少ないプレイヤーでもある。
+- [MusicBeatSP](https://github.com/Kdroidwin/MusicBeatSP) ⭐️`TD`- AppleMusicやMusicoletにインスピレーションを得たローカル音楽に焦点をあてたBitChordやMusicBeatのフォーク シンプルかつカスタマイズ性も高い。Powerampなどにも対応しているReplayGainやMusicoletにある複数キューに対応した数少ないプレイヤーでもある。
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary,TD`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US)`Proprietary,TD` - シンプルで使いやすい音楽再生プレイヤー
-- [MusicBeat](https://github.com/SamuelAdmand/MusicBeat) `TD`- ローカル音楽に焦点をあてたBitChordのフォーク
 - [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) `Proprietary,TD`- 上記以外の候補。
 - [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
 - [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
