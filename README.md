@@ -358,6 +358,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - インターネット クイック設定パネルをAndroid11のようにして、Wifiパネルを復活させる。
 - [Data SIM Tile](https://github.com/Mygod/DataSimTile) `TD`- クイック設定パネルにデータSIMへのアクセスを追加
 - [Essentials](https://github.com/sameerasw/essentials) `TD` ⭐️- 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
+- [Everlasting Android Tweak](https://github.com/hari161008/Everlasting-Android-Tweak-New-Repo)`TD` - Androidの操作や見た目をまとめてカスタマイズする多機能ツール。振って懐中電灯を点けるジェスチャー、背面ダブルタップ、クイック設定タイル、ロック画面ウィジェット、音量・振動の調整などを備える。Shizukuを使う機能もある。
 - [Canta](https://github.com/samolego/Canta) ⭐️- システムアプリを簡単に削除。どれをアンインストールすべきかがわかる。
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)`TD`⭐️ - システムアプリの削除、アプリのダウングレード、アプリ毎に音量調整、ADBシェルなどの機能が使える凄いアプリである。
 - [App Ops Permission manager](https://play.google.com/store/apps/details?id=rikka.appops&hl=ja&gl=US) ⚠️`Proprietary,TD`- アプリ権限を管理。複数のメディアアプリで同時に音楽を再生可能にさせることも可能。Microsoft Visual Studio App Center Analytics、Microsoft Visual Studio App Center Crashes のトラッカーがあるので注意（appcenter.msなどのドメイン）。
