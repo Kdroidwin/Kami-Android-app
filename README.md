@@ -275,7 +275,7 @@ Proton系、Bitwarden、Mullvad VPN　など
   32bit非対応のスマートフォンは 10.0α 以上を入れる。
 - [Gallery (by Ionut Iacob)](https://github.com/IacobIonut01/Gallery?tab=readme-ov-file) - モダンなギャラリーアプリ。UIは少し Googleフォト に似ている。
 - [Aves ギャラリー](https://github.com/deckerst/aves?tab=readme-ov-file) - シンプルと多機能を兼ね備えたギャラリーアプリ。
-- [Google フォト Revanced](https://kdroidwin.hatenablog.com/entry/2024/08/24/105240) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
+- [Google フォト Morphe](https://morphe-patches.software/?app=com.google.android.apps.photos#apps) `TD`- 無料で無制限、劣化なしでアップロードできる。GmsCore が必須。
 - [immich](https://github.com/immich-app/immich) - セルフホストの画像・動画バックアップ。Googleフォトの代替として使える。上級者向け。
 
 ## 画像/動画編集
