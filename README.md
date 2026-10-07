@@ -121,6 +121,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Stremio](https://github.com/stremio-native/stremio-android) `TD`- メディアプレーヤー。アドオン経由でストリーミング再生ができる。アドオン追加推奨。Stremioのコア/Addonエコシステムを利用してUIと再生部分を作り直した非公式OSSクライアント
 - [NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) `TD`-映画・ドラマなどの動画をスマホやタブレットで見る。Stremioアドオン対応 NuvioMobile Enhancedというフォークもある。
 - [Debrify](https://github.com/varunsalian/debrify) `TD`- 各種ストリーミングサービス、WebDAV、IPTV、Stremioアドオン、YouTubeなどを一つにまとめて視聴できるクロスプラットフォームのメディアハブ。Real-Debrid、Torbox、Premiumizeなどにも対応し、字幕・再生位置同期・Trakt/Simkl連携も可能
+> [!NOTE]
+> StremioやNuvio関連のアプリを利用するときは、VPNを使いましょう。開示請求のリスクがあります。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` ⭐️- IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
@@ -138,6 +140,8 @@ Proton系、Bitwarden、Mullvad VPN　など
   有料版は広告非表示やテーマ変更が可能。
 - [SuperX Video Downloader](https://github.com/alexch33/super-video-downloader) - FLOSSがいいならこちら。
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - torrentクライアント。OSS。Material You、Android 15対応。
+> [!NOTE]
+> LibreTorrent関連のアプリを利用するときは、VPNを使いましょう。開示請求のリスクがあります。
 - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - qBittorrent(PCソフト)向けのリモートサーバー管理アプリ。導入難易度はそこそこ高い。
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa)`Proprietary,TD` ⚰️- nyaa のアプリ。トラッカー機能あり　開発終了している。
@@ -443,6 +447,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Catima](https://github.com/CatimaLoyalty/Android) - ポイントカード管理アプリ
 スーパー・薬局・カフェの会員カードをスマホにまとめることができる。
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) - FOSS .pkpass ウォレット
+- [Stack Wallet](https://github.com/cypherstack/stack_wallet) `TD` - Bitcoin、Monero、Litecoinなど複数の暗号資産をまとめて管理できる、
 
 ## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
@@ -490,6 +495,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Naiveproxy For Android](https://github.com/Dobiec/NaiveproxyForAndroid) `TD`- Shizukuを使用して naiveproxy を実行する。
 - [Mullvad vpn](https://mullvad.net/ja) 🔍⭐️⭐️- 有料VPN。ポート転送はないので注意。
 - [Air VPN](https://airvpn.org/) `TD`- 有料VPN。ポート転送あり。
+- [ProtonVPN Morphe](https://morphe-patches.software/?app=ch.protonvpn.android#apps) `TD`⭐️ - Android版Proton VPNに非公式パッチを当て、サーバー切り替え待ち時間の削除、カスタムDNSやLAN接続、画面テーマなどを追加・変更するもの。有料サーバーへの接続が無料になるわけではない。
 - [Orbot](https://orbot.app/en/) - Torネットワークのクライアントとして動作し、匿名性の高いTorネットワーク上でのWebブラウジングや電子メール送受信、地図ソフトの使用などを実現する。簡単に言うと、ほとんどのAndroidアプリの通信をTor経由にする。上級者向け。
 - [TorServices](https://f-droid.org/ja/packages/org.torproject.torservices/) - Orbotを拡張。
 - [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) `TD`⭐️- 特定のアプリを通信させないようにする。
