@@ -354,7 +354,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## システム
-- [Shizuku fork by thedjchi](https://github.com/thedjchi/Shizuku) `TD`⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。安全重視でF-Droidからダウンロードしたい方はフォーク元を使うとよい。
+- [Shizuku-Next](https://github.com/rushiranpise/Shizuku-Next) `TD`⭐️⭐️- ADBコマンドやワイヤレスデバッグを用いてシステムAPIにアクセス。Taskerとの連携が可能、起動の自動化強化されたフォーク。安全重視でF-Droidからダウンロードしたい方はフォーク元を使う。
 - [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - インターネット クイック設定パネルをAndroid11のようにして、Wifiパネルを復活させる。
 - [Data SIM Tile](https://github.com/Mygod/DataSimTile) `TD`- クイック設定パネルにデータSIMへのアクセスを追加
 - [Essentials](https://github.com/sameerasw/essentials) `TD` ⭐️- 必須ツール。クイック設定のカスタマイズ、アプリロック、ボタンのリマップ、ステータスバーのアイコン表示制御、アプリ凍結、フラッシュライトの強度調整など。
