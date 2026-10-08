@@ -274,6 +274,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Google Camera Ports](https://www.celsoazevedo.com/files/android/google-camera/) `Proprietary,TD`⭐️- Pixel以外にも使える。優秀な補正が可能。[解説](https://smartasw.com/archives/5492)
 - [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐️`TD` - 写真をスキャンしてデータ化する。
 - [vFlatScan mod](https://forum.mobilism.org/search.php?keywords=vflat&sr=topics&sf=titleonly) ⚠️`Proprietary,TD`-スキャナーアプリ 。
+- [ShutterSoundToggle](https://github.com/soralis0912/ShutterSoundToggle) ️`TD` - 日本などで強制されるカメラのシャッター音を、Shizuku経由でオン・オフするAndroidアプリ。root不要で、Android 13以降に対応。
+
 
 ## 画像関連
 - [ReFra](https://github.com/IacobIonut01/ReFra)⭐️ - 写真・動画ギャラリー。写真・動画の閲覧やアルバム管理ができる。写真編集、暗号化Vaultに対応。端末内AIによる画像分類・自然言語検索も使える。SMBやNextCloud、immich等にも対応。ネットワーク権限を持たないOffline版もある。
