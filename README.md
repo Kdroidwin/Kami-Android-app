@@ -407,6 +407,9 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
 - [Photo math](https://play.google.com/store/apps/details?id=com.microblink.photomath) ⚠️`Proprietary,TD`- 電卓。途中式も教えてくれる。revanced managerからアンロック可能。
 
+> [!NOTE]
+> LLMを使うのも一つの手
+
 ## 時計
 - [Clock](https://github.com/BlackyHawky/Clock) - AOSPベースの時計アプリ。
 - [SilentAlarm](https://github.com/izumisagirii/silent-alarm) `TD`- イヤホン専用のプライベート目覚ましアプリ。有線・Bluetooth・USBイヤホンでアラームを鳴らし、イヤホン未接続時は振動のみやスピーカーへの切り替えにも対応。
