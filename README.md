@@ -389,6 +389,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Extinguish](https://github.com/Moderpach/Extinguish) `TD`- 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
 - [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
 - [DAVx5](https://www.davx5.com/) - カレンダーや連絡先、タスクを同期する
+- [phyphox](https://phyphox.org/) - スマホを物理実験用の測定器にできる。
 
 ## AI
 
