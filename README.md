@@ -146,6 +146,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Unchained](https://github.com/LivingWithHippos/unchained-android) - Real Debrid と連携し、ホスティングサービスなどからダウンロード。
 - [Nyanpasu](https://apkpure.net/nyanpasu/com.zhenxiang.nyaa)`Proprietary,TD` ⚰️- nyaa のアプリ。トラッカー機能あり　開発終了している。
 - [Torrent Search ](https://github.com/prajwalch/TorrentSearch) - 複数のトラッカーサイトからトレントを検索
+- [KensakuDL](https://github.com/hashierholmes/KensakuDL)`TD` - アニメを検索して複数話をまとめてダウンロードし、オフラインで再生できるAndroidアプリ。アプリ内プレーヤーとダウンロードキューを備える。外部サービスから配信元を取得する。
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - yt-dlp のGUI版。動画ダウンローダー。SealPlusよりダウンロード設定が豊富。SponsorBlock対応。
 - [PikPak](https://mypikpak.com/en-US) `Proprietary,TD`⚠️⚠️- 6GBまで無料のオンラインクラウドストレージ。torrentサイトのマグネットリンクからアップロードなしで6GBまでダウンロード可能。フォルダごとのダウンロード使わなければウェブ版で代用可能。TorBoxを試すことも推奨する。
 - [Nextcloud](https://apps.nextcloud.com/apps/android_nextcloud_app) - オープンソースのクラウドストレージおよびファイル共有プラットフォーム。自分のサーバーにインストールして使える。NASを使う手もある。
