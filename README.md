@@ -243,7 +243,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## SMS
 - [QUIK SMS](https://github.com/octoshrimpy/quik) - SMSアプリ。QKSMS のフォーク。
-- [Messages](https://f-droid.org/packages/org.prauga.messages/) ⭐️- 現代風デザインを持つSMS/MMS用メッセージングアプリ。自動でOTPを検出。上記のQuickベース。
+- [Messages](https://f-droid.org/packages/org.prauga.messages/) - 現代風デザインを持つSMS/MMS用メッセージングアプリ。。上記のQuickベース。
+- [Messages](https://github.com/Kdroidwin/Messages)  `TD`⭐️- SMSアプリ リンク非表示＆OTPを検出機能を追加  上記のMessagesベース。
 - [Copy SMS Code - OTP Helper](https://f-droid.org/packages/io.github.jd1378.otphelper/) - 通知を読み取って、通知からOTPとコードを自動的にコピーできる。
 
 ## メール
