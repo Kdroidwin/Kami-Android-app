@@ -478,6 +478,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Vela Maps](https://github.com/PimpinPumpkin/Vela) ⭐️`TD`- Google マップの見た目・便利さを残しつつGoogleマップを、GMS・Googleアカウントなしで使えるようにした、プライバシー重視のGoogleマップ代替アプリ
 - [GMaps WV](https://f-droid.org/en/packages/us.spotco.maps/) ⭐️ - プライバシーに配慮したGoogleマップアプリ。WebViewを利用。
 - [Gmaps A](https://github.com/Kdroidwin/GmapsA) `TD`- Gmaps WV の補助アプリ ウィジェット機能を追加する
+- [Velawi](https://github.com/Kdroidwin/VelaWi) `TD`- Vela Maps の補助アプリ ウィジェット機能を追加する
 - [CoMaps](https://www.comaps.app/download/) - プライバシー重視のマップアプリ　OpenStreetMapベース
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) ⭐️ - プライバシーに配慮したマップアプリ。航空写真対応。
 - [Geo Share](https://f-droid.org/packages/page.ooooo.geoshare/) - 地図リンク（例：Google Maps のURLなど）を他の地図アプリで開いたり、座標をコピーしたりできるツール。マップアプリを2つ以上使っている方におすすめ。
