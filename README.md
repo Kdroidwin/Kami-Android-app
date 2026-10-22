@@ -310,6 +310,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
 - [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularやプライベートスペース、Morpheなどのほうが安全性は高い。
 - [AppManager](https://github.com/MuntashirAkon/AppManager) ⭐️- アプリ管理。権限をONOFF切り替えたりAPKファイルのバックアップ等が可能。APK抽出したいだけなら[kanade](https://github.com/alexrintt/kanade)を使うとよい。
+- [APK-Toolbox](https://github.com/bl3xand/APK-Toolbox)`TD` -アプリの複製、分割APKのインストール・結合をしたりできる。
 
 
 
