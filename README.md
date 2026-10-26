@@ -499,6 +499,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [URLCheck](https://github.com/TrianguloY/URLCheck) - URL を開く前に分析（または共有）できるようにする。フィッシング手法からの保護に役立つ。
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTagを発見し、他人からのトラッカーから身を守る。
 - [Cryptomator](https://cryptomator.org/downloads/)🔍⭐️ - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
+- [VaultExplorer](https://github.com/R0b0To/VaultExplorer) `TD`- VeraCrypt・BitLocker・LUKS・Cryptomatorなどの暗号化された保管庫を開いて、中のファイルを閲覧・暗号化・管理する
 
 ## 通信
 
