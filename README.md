@@ -179,7 +179,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Metrolist](https://github.com/MetrolistGroup/Metrolist) `TD`- YouTube Musicの非公式クライアント　
 - [echo](https://kdroidwin.hatenablog.com/entry/2025/07/30/145603) `TD`- YouTube Music などに対応した音楽プレイヤー。
 - [MusicBeatSP](https://github.com/Kdroidwin/MusicBeatSP) ⭐️`TD`- AppleMusicやMusicoletにインスピレーションを得たローカル音楽に焦点をあてたBitChordやMusicBeatのフォーク シンプルかつカスタマイズ性も高い。Powerampなどにも対応しているReplayGainやMusicoletにある複数キューに対応した数少ないプレイヤーでもある。
-- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) ⭐️`Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
+- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) `Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary,TD`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US)`Proprietary,TD` - シンプルで使いやすい音楽再生プレイヤー
 - [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) `Proprietary,TD`- 上記以外の候補。
@@ -528,6 +528,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Lemuroid](https://github.com/swordfish90/lemuroid) - NES、SNES、GB、GBA、DS、3DS、N64、PSX、PSPなどに対応したエミュレーター。オープンソース。
 - [melonDS](https://github.com/rafaelvcaetano/melonDS-android) `TD`⭐️- DSエミュレーター。オープンソース。
 - [Azahar](https://github.com/azahar-emu/azahar) `TD`- Citraのフォーク。ニンテンドー3DSのゲームが遊べる。アップスケーリングあり。
+- [AzaharPlus](https://github.com/AzaharPlus/AzaharPlus) `TD`- Azaharのフォーク
 - [Eden emulater](https://git.eden-emu.dev/eden-emu/eden) `TD`⭐️- Switchエミュレーター。keys と firmware が必要。
 - [Dolphin emulator](https://ja.dolphin-emu.org/download/) - GC / Wii エミュレーター。
 - [Cemu Android](https://github.com/SSimco/Cemu) `TD`- Wii U エミュレーター。
