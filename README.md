@@ -554,6 +554,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Titanius Launcher](https://github.com/dsolonenko/titanius-launcher) `TD`- ゲームランチャー。
 - [Rotation Control](https://github.com/Charles-3Ready/rotation-control) `TD`- 画面回転制御。強制的に横画面にできる。アプリごとに向きを指定
 - [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`フレーム補間
+- [GameCore](https://github.com/Dreamucxe/GameCore) `TD`- Android向けのゲーム用オーバーレイ・パフォーマンスモニター・ゲーム別プロファイル管理アプリ。CPUやメモリなどの端末情報を表示し、取得できない値は推測せず「利用不可」と明示。Shizukuによる追加操作や、HUD・プラグインにも対応。ゲーム中の通知を管理する機能も対応
 
 ## その他ゲーム
 - [ShogiDroid2](https://sdroid2.siganus.com/) ⚠️`Proprietary,TD`- 将棋アプリ。
