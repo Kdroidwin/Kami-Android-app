@@ -353,7 +353,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Ogesture](https://github.com/tanujnotes/ogesture)`TD` - ジェスチャーアプリ
 - [Side bar screen Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial) ⚠️`Proprietary,TD`- 扇形サブランチャー。
 - [fooview](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) ⚠️⚠️`Proprietary,TD`- コピペや翻訳、フローティングメモでマルチタスクが捗る。開発元が…なのが。
-- [Cebian](https://github.com/qpst4/cebian) `TD`⭐️ - Samsungの「One Hand Operation+」＋Quick Cursor＋FooViewを、ローカル処理でまとめたようなアプリ
+- [XGesture](https://github.com/qpst4/XGesture) `TD`⭐️ - Samsungの「One Hand Operation+」＋Quick Cursor＋FooViewを、ローカル処理でまとめたようなアプリ
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)`TD` - ウィジェット拡張アプリ。Pixel の At a Glance を root なしで拡張できる。
 - [DroidOS](https://github.com/Katsuyamaki/DroidOS) `TD`- スマホをPCのような操作に変える Samsung DeX の代替。既存のAndroid上に、独自のウィンドウ管理レイヤーを被せる。
 - [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) `TD`- スマホをPCのような操作に変える Samsung DeX の代替
