@@ -294,7 +294,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [LightCraft Android](https://github.com/artcraft-android/lightcraft-android)  `TD` - Lightroom風のOSS写真編集・RAW現像アプリ。露出・ホワイトバランス・カラーミキサー・カラーグレーディング・トーンカーブ・プリセット・レンズ補正・ブラシ/線形/円形/輝度/色域マスク・修復/クローン・非破壊編集・JPG/TIFF/AVIF/DNG書き出しに対応。ローカル完結型。Androidネイティブ実装でベータ版。
 - [CalibRaw](https://gitlab.com/uniqx/calibraw)  - GPUアクセラレーション対応のOSS RAW現像アプリ。露出・ホワイトバランス・8バンドカラーミキサー・Point Color・RGB/輝度カーブ・カラーグレーディング・シグモイドトーンマッピング・AI被写体/空/物体マスク・レンズ補正・シャープネス・ノイズ除去・HDR合成・フォーカススタッキングに対応。非破壊編集、ローカルAI処理対応。
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) ⭐️`TD` - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
-- [Photo Editor mod](https://github.com/PatrickAlex2019/PhotoEditor) ⚠️`Proprietary,TD`- UIがわかりやすく多機能な画像編集ソフト。
 - [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) ⭐️`TD` - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
 - [LibreCuts](https://github.com/tharunbirla/LibreCuts) -動画編集アプリ
 
