@@ -298,6 +298,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 > PCを所有しているならGIMPが良い。
 - [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) ⭐️`TD` - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
 - [LibreCuts](https://github.com/tharunbirla/LibreCuts) -動画編集アプリ
+- [FFmpegGUI](https://github.com/marcomorosi06/FFmpegGUI) `TD`- FFmpegのGUI版
 
 ## APK関連
 
