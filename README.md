@@ -295,7 +295,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [CalibRaw](https://gitlab.com/uniqx/calibraw)  - GPUアクセラレーション対応のOSS RAW現像アプリ。露出・ホワイトバランス・8バンドカラーミキサー・Point Color・RGB/輝度カーブ・カラーグレーディング・シグモイドトーンマッピング・AI被写体/空/物体マスク・レンズ補正・シャープネス・ノイズ除去・HDR合成・フォーカススタッキングに対応。非破壊編集、ローカルAI処理対応。
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox) ⭐️`TD` - 画像編集に加えて、圧縮、OCR、PDF変換などができる。
 > [!NOTE]
-> PCを所有しているならGIMPが良い。
+> PCを所有しているならGIMPが良い。後述のTesseraを使うことも考えるべきです。
 - [RealSR -NCNN(RealSR BigImage)](https://github.com/tumuyan/RealSR-NCNN-Android) ⭐️`TD` - Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN、Real-ESRGAN、Anime4KCPP ベース。使い方は難しいが高機能で、ローカルで動く Android 最強クラスのアップスケーラー。
 - [LibreCuts](https://github.com/tharunbirla/LibreCuts) -動画編集アプリ
 - [FFmpegGUI](https://github.com/marcomorosi06/FFmpegGUI) `TD`- FFmpegのGUI版
@@ -500,6 +500,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Aegis](https://github.com/beemdevelopment/Aegis) ⭐️- 2FA（二要素認証）アプリ。セキュリティと使いやすさ、良いUIを兼ねそろえている。他のデバイスと同期したい方は Proton Authenticator やEnte Authを勧める。
 - [URLCheck](https://github.com/TrianguloY/URLCheck) - URL を開く前に分析（または共有）できるようにする。フィッシング手法からの保護に役立つ。
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTagを発見し、他人からのトラッカーから身を守る。
+- [Stay Put](https://codeberg.org/y20k/stayput) - 公共の場所でスマホを充電中、ケーブルが抜かれると大音量のアラームで知らせる盗難抑止アプリ。生体認証または端末の認証情報で解除でき、設定によっては再接続でも解除可能。端末の持ち去りを物理的に防ぐものではない。
 - [Cryptomator](https://cryptomator.org/downloads/)🔍⭐️ - クラウドストレージサービスに保存されているファイルを暗号化するためのオープンソースのソフトウェア。
 - [VaultExplorer](https://github.com/R0b0To/VaultExplorer) `TD`- VeraCrypt・BitLocker・LUKS・Cryptomatorなどの暗号化された保管庫を開いて、中のファイルを閲覧・暗号化・管理する
 
@@ -517,7 +518,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## エミュレーター
-
+- [Tessera](https://github.com/daryan044/tessera-linux) `TD`⭐️⭐️- Android端末上でDebian Linuxを動かし、LinuxのGUIアプリをAndroidアプリのように個別ウィンドウで使えるアプリ。DebianやFlathubからアプリを入れられ、端末のテーマに合わせた表示にも対応。rootなしの利用も可能。
 - [UserLAnd](https://f-droid.org/ja/packages/tech.ula/) - Android上でUbuntu、Debian、Kaliなどの各種Linuxを動かせるアプリ。
 - [Blackbox64](https://github.com/FBlackBox/BlackBox/releases) ⚠️`TD`- Android仮想環境。rootなしでxposed使用可能。
 - [VPhoneOS](https://vphoneos.com/mobile/index/) ⚠️`Proprietary,TD`- Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
