@@ -344,6 +344,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Key Mapper](https://f-droid.org/ja/packages/io.github.sds100.keymapper/)⭐️ - 物理キーにショートカットを割り当てられる。Button Mapperでは有料の部分も無料で使える。
 - [スミレ](https://github.com/KazumaProject/JapaneseKeyboard) ⭐️ - プライバシー、カスタマイズ性を重視したキーボードアプリ。
 - [Bluetooth Remote ](https://gitlab.com/Atharok/BtRemote) -　スマホをAndroidTV用のリモコンに
+- [Tapbar](https://github.com/Earendel-lab/Tapbar) `TD`- ステータスバーや画面上の好きな場所にタップ領域を作り、アプリ起動やクイック操作を割り当てられるアプリ。たとえばステータスバーをタップしてページの先頭・末尾へ移動する操作も設定でき、タップ・ダブルタップ・長押し・スワイプなどに100種類以上の操作を割り当てられる。
 
 
 ## ランチャー関連
