@@ -427,7 +427,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## メモ、記録
 - [tasks](https://github.com/tasks/tasks) ⭐️- ToDOリスト。
 - [anihyou](https://axiel7.github.io/anihyou/) - Anilist 非公式クライアント。アニメや漫画やライトノベルの記録。
-- [VNPockets](https://github.com/Kdroidwin/VNPockets)  `TD`-ノベルゲームの記録
+- [VNSRB](https://github.com/Kdroidwin/VNSRB)  `TD`-ノベルゲームの記録 VNDB対応
 - [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box)  `TD`- ゲーム・映画・アニメ・漫画・本などをまとめて管理するアプリ
 - [YohakuLog](https://github.com/Kdroidwin/YohakuLog/) `TD`- 好きなものを何でも記録。メモ。[記録](https://play.google.com/store/apps/details?id=jp.bondavi.likes.global&hl=ja) の代替
 - [Joplin](https://f-droid.org/ja/packages/net.cozic.joplin/) ⭐️- メモアプリ。Markdownも使える。Dropboxを使ってエンドツーエンド暗号化通信で暗号化しながら同期可能。
