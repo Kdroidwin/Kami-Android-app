@@ -523,6 +523,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [UserLAnd](https://f-droid.org/ja/packages/tech.ula/) - Android上でUbuntu、Debian、Kaliなどの各種Linuxを動かせるアプリ。
 - [Blackbox64](https://github.com/FBlackBox/BlackBox/releases) ⚠️`TD`- Android仮想環境。rootなしでxposed使用可能。
 - [VPhoneOS](https://vphoneos.com/mobile/index/) ⚠️`Proprietary,TD`- Android上で別のAndroidを動かせるAndroidエミュレーター。要rootアプリを使える。要求スペックは高い。32bitアプリも動かせる。
+- [AEmulator](https://github.com/uxazu/AEmulator) `TD`- Android エミュレーター 
 - [Termux（F-Droid ver）](https://f-droid.org/packages/com.termux/) - Linuxを動かせる。SSH接続が可能。Wine（Linux向けWindowsエミュレーター）も使える。revancifyやyt-dlpなども使える。
 - [Winlator](https://github.com/brunodev85/Winlator) `TD`⭐️- AndroidでWindowsソフトウェアを動かす最も簡単な方法（Wine + Box64/Box86系技術の利用）。
 
