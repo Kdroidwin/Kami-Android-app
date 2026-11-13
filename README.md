@@ -223,7 +223,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## SNS
 
-- [Twitter Revanced piko](https://github.com/crimera/twitter-apk)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
+- [Twitter Revanced piko](https://github.com/crimera/piko)⭐️`TD` - Twitterアイコンへ変更、下タブの編集、動画ダウンロード、Twitter feature flags、広告やその他迷惑要素の非表示。
 - [SlimSocial for Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - プライバシーを考慮した軽量なFacebookアプリ。広告ブロック、ダークモード対応。
 - [PixEz flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐️`TD` - Pixiv非公式クライアント。人気順検索、広告ブロック、ユーザーミュート機能あり。UIは公式より良い。
 - [boorusphere](https://github.com/Kropatz/boorusphere) `TD` - Booru系の画像サイトを見るための専用ビューアアプリ
