@@ -400,9 +400,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 ## カレンダー
-- [ジョルテ](https://play.google.com/store/apps/details?id=jp.co.johospace.jorte) `Proprietary,TD`- カレンダーアプリ。シンプルかつ高機能。同期可能
-- [Etar](https://f-droid.org/ja/packages/ws.xsoh.etar/) - FLOSSの超シンプルなカレンダーアプリ。
-- [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐️- カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。
+- [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐️- カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。他にもジョルテ、TaskDav、Golendar等も考慮すると良い。
 
 ## 天気
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐️- OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
