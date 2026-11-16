@@ -114,7 +114,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [YouTube Morphe](https://morphe.software/) ⭐️ `TD`- YouTube Revancedの元貢献者が作成した新たなYouTube非公式アプリ。安定している。広告なし、バックグラウンド再生、PiP、SponsorBlock機能など。非rootユーザーは ReVanced/GmsCore のインストールが必須。
 - [NewTube](https://github.com/aleixrodriala/newtube) `TD`- SmartTubeをベースにした非公式のAndroid向けYouTubeクライアント。UIが公式YouTubeアプリとよく似ている。スマホ・タブレット向けの操作画面に、バックグラウンド再生、ミニプレーヤー、ピクチャーインピクチャー、動画のオフライン保存などを追加。
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)⭐️ - NewPipe のフォーク。アカウントなしでYouTubeやニコニコ、Bilibiliなどが見れる。SponsorBlock機能あり。
-- [nicoid Re](https://github.com/chikuwadon/nicoid-re-patches) `Proprietary,TD` -  現在のニコニコ動画の仕様に対応させたnicoid動画プレイヤー
+- [nicoid Re](https://github.com/chikuwadon/nicoid-re-patches) `TD` -  現在のニコニコ動画の仕様に対応させたnicoid動画プレイヤー
 - [MISSPipe](https://codeberg.org/Kdroidwin/MISSPipe)⭐️ `TD`- MISSAVやPornhub、KiSSJAV ,85poなどを自由に閲覧できる
 - [Tubular Revived](https://github.com/feuerswut/Tubular-Revived) - NewPipe フォーク。SponsorBlock と RYD 対応。
 - [StanDroid](https://github.com/kusamaru/StanDroid)`TD` - たちみどろいどのフォーク。ニコニコ動画を快適に見れるアプリ。広告ブロック機能、バックグラウンド再生。
