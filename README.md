@@ -124,7 +124,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 > [!NOTE]
 > StremioやNuvio関連のアプリを利用するときは、VPNを使いましょう。開示請求のリスクがあります。
 - [Animiru](https://github.com/Quickdesh/Animiru)⭐️`TD` - Aniyomi のフォーク。漫画機能をカットしてUIを改善したもの。Jellyfin も使える。myanimelist等のトラッカーも使用可能。
-- [yuzuno/anime-extensions](https://github.com/yuzono/anime-extensions) Aniyomi,Animiru向けの拡張機能
+- [yuzuno/anime-extensions](https://github.com/yuzono/anime-extensions) `TD` Aniyomi,Animiru向けの拡張機能
+- [Secozzi/anime-extensions](https://github.com/Secozzi/aniyomi-extensions) `TD` Aniyomi向けのJellyfin&TorBox&Stremio拡張機能 
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)`TD` ⭐️- IPTVプレイヤー。M3Uプレイリストを使って世界中のTV番組を再生可能。  
   - [世界中の番組](https://iptv-org.github.io/iptv/index.m3u)  
   - [日本のみ](https://iptv-org.github.io/iptv/countries/jp.m3u)
