@@ -202,7 +202,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Bare Browser](https://github.com/BareBrowser/bare-browser) `TD`- 拡張機能対応したプライバシー重視のブラウザ uBlock Originを標準搭載 バックグラウンド再生対応
 - [berry browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser) `Proprietary,TD`- 候補。
 - [Vivaldi](https://vivaldi.com/android/)  `Proprietary,TD`- カスタマイズ性の高いブラウザ。拡張機能対応。PC版Vivaldiとブックマークなどを同期できる。
-- [ElixirBrowser](https://github.com/SF-FLAM/ElixirBrowser) `Proprietary,TD`- 候補。
 - [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
 - [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid)`TD` - WebViewを利用したブラウザ。広告ブロック可能。
