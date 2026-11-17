@@ -5,6 +5,7 @@
 - [予備のGitFlicリポジトリ](https://gitflic.ru/project/kdroidwin/kami-android-app) - バックアップ
 - [予備のGithubリポジトリ](https://github.com/Kdroidwin/Kami-Android-app) - バックアップ
 - これも追加すべきアプリがあったら教えてください。
+- [Twitter](https://x.com/Kdroidwin1)
 
 - ⭐️⭐️超おすすめ
 - ⭐️　 おすすめ（実用性が高い）
