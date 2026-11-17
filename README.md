@@ -50,7 +50,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 
 # チュートリアル
-- ObtainiumやそのフォークとAurorastoreをインストール
+- ObtainiumかそのフォークとAurorastoreをインストール
 - Shizuku-nextを導入
 
 
@@ -182,7 +182,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) `Proprietary,TD`- シンプルでカスタマイズ性も高い使いやすい音楽再生プレイヤー。設定のバックアップ、曲への画像埋め込み、イヤホンボタンのカスタマイズなどが可能。
 - [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=ja&gl=US) `Proprietary,TD`- カスタマイズ豊富な音楽プレイヤー。Musicolet と人気を二分している。
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US)`Proprietary,TD` - シンプルで使いやすい音楽再生プレイヤー
-- [pulsar](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar) `Proprietary,TD`- 上記以外の候補。
 - [Retro Music](https://f-droid.org/en/packages/code.name.monkey.retromusic/) - 上記以外の候補。
 - [Booming Music](https://github.com/ProjectOrbital/BoomingMusic?tab=readme-ov-file) - 上記以外の候補。
 - [RootlessJamesDSP](https://f-droid.org/ja/packages/me.timschneeberger.rootlessjamesdsp/) - イコライザー。
@@ -261,9 +260,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 本
 
 - [Kahon](https://github.com/AmanoTeam/Kahon) - tachiyomi の後継であるmihonのフォーク。漫画を無料で読めるアプリ。自炊したものやネット上などから漫画を読める。mihonとは異なりプライバシーを重視している。レート制限を無視できる。  
-  TachiyomiSY、aniyomi、Tachidesk(PC向け) などのフォークもある。
+  TachiyomiSY、aniyomiなどのフォークもある。
 - [tachiyomi J2K](https://github.com/Jays2Kings/tachiyomiJ2K) `TD` - tachiyomi フォーク。動的カテゴリー、漫画情報編集、ライブラリでの並び替え、自動移行、ソースごとのカスタムUAなど。
-- [tachiyomi s97](https://github.com/Saud-97/TachiyomiS97) `TD` - tachiyomiJ2K のフォーク。一部機能が追加。
 - [Yōkai](https://github.com/null2264/yokai)⭐️`TD`  - TachiyomiJ2K のフォーク。NSFW/SFW ライブラリフィルターやローカルソースのメタデータ編集も可能。
 - [keiyoushi extensions](https://github.com/keiyoushi/extensions) ⭐️`TD` - tachiyomi / Mihon の拡張機能レポジトリ。
 - [Pupil](https://github.com/tom5079/Pupil) `TD` - hitomi ビューアー。
@@ -308,7 +306,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [APK Explorer&Editor](https://f-droid.org/packages/com.apk.editor/) - アプリを改造できるアプリ。アプリの名前やパッケージ名、アプリ内の表示を変えたり、AndroidManifest.xmlを編集することも可能。
 - [Apktool M](https://t.me/apktool_m) ⚠️`Proprietary,TD`- アプリを改造できるアプリ。Playプロテクトに引っかかるときがあるが、おそらく誤作動。
 - [AntiSplit M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) `TD` - 分割APK（APKS/XAPK/APKM）を単一の通常の.apkに結合し保存。
-- [LSpatch by JingMatrix](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
+- [LSPatch](https://github.com/JingMatrix/LSPatch)⭐️`TD`  - 非root android単体でアプリやapkファイルにxposedをパッチをとして当てれる。確認できているのは disable flag secure / Adblock reborn（一部アプリ） / LIME など。disable flag secureのパッチを当てると漫画アプリやTVerなどでスクショ可能。
 - [NPatch](https://github.com/7723mod/NPatch) ⭐️ `TD` - LSPatchのフォーク。UI変更や高速化、最適化、リファクタリングをしている。
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager) ⭐️`TD` - Revanced patch をあてるためのアプリ。Revancifyのほうが楽かもしれない。
 - [App cloner](https://appcloner.app/) ⚠️`Proprietary,TD`- アプリを複製できる。複垢におすすめ。権限の変更やアプリにパスワード、IMEI変更、fakegps、ファイアウォール、AndroidTV向けアプリに変更など様々なことが可能。Insularやプライベートスペース、Morpheなどのほうが安全性は高い。
