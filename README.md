@@ -210,7 +210,6 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [WebLibre](https://github.com/FaFre/WebLibre) ⭐️- 候補。
 - [Feeder](https://github.com/spacecowboy/Feeder) ⭐️- RSSリーダー。全文表示が可能。ブロックリスト対応。
 - [Native Alpha](https://github.com/cylonid/NativeAlphaForAndroid)`TD` - WebViewを利用したブラウザ。広告ブロック可能。
-- [Web Search Customizer](https://play.google.com/store/apps/details?id=com.brouken.websearch) `Proprietary,TD`- chmate のコピー画面下の検索ボタンや Amazon アプリのウェブ検索を好きなブラウザに変えられる。Firefox系ユーザーは不要。
 - [Select Text to Search](https://f-droid.org/ja/packages/me.zhanghai.android.textselectionwebsearch/) - Androidのテキスト選択メニューにウェブ検索を追加する。
 
 ## 5ch
