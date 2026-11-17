@@ -53,6 +53,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 # チュートリアル
 - ObtainiumかそのフォークとAurorastoreをインストール
 - Shizuku-nextを導入
+- IronFoxやTitaniumを導入
+- Mixplorerなどのファイラーアプリを導入
 
 
 
