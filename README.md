@@ -582,7 +582,10 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Arc Launcher](https://github.com/meddouribadis/arclauncher/)⭐️`TD`-ランチャー
 
 ## 有料
-- 1DM+
+
+- AdGuard
+- VPN系
+-  1DM+
 - Poweramp
 - Nova lancher prime
 - FolderSyncPro
