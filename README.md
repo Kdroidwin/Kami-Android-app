@@ -581,6 +581,16 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader)⚠️⭐️`Proprietary,TD` - APKファイル等をダウンロードするために使うJavascriptをオフにすれば快適に　ADBを用いたインストールをする方は不要
 - [Arc Launcher](https://github.com/meddouribadis/arclauncher/)⭐️`TD`-ランチャー
 
+## 有料
+- 1DM+
+- Poweramp
+- Nova lancher prime
+- FolderSyncPro
+- Cryptomator
+- KWGT Kustom Widget Pro Key
+- KLWP Live Wallpaper Pro Key
+- Tasker
+
 
 ## 非推奨
 - Videoder ⚠️`Proprietary,TD`
