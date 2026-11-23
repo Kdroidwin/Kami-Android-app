@@ -461,6 +461,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 スーパー・薬局・カフェの会員カードをスマホにまとめることができる。
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) - FOSS .pkpass ウォレット
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) `TD` - Bitcoin、Monero、Litecoinなど複数の暗号資産をまとめて管理できる、
+- [Cake Wallet](https://github.com/cake-tech/cake_wallet) `TD` - Monero（XMR）やBitcoin（BTC）などの暗号資産を保管・送受信・交換できるウォレットアプリ 
 
 ## 翻訳
 - [Translate You](https://github.com/you-apps/TranslateYou) - プライバシーに配慮した翻訳アプリ。写真から文字起こし可能だが、そこまで精度は高くない。
