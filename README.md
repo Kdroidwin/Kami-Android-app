@@ -437,6 +437,11 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [PinIt](https://github.com/hawatri/PinIt) `TD`- メモ、チェックリスト、リンク、画像などを保存し、通知欄やホーム画面に常駐させられるAndroid向けメモアプリ。
 - [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - バーコードから、食品・化粧品・ペットフード・本・音楽CDなどの情報を検索
 
+## イラスト
+
+- [Krita](https://krita.org/en/download/) `TD` - オープンソースの本格ペイントアプリ。豊富なブラシエンジン、レイヤー、マスク、手ブレ補正、アニメーション機能などを備え、イラスト、漫画、厚塗り、コンセプトアートなど幅広い制作に対応。Android版も提供されており、タブレットでの本格的なイラスト制作にも使える。
+
+
 ## 健康
 
 - [OpenVitals](https://codeberg.org/OpenVitals/mobile-app) `TD` - Health Connectの健康データをまとめて管理できる。歩数、睡眠、心拍、HRV、血圧、血糖、体重、SpO₂、ワークアウト、栄養などに対応。
