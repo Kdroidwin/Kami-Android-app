@@ -163,6 +163,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Folder Sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) `Proprietary,TD`- ファイル同期アプリ。フォルダを定期的にSDカードやクラウドへコピーできる。MiXplorerの自動タスクから似たようなことができるため、必須ではない。
 - [Syncthing-fork](https://github.com/researchxxl/syncthing-android) - オープンソースのファイル同期アプリ。クラウド不要。完全無料・無制限。
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) `TD`- 不要なデータやゴミファイルを見つけて削除し、キャッシュや残存ファイルを整理するシステムクリーナー。
+- [FilePipe](https://github.com/bikram-agarwal/FilePipe) -ファイルを自動整理
 
 > [!NOTE]
 > **セキュリティ・プライバシー重視のクラウドストレージ**
