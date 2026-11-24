@@ -406,6 +406,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## 天気
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐️- OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
+- [Expressive Weather](https://github.com/nemy-new/Expressive-Weather/) `TD`- 気象庁のデータ等を利用した高精度気象レーダーを備えている。Material 3 Expressive デザイン
 
 ## 電卓
 - [Opencalc](https://f-droid.org/ja/packages/com.darkempire78.opencalculator/) - シンプルな電卓。あのアプリのようにFacebookいいねボタンがないので良い。
