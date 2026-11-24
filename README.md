@@ -111,6 +111,10 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [iodéOS](https://iode.tech/iodeos/)⭐️ - LineageOSをベースにした、広告・トラッカー対策重視のAndroid ROM。アプリごとの通信先を監視・遮断できるファイアウォールを搭載し、microGにも対応。Googleサービスへの依存を減らしながら、Pixel、Fairphone、Samsung、Xiaomiなど幅広い端末で利用できる。<citation src="18"></citation>
 - [LineageOS](https://lineageos.org/) - AndroidをベースにしたオープンソースのカスタムOS。メーカー製アプリなどを減らした軽量でクリーンなAndroidを使え、古い端末にも新しいAndroidやセキュリティアップデートを提供。
 - [CalyxOS](https://calyxos.org/) - プライバシーを重視したAndroidベースのオープンソースOS。オプションのmicroGを利用でき、Google Play依存を減らしつつ普段使いしやすい構成。Verified Bootやブートローダーの再ロックにも対応
+- [crDroid](https://crdroid.net/) - LineageOSベースの機能豊富でカスタマイズ性が高いROM。ステータスバー、クイック設定、ロック画面、ナビゲーションなどの詳細な調整が可能で、ゲームモードやスマート充電などの実用的機能も搭載。 
+- [Evolution X](https://evolution-x.org/) - Google PixelのUIをベースに、強力なカスタマイズ機能を盛り込んだROM。Pixelのような洗練された外見を維持しつつ、テーマやジェスチャー、システム動作などを詳細に自分好みに変更できる。 
+- [Paranoid Android](https://paranoidandroid.io/) - 独自機能と洗練されたUIカスタマイズに定評があるROM。安定性を維持しつつ、標準のAndroidにはない便利な機能や見た目の変更オプションを提供。 
+
 
 
 ## 動画
