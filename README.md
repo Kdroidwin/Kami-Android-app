@@ -617,6 +617,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 - BuzzKill
 - MiXplorer Silver
 - UpNote
+- オービスガイド
+- ICカードこれひとつ
 
 
 ## 非推奨
