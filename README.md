@@ -591,7 +591,9 @@ Proton系、Bitwarden、Mullvad VPN　など
 ## 有料
 
 - AdGuard
-- VPN系
+- VPN系✨️
+- SimpleLogin✨️
+- SMSpool✨️
 -  1DM+
 - Poweramp
 - Nova lancher prime
