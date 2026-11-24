@@ -531,7 +531,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [ProtonVPN Morphe](https://morphe-patches.software/?app=ch.protonvpn.android#apps) `TD`⭐️ - Android版Proton VPNに非公式パッチを当て、サーバー切り替え待ち時間の削除、カスタムDNSやLAN接続、画面テーマなどを追加・変更するもの。BitTorrentなどのP2P有料サーバーへの接続が無料になるわけではない。
 - [Orbot](https://orbot.app/en/) - Torネットワークのクライアントとして動作し、匿名性の高いTorネットワーク上でのWebブラウジングや電子メール送受信、地図ソフトの使用などを実現する。簡単に言うと、ほとんどのAndroidアプリの通信をTor経由にする。上級者向け。
 - [TorServices](https://f-droid.org/ja/packages/org.torproject.torservices/) - Orbotを拡張。
-- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) `TD`⭐️- 特定のアプリを通信させないようにする。
+- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ⭐️- 特定のアプリを通信させないようにする。
 
 
 ## エミュレーター
