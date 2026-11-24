@@ -323,6 +323,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Aurora store](https://f-droid.org/ja/packages/com.aurora.store/) ⭐️⭐️- Playストア代替。Googleアカウントなしでも使える。
 - [Obtainium](https://github.com/ImranR98/Obtainium) ⭐️⭐️- アプリをGithubやF-Droidなどから取得して更新。似たアプリにApkupdaterなどがある。
 - [ObtainX](https://github.com/bikram-agarwal/ObtainX)⭐️⭐️- APKMirror更新対応やVirusTotal対応、UI刷新など対応したObtainiumのフォーク
+- [OrionStore](https://github.com/RookieEnough/Orion-Store) `TD`- アプリ探しに使える
 
 
 
@@ -392,6 +393,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Gadgetbridge](https://gadgetbridge.org/) - ベンダーアプリ(Sony Sound Connectなど)を必要とせずに、スマートウォッチ、ヘッドフォン、イヤホンなどのさまざまなガジェットをペアリングして管理できる、無料のオープンソースアプリ。
 - [Extinguish](https://github.com/Moderpach/Extinguish) `TD`- 端末で画面がオフの状態でも他のアプリを動かし続けるためのアプリ。
 - [Hail](https://f-droid.org/packages/com.aistra.hail/) - アプリの停止・サスペンドを柔軟に実行できる。バックグラウンドで不要に動き続けるアプリを効率よく制御し、バッテリー消費やリソース使用を抑える。Greenifyなどと似ているがこちらの方が最新OS向けで高機能かつ高性能。
+- [NoMoreBackground](https://github.com/adil192/no_more_background) - アプリのバックグラウンド管理
 - [DAVx5](https://www.davx5.com/) - カレンダーや連絡先、タスクを同期する
 - [phyphox](https://phyphox.org/) - スマホを物理実験用の測定器にできる。
 
@@ -569,6 +571,7 @@ Proton系、Bitwarden、Mullvad VPN　など
 - [Rotation Control](https://github.com/Charles-3Ready/rotation-control) `TD`- 画面回転制御。強制的に横画面にできる。アプリごとに向きを指定
 - [LSFG-Android ](https://github.com/FrankBarretta/LSFG-Android) `TD`フレーム補間
 - [GameCore](https://github.com/Dreamucxe/GameCore) `TD`- Android向けのゲーム用オーバーレイ・パフォーマンスモニター・ゲーム別プロファイル管理アプリ。CPUやメモリなどの端末情報を表示し、取得できない値は推測せず「利用不可」と明示。Shizukuによる追加操作や、HUD・プラグインにも対応。ゲーム中の通知を管理する機能も対応
+- [AutoCLiKD](https://github.com/Kdroidwin/AutoCLiKD) `TD`- 自動連打アプリ
 
 ## その他ゲーム
 - [ShogiDroid2](https://sdroid2.siganus.com/) ⚠️`Proprietary,TD`- 将棋アプリ。
