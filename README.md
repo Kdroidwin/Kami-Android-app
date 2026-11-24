@@ -403,6 +403,8 @@ Proton系、Bitwarden、Mullvad VPN　など
 
 ## カレンダー
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐️- カスタマイズ性高めでよりモダンで機能豊富なUIを備えたカレンダーアプリ。ウィジェットも優秀。他にもジョルテ、TaskDav、Golendar等も考慮すると良い。
+- [Tuta Calendar](https://f-droid.org/packages/de.tutao.calendar/) ⭐️- Tutaの暗号化カレンダー
+- [Proton Caldener](https://protonapps.com/protoncalendar-android) `TD`- Proton社のカレンダー
 
 ## 天気
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐️- OSSでデザインが美しい天気アプリ。F-Droid版では気象庁のデータが使えない。
