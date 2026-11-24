@@ -607,12 +607,16 @@ Proton系、Bitwarden、Mullvad VPN　など
 - SMSpool✨️
 -  1DM+
 - Poweramp
+- Musicolet
 - Nova lancher prime
 - FolderSyncPro
 - Cryptomator
 - KWGT Kustom Widget Pro Key
 - KLWP Live Wallpaper Pro Key
 - Tasker
+- BuzzKill
+- MiXplorer Silver
+- UpNote
 
 
 ## 非推奨
